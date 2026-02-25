@@ -1,0 +1,245 @@
+# Serving Qwen-2.5-7B-Instruct Locally with vLLM
+
+This guide explains how to serve Qwen-2.5-7B-Instruct (or other models) locally using vLLM as an alternative to using DashScope or Together AI APIs.
+
+---
+
+## Prerequisites
+
+1. **GPU**: At least one NVIDIA GPU with sufficient VRAM (recommended: 16GB+ for 7B models)
+2. **vLLM installed**: Should already be installed if you ran `bash setup.sh`
+3. **Model access**: Ensure you have access to download models from HuggingFace
+
+---
+
+## Step 1: Create a Serving Script
+
+We recommend using the format from `tests/exp/serve_vllm.sh`. Create a new script for serving the Qwen model:
+
+**Create `scripts/serve_vllm_qwen.sh`:**
+
+```bash
+#!/bin/bash
+
+# ===========================================================================
+# Script: serve_vllm_qwen.sh
+# Description:
+#   Launch Qwen-2.5-7B-Instruct using vLLM
+#   - Uses GPU 0
+#   - tensor-parallel-size=1
+#   - Port 8001 (different from planner model on port 8000)
+# ===========================================================================
+
+MODEL="Qwen/Qwen2.5-7B-Instruct"
+GPU="0"
+PORT=8001
+TP=1
+SERVED_MODEL_NAME="Qwen2.5-7B-Instruct"
+
+VENV_ACTIVATE="source .venv/bin/activate"
+
+echo "Launching model: $MODEL"
+echo "  Served Model Name: $SERVED_MODEL_NAME"
+echo "  Port: $PORT"
+echo "  GPU: $GPU"
+echo "  Tensor Parallel Size: $TP"
+
+CMD_START="
+    $VENV_ACTIVATE;
+    export CUDA_VISIBLE_DEVICES=$GPU;
+    echo '--- Starting $MODEL on port $PORT with TP=$TP ---';
+    echo 'CUDA_VISIBLE_DEVICES=\$CUDA_VISIBLE_DEVICES';
+    echo 'Current virtual env: \$(python -c \"import sys; print(sys.prefix)\")';
+    vllm serve \"$MODEL\" \
+        --served-model-name \"$SERVED_MODEL_NAME\" \
+        --host 0.0.0.0 \
+        --port $PORT \
+        --tensor-parallel-size $TP
+"
+
+echo "Running command:"
+eval "$CMD_START"
+```
+
+**Make it executable:**
+```bash
+chmod +x scripts/serve_vllm_qwen.sh
+```
+
+---
+
+## Step 2: Launch the vLLM Server
+
+Run the script to start serving the model:
+
+```bash
+bash scripts/serve_vllm_qwen.sh
+```
+
+**Monitor the server:**
+- Stop the server: Press `Ctrl+C`
+
+**Wait for the model to load** - you should see messages like:
+```
+INFO: Started server process
+INFO: Waiting for application startup.
+INFO: Application startup complete.
+```
+
+---
+
+## Step 3: Test the vLLM Server
+Example for Qwen-2.5-7B-Instruct served on port 8001
+### Option 1: Quick Test with curl
+
+```bash
+curl http://localhost:8001/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "messages": [
+      {"role": "user", "content": "What is the capital of France?"}
+    ],
+    "temperature": 0.7
+  }'
+```
+
+### Option 2: Test with Eubiota's Test Script
+
+Use the existing test script [`tests/exp/serve_vllm.sh`](../../tests/exp/serve_vllm.sh). First, edit the script to configure your local server:
+
+```python
+# In scientist/scripts/test_vllm.py, modify lines 7-8:
+llm = ChatVLLM(
+    model_string="Qwen/Qwen2.5-7B-Instruct",  # Replace YOUR_LOCAL_MODEL_NAME
+    base_url="http://localhost:8001/v1/",     # Replace YOUR_PORT with 8001
+    use_cache=False,
+    system_prompt="You are a helpful AI assistant."
+)
+```
+
+**Run the test:**
+```bash
+python scientist/scripts/test_vllm.py
+```
+
+**Expected output:**
+```
+Starting vLLM Connection and Generation Tests...
+
+--- Testing Text Generation ---
+
+--- Test Prompt ---
+[The test prompt will be displayed here]
+
+--- Generated Response ---
+[Model response will be displayed here]
+
+--- Test Passed ---
+
+All selected tests completed.
+```
+
+If you see `--- Test Passed ---` and a valid response from the model, your vLLM setup is working correctly!
+
+---
+
+## Step 4: Configure Eubiota to Use Local vLLM
+
+### Method 1: Modify the LLM Engine in Code
+
+Edit `scientist/base_agent/planner.py` (line 19) to use your local vLLM server:
+
+```python
+self.llm_engine_fixed = create_llm_engine(
+    model_string="vllm-Qwen/Qwen2.5-7B-Instruct",
+    base_url="http://localhost:8001/v1/",
+    is_multimodal=False,
+    temperature=temperature
+)
+```
+
+### Method 2: Using Environment Variables (if supported)
+
+Some configurations may support environment variables. Check your specific setup.
+
+---
+
+## Common Issues & Troubleshooting
+
+### Issue 1: Port Already in Use
+**Error:** `Address already in use`
+
+**Solution:** Change the port in `serve_vllm_qwen.sh`:
+```bash
+PORT=8002  # Use a different port
+```
+
+### Issue 2: Out of Memory (OOM)
+**Error:** `CUDA out of memory`
+
+**Solutions:**
+1. Use a smaller model (e.g., Qwen2.5-3B-Instruct)
+2. Enable quantization (add `--quantization awq` or `--quantization gptq` to vllm serve)
+3. Reduce max model length: `--max-model-len 4096`
+
+### Issue 3: Model Download Fails
+**Error:** Cannot download model from HuggingFace
+
+**Solution:** Set HuggingFace cache and token:
+```bash
+export HF_HOME=/path/to/cache
+export HF_TOKEN=your_huggingface_token  # If accessing gated models
+```
+
+### Issue 4: Connection Refused
+**Error:** `Connection refused` when testing
+
+**Solution:**
+1. Check if server is running works
+2. View server logs in the terminal
+3. Verify port: `curl http://localhost:8001/health`
+
+---
+
+## Advanced Configuration
+
+### Using Multiple GPUs
+
+For larger models or faster inference, use tensor parallelism:
+
+```bash
+# In serve_vllm_qwen.sh
+GPU="0,1"  # Use GPU 0 and 1
+TP=2       # Tensor parallel size
+```
+
+### Serving Multiple Models Simultaneously
+
+You can serve different models on different ports:
+- Port 8000: Eubiota-8B (planner agent)
+- Port 8001: Qwen2.5-7B-Instruct (executor, verifier, generator agents)
+
+Just make sure to configure the correct `base_url` for each agent.
+
+---
+
+## Resource Requirements
+
+| Model Size | Minimum VRAM | Recommended VRAM | Tensor Parallel |
+|------------|--------------|------------------|-----------------|
+| 7B (FP16)  | 14 GB        | 16 GB+           | 1 GPU           |
+| 7B (INT8)  | 8 GB         | 12 GB+           | 1 GPU           |
+| 7B (INT4)  | 4 GB         | 8 GB+            | 1 GPU           |
+| 72B (FP16) | 144 GB       | 160 GB+          | 2-4 GPUs        |
+
+---
+
+## Summary
+
+1. **Create serving script** based on `scripts/serve_vllm.sh`
+2. **Launch vLLM server** with `bash scripts/serve_vllm_qwen.sh`
+3. **Test the server** using the provided test script
+4. **Configure vLLM engine** to use `vllm-<model-name>` with local `base_url`
+
+This setup gives you full control over the model and avoids API rate limits and costs!

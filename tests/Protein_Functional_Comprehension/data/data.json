@@ -1,0 +1,1106 @@
+[
+    {
+        "annot_id": 0,
+        "pid": "0",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Linoleate 10-hydratase' found in Lactiplantibacillus plantarum?\nA. This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.\nB. This enzyme catalyzes the committed step in the biosynthesis of acidic phospholipids known by the common names phophatidylglycerols and cardiolipins.\nC. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nD. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines.\nE. This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.",
+        "choices": {
+            "A": "This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.",
+            "B": "This enzyme catalyzes the committed step in the biosynthesis of acidic phospholipids known by the common names phophatidylglycerols and cardiolipins.",
+            "C": "This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.",
+            "D": "This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines.",
+            "E": "This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid."
+        },
+        "raw_answer": "This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.",
+        "answer": "E. This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.",
+        "answer_idx": 4,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Linoleate 10-hydratase' found in Lactiplantibacillus plantarum?\nA. This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.\nB. This enzyme catalyzes the committed step in the biosynthesis of acidic phospholipids known by the common names phophatidylglycerols and cardiolipins.\nC. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nD. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines.\nE. This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.",
+        "meta_info": {
+            "source_row": 169,
+            "protein_id": "P0170",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 1,
+        "pid": "1",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'D-psicose 3-epimerase' found in Ruminiclostridium cellulolyticum?\nA. This enzyme is enzyme I of the phosphotransferase system, and it acts only on histidine residues in specific phosphocarrier proteins of low molecular mass (9.5 kDa) involved in bacterial sugar transport.\nB. This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.\nC. Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.\nD. This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).\nE. This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.",
+        "choices": {
+            "A": "This enzyme is enzyme I of the phosphotransferase system, and it acts only on histidine residues in specific phosphocarrier proteins of low molecular mass (9.5 kDa) involved in bacterial sugar transport.",
+            "B": "This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.",
+            "C": "Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.",
+            "D": "This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).",
+            "E": "This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose."
+        },
+        "raw_answer": "This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.",
+        "answer": "E. This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.",
+        "answer_idx": 4,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'D-psicose 3-epimerase' found in Ruminiclostridium cellulolyticum?\nA. This enzyme is enzyme I of the phosphotransferase system, and it acts only on histidine residues in specific phosphocarrier proteins of low molecular mass (9.5 kDa) involved in bacterial sugar transport.\nB. This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.\nC. Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.\nD. This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).\nE. This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.",
+        "meta_info": {
+            "source_row": 60,
+            "protein_id": "P0061",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 2,
+        "pid": "2",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'L-fucose isomerase' found in Raoultella planticola?\nA. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nB. This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.\nC. This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.\nD. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nE. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "choices": {
+            "A": "This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.",
+            "B": "This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.",
+            "C": "This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.",
+            "D": "This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.",
+            "E": "This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase."
+        },
+        "raw_answer": "This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.",
+        "answer": "D. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'L-fucose isomerase' found in Raoultella planticola?\nA. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nB. This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.\nC. This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.\nD. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nE. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "meta_info": {
+            "source_row": 73,
+            "protein_id": "P0074",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 3,
+        "pid": "3",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Phospholipase C' found in Clostridium novyi?\nA. This enzyme contains FMN and can utilize NADH and NADPH with similar reaction rates. It also reduces riboflavin and FAD, but more slowly.\nB. This enzyme is a flavoprotein (FAD) requiring thiamine diphosphate. Two reducing equivalents are transferred from the resonant carbanion/enamine forms of 2-hydroxyethyl-thiamine-diphosphate to the adjacent flavin cofactor, yielding 2-acetyl-thiamine diphosphate (AcThDP) and reduced flavin.\nC. This enzyme catalyzes the conversion of lactate to pyruvate, and it also oxidizes other (S)-2-hydroxymonocarboxylic acids.\nD. This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.\nE. This enzyme catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man). It can also epimerizes cellotriose to Glc-Glc-Man, cellotetraose to Glc-Glc-Glc-Man, and lactose to epilactose.",
+        "choices": {
+            "A": "This enzyme contains FMN and can utilize NADH and NADPH with similar reaction rates. It also reduces riboflavin and FAD, but more slowly.",
+            "B": "This enzyme is a flavoprotein (FAD) requiring thiamine diphosphate. Two reducing equivalents are transferred from the resonant carbanion/enamine forms of 2-hydroxyethyl-thiamine-diphosphate to the adjacent flavin cofactor, yielding 2-acetyl-thiamine diphosphate (AcThDP) and reduced flavin.",
+            "C": "This enzyme catalyzes the conversion of lactate to pyruvate, and it also oxidizes other (S)-2-hydroxymonocarboxylic acids.",
+            "D": "This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.",
+            "E": "This enzyme catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man). It can also epimerizes cellotriose to Glc-Glc-Man, cellotetraose to Glc-Glc-Glc-Man, and lactose to epilactose."
+        },
+        "raw_answer": "This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.",
+        "answer": "D. This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Phospholipase C' found in Clostridium novyi?\nA. This enzyme contains FMN and can utilize NADH and NADPH with similar reaction rates. It also reduces riboflavin and FAD, but more slowly.\nB. This enzyme is a flavoprotein (FAD) requiring thiamine diphosphate. Two reducing equivalents are transferred from the resonant carbanion/enamine forms of 2-hydroxyethyl-thiamine-diphosphate to the adjacent flavin cofactor, yielding 2-acetyl-thiamine diphosphate (AcThDP) and reduced flavin.\nC. This enzyme catalyzes the conversion of lactate to pyruvate, and it also oxidizes other (S)-2-hydroxymonocarboxylic acids.\nD. This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.\nE. This enzyme catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man). It can also epimerizes cellotriose to Glc-Glc-Man, cellotetraose to Glc-Glc-Glc-Man, and lactose to epilactose.",
+        "meta_info": {
+            "source_row": 318,
+            "protein_id": "P0319",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 4,
+        "pid": "4",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 MEG' found in Bacillus megaterium?\nA. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.\nB. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "choices": {
+            "A": "This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.",
+            "B": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+            "C": "This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+            "D": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+            "E": "This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase."
+        },
+        "raw_answer": "This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+        "answer": "C. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 MEG' found in Bacillus megaterium?\nA. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.\nB. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "meta_info": {
+            "source_row": 410,
+            "protein_id": "P0411",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 5,
+        "pid": "5",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Clostridium leptum?\nA. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nB. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.\nC. This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.\nD. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nE. This enzyme is involved in the conversion of folates to polyglutamate derivatives, and likely functions in the retention of cellular folate pools. It catalyzes successive MgATP-dependent additions of glutamate to a pteroylmonoglutamate substrate, with a high preference for 5,10-methylenetetrahydrofolate (mTHF). Thus, it metabolizes mTHF to the tetraglutamate derivative, but longer glutamate chain length products are not observed.",
+        "choices": {
+            "A": "This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.",
+            "B": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+            "C": "This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.",
+            "D": "This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.",
+            "E": "This enzyme is involved in the conversion of folates to polyglutamate derivatives, and likely functions in the retention of cellular folate pools. It catalyzes successive MgATP-dependent additions of glutamate to a pteroylmonoglutamate substrate, with a high preference for 5,10-methylenetetrahydrofolate (mTHF). Thus, it metabolizes mTHF to the tetraglutamate derivative, but longer glutamate chain length products are not observed."
+        },
+        "raw_answer": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer": "B. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Clostridium leptum?\nA. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nB. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.\nC. This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.\nD. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nE. This enzyme is involved in the conversion of folates to polyglutamate derivatives, and likely functions in the retention of cellular folate pools. It catalyzes successive MgATP-dependent additions of glutamate to a pteroylmonoglutamate substrate, with a high preference for 5,10-methylenetetrahydrofolate (mTHF). Thus, it metabolizes mTHF to the tetraglutamate derivative, but longer glutamate chain length products are not observed.",
+        "meta_info": {
+            "source_row": 321,
+            "protein_id": "P0322",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 6,
+        "pid": "6",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Glycerol/diol dehydratase' found in Anaerobutyricum hallii?\nA. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.\nB. This enzyme hydrolyzes beta-lactam with a substrate specificity for penicillin.\nC. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.\nD. This enzyme catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP), the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle.\nE. This enzyme is the most clinically important aminoglycoside-modifying enzyme in Gram-positive bacteria, responsible for high-level resistance in both Enterococci and Staphylococci. And this bacterial enzyme phosphorylates many 4,6-disubstituted aminoglycoside antibiotics that have a hydroxyl group at position 2'', including kanamycin A, kanamycin B, tobramycin, dibekacin, arbekacin, amikacin, gentamicin C, sisomicin and netilmicin.",
+        "choices": {
+            "A": "This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+            "B": "This enzyme hydrolyzes beta-lactam with a substrate specificity for penicillin.",
+            "C": "This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+            "D": "This enzyme catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP), the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle.",
+            "E": "This enzyme is the most clinically important aminoglycoside-modifying enzyme in Gram-positive bacteria, responsible for high-level resistance in both Enterococci and Staphylococci. And this bacterial enzyme phosphorylates many 4,6-disubstituted aminoglycoside antibiotics that have a hydroxyl group at position 2'', including kanamycin A, kanamycin B, tobramycin, dibekacin, arbekacin, amikacin, gentamicin C, sisomicin and netilmicin."
+        },
+        "raw_answer": "This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "answer": "C. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Glycerol/diol dehydratase' found in Anaerobutyricum hallii?\nA. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.\nB. This enzyme hydrolyzes beta-lactam with a substrate specificity for penicillin.\nC. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.\nD. This enzyme catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP), the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle.\nE. This enzyme is the most clinically important aminoglycoside-modifying enzyme in Gram-positive bacteria, responsible for high-level resistance in both Enterococci and Staphylococci. And this bacterial enzyme phosphorylates many 4,6-disubstituted aminoglycoside antibiotics that have a hydroxyl group at position 2'', including kanamycin A, kanamycin B, tobramycin, dibekacin, arbekacin, amikacin, gentamicin C, sisomicin and netilmicin.",
+        "meta_info": {
+            "source_row": 419,
+            "protein_id": "P0420",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 7,
+        "pid": "7",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 101D2' found in Novosphingobium aromaticivorans?\nA. This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nD. This enzyme acts on canavanine.\nE. This enzyme is required for high-level resistance to glycopeptide antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produces a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin or teicoplanin binding.",
+        "choices": {
+            "A": "This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.",
+            "B": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+            "C": "This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.",
+            "D": "This enzyme acts on canavanine.",
+            "E": "This enzyme is required for high-level resistance to glycopeptide antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produces a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin or teicoplanin binding."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+        "answer": "B. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 101D2' found in Novosphingobium aromaticivorans?\nA. This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nD. This enzyme acts on canavanine.\nE. This enzyme is required for high-level resistance to glycopeptide antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produces a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin or teicoplanin binding.",
+        "meta_info": {
+            "source_row": 122,
+            "protein_id": "P0123",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 8,
+        "pid": "8",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 142A1' found in Mycobacterium tuberculosis?\nA. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nB. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nE. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "choices": {
+            "A": "This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+            "B": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+            "C": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+            "D": "This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.",
+            "E": "This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond."
+        },
+        "raw_answer": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+        "answer": "B. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 142A1' found in Mycobacterium tuberculosis?\nA. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nB. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nE. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "meta_info": {
+            "source_row": 132,
+            "protein_id": "P0133",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 9,
+        "pid": "9",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronoglucosaminidase' found in Treponema vincentii?\nA. Catalyzes the coenzyme A-dependent acetylation of the 2' hydroxyl or amino group of a broad spectrum of aminoglycosides. It confers resistance to aminoglycosides.\nB. This enzyme hydrolyzes 1,4-beta-D-glycosidic linkages between N-acetyl-galactosamine or N-acetylgalactosamine sulfate and glucuronic acid in chondroitin, chondroitin 4- and 6-sulfates, and dermatan.\nC. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nD. This enzyme is a cytochrome P-450 (heme-thiolate) protein.\nE. This enzyme is involved with UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---L-lysine ligase (EC 6.3.2.7) or UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---2,6-diaminopimelate ligase (EC 6.3.2.13), UDP-N-acetylmuramate---L-alanine ligase (EC 6.3.2.8), UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase (EC 6.3.2.9) and UDP-N-acetylmuramoyl-tripeptide---D-alanyl-D-alanine ligase (EC 6.3.2.10) in the synthesis of a cell-wall peptide.",
+        "choices": {
+            "A": "Catalyzes the coenzyme A-dependent acetylation of the 2' hydroxyl or amino group of a broad spectrum of aminoglycosides. It confers resistance to aminoglycosides.",
+            "B": "This enzyme hydrolyzes 1,4-beta-D-glycosidic linkages between N-acetyl-galactosamine or N-acetylgalactosamine sulfate and glucuronic acid in chondroitin, chondroitin 4- and 6-sulfates, and dermatan.",
+            "C": "This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.",
+            "D": "This enzyme is a cytochrome P-450 (heme-thiolate) protein.",
+            "E": "This enzyme is involved with UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---L-lysine ligase (EC 6.3.2.7) or UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---2,6-diaminopimelate ligase (EC 6.3.2.13), UDP-N-acetylmuramate---L-alanine ligase (EC 6.3.2.8), UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase (EC 6.3.2.9) and UDP-N-acetylmuramoyl-tripeptide---D-alanyl-D-alanine ligase (EC 6.3.2.10) in the synthesis of a cell-wall peptide."
+        },
+        "raw_answer": "This enzyme hydrolyzes 1,4-beta-D-glycosidic linkages between N-acetyl-galactosamine or N-acetylgalactosamine sulfate and glucuronic acid in chondroitin, chondroitin 4- and 6-sulfates, and dermatan.",
+        "answer": "B. This enzyme hydrolyzes 1,4-beta-D-glycosidic linkages between N-acetyl-galactosamine or N-acetylgalactosamine sulfate and glucuronic acid in chondroitin, chondroitin 4- and 6-sulfates, and dermatan.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronoglucosaminidase' found in Treponema vincentii?\nA. Catalyzes the coenzyme A-dependent acetylation of the 2' hydroxyl or amino group of a broad spectrum of aminoglycosides. It confers resistance to aminoglycosides.\nB. This enzyme hydrolyzes 1,4-beta-D-glycosidic linkages between N-acetyl-galactosamine or N-acetylgalactosamine sulfate and glucuronic acid in chondroitin, chondroitin 4- and 6-sulfates, and dermatan.\nC. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nD. This enzyme is a cytochrome P-450 (heme-thiolate) protein.\nE. This enzyme is involved with UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---L-lysine ligase (EC 6.3.2.7) or UDP-N-acetylmuramoyl-L-alanyl-D-glutamate---2,6-diaminopimelate ligase (EC 6.3.2.13), UDP-N-acetylmuramate---L-alanine ligase (EC 6.3.2.8), UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase (EC 6.3.2.9) and UDP-N-acetylmuramoyl-tripeptide---D-alanyl-D-alanine ligase (EC 6.3.2.10) in the synthesis of a cell-wall peptide.",
+        "meta_info": {
+            "source_row": 16,
+            "protein_id": "P0017",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 10,
+        "pid": "10",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Carbapenemase' found in Aeromonas hydrophila?\nA. This enzyme produces the depsipeptide D-alanyl-(R)-lactate, which can be incorporated into the peptidoglycan pentapeptide instead of the usual D-alanyl-D-alanine dipeptide. The resulting peptidoglycan does not bind the glycopeptide antibiotics vancomycin and teicoplanin, conferring resistance on the bacteria.\nB. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nC. This enzyme takes part in glucuronoside catabolic process. It catalyzes the hydrolysis of beta-glucuronide containing substrates.\nD. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring. It is able to hydrolyze penicillin and imipenem, but is much less active against cephalothin, cefotaxime, meropenem and ceftazidime.\nE. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "choices": {
+            "A": "This enzyme produces the depsipeptide D-alanyl-(R)-lactate, which can be incorporated into the peptidoglycan pentapeptide instead of the usual D-alanyl-D-alanine dipeptide. The resulting peptidoglycan does not bind the glycopeptide antibiotics vancomycin and teicoplanin, conferring resistance on the bacteria.",
+            "B": "This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.",
+            "C": "This enzyme takes part in glucuronoside catabolic process. It catalyzes the hydrolysis of beta-glucuronide containing substrates.",
+            "D": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring. It is able to hydrolyze penicillin and imipenem, but is much less active against cephalothin, cefotaxime, meropenem and ceftazidime.",
+            "E": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites."
+        },
+        "raw_answer": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring. It is able to hydrolyze penicillin and imipenem, but is much less active against cephalothin, cefotaxime, meropenem and ceftazidime.",
+        "answer": "D. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring. It is able to hydrolyze penicillin and imipenem, but is much less active against cephalothin, cefotaxime, meropenem and ceftazidime.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Carbapenemase' found in Aeromonas hydrophila?\nA. This enzyme produces the depsipeptide D-alanyl-(R)-lactate, which can be incorporated into the peptidoglycan pentapeptide instead of the usual D-alanyl-D-alanine dipeptide. The resulting peptidoglycan does not bind the glycopeptide antibiotics vancomycin and teicoplanin, conferring resistance on the bacteria.\nB. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nC. This enzyme takes part in glucuronoside catabolic process. It catalyzes the hydrolysis of beta-glucuronide containing substrates.\nD. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring. It is able to hydrolyze penicillin and imipenem, but is much less active against cephalothin, cefotaxime, meropenem and ceftazidime.\nE. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "meta_info": {
+            "source_row": 422,
+            "protein_id": "P0423",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 11,
+        "pid": "11",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Naphthalene dioxygenase' found in Pseudomonas furukawaii?\nA. This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.\nD. This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.\nE. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.",
+        "choices": {
+            "A": "This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.",
+            "B": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+            "C": "This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.",
+            "D": "This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.",
+            "E": "This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides."
+        },
+        "raw_answer": "This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.",
+        "answer": "A. This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Naphthalene dioxygenase' found in Pseudomonas furukawaii?\nA. This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.\nD. This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.\nE. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.",
+        "meta_info": {
+            "source_row": 82,
+            "protein_id": "P0083",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 12,
+        "pid": "12",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Heparin lyase' found in Streptobacillus moniliformis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nC. This enzyme catalyzes the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends\nD. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.\nE. This enzyme can hydrolyse vitamin A esters anh has wide specificity.",
+        "choices": {
+            "A": "This enzyme hydrolyzes beta-lactam.",
+            "B": "This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.",
+            "C": "This enzyme catalyzes the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends",
+            "D": "This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.",
+            "E": "This enzyme can hydrolyse vitamin A esters anh has wide specificity."
+        },
+        "raw_answer": "This enzyme catalyzes the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends",
+        "answer": "C. This enzyme catalyzes the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Heparin lyase' found in Streptobacillus moniliformis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nC. This enzyme catalyzes the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends\nD. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.\nE. This enzyme can hydrolyse vitamin A esters anh has wide specificity.",
+        "meta_info": {
+            "source_row": 37,
+            "protein_id": "P0038",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 13,
+        "pid": "13",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Carbapenemase' found in Pseudocitrobacter faecalis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.\nC. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nD. This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.\nE. This enzyme has bifunctional beta-D-glucosidase/beta-D-fucosidase. And it's activity towards pNP-beta-D-fucoside is about 80-85% of the activity towards pNP-beta-D-glucoside. Also has slight activity (less than 10%) towards pNP-beta-D-galactoside, and very low activity (less than 1%) towards pNP-beta-D-xyloside. And it also hydrolyzes laminaribiose, sophorose, cellobiose and gentobiose.",
+        "choices": {
+            "A": "This enzyme hydrolyzes beta-lactam.",
+            "B": "This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.",
+            "C": "This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.",
+            "D": "This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.",
+            "E": "This enzyme has bifunctional beta-D-glucosidase/beta-D-fucosidase. And it's activity towards pNP-beta-D-fucoside is about 80-85% of the activity towards pNP-beta-D-glucoside. Also has slight activity (less than 10%) towards pNP-beta-D-galactoside, and very low activity (less than 1%) towards pNP-beta-D-xyloside. And it also hydrolyzes laminaribiose, sophorose, cellobiose and gentobiose."
+        },
+        "raw_answer": "This enzyme hydrolyzes beta-lactam.",
+        "answer": "A. This enzyme hydrolyzes beta-lactam.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Carbapenemase' found in Pseudocitrobacter faecalis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme has 6-phospho-beta-galactosidase activity and galactosidase activity and takes part in lactose catabolic process.\nC. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nD. This enzyme catalyzes the conversion of linoleic acid to 10-hydroxy-12-octadecenoic acid.\nE. This enzyme has bifunctional beta-D-glucosidase/beta-D-fucosidase. And it's activity towards pNP-beta-D-fucoside is about 80-85% of the activity towards pNP-beta-D-glucoside. Also has slight activity (less than 10%) towards pNP-beta-D-galactoside, and very low activity (less than 1%) towards pNP-beta-D-xyloside. And it also hydrolyzes laminaribiose, sophorose, cellobiose and gentobiose.",
+        "meta_info": {
+            "source_row": 92,
+            "protein_id": "P0093",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 14,
+        "pid": "14",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 121A1' found in Mycobacterium tuberculosis?\nA. This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.\nB. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nE. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "choices": {
+            "A": "This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.",
+            "B": "This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.",
+            "C": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+            "D": "This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+            "E": "This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+        "answer": "D. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 121A1' found in Mycobacterium tuberculosis?\nA. This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.\nB. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nE. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "meta_info": {
+            "source_row": 136,
+            "protein_id": "P0137",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 15,
+        "pid": "15",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Peptacetobacter hiranonis?\nA. This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.\nB. This enzyme can oxidize primary monoamines but have little or no activity towards diamines, such as histamine, or towards secondary and tertiary amines.\nC. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.\nD. This enzyme acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nE. This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages.",
+        "choices": {
+            "A": "This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.",
+            "B": "This enzyme can oxidize primary monoamines but have little or no activity towards diamines, such as histamine, or towards secondary and tertiary amines.",
+            "C": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+            "D": "This enzyme acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.",
+            "E": "This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages."
+        },
+        "raw_answer": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer": "C. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Peptacetobacter hiranonis?\nA. This enzyme can reduce other azo dyes, such as Methyl Red, Rocceline, Solar Orange and Sumifix Black B.\nB. This enzyme can oxidize primary monoamines but have little or no activity towards diamines, such as histamine, or towards secondary and tertiary amines.\nC. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.\nD. This enzyme acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nE. This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages.",
+        "meta_info": {
+            "source_row": 323,
+            "protein_id": "P0324",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 16,
+        "pid": "16",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Xylose isomerase' found in Alistipes indistinctus?\nA. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.\nB. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nC. This enzyme has D-lactate dehydrogenase activity.\nD. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nE. This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding.",
+        "choices": {
+            "A": "This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.",
+            "B": "This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+            "C": "This enzyme has D-lactate dehydrogenase activity.",
+            "D": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+            "E": "This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding."
+        },
+        "raw_answer": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "answer": "D. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Xylose isomerase' found in Alistipes indistinctus?\nA. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.\nB. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nC. This enzyme has D-lactate dehydrogenase activity.\nD. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nE. This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding.",
+        "meta_info": {
+            "source_row": 421,
+            "protein_id": "P0422",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 17,
+        "pid": "17",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronidase' found in Bacillus megaterium?\nA. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.\nB. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.",
+        "choices": {
+            "A": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+            "B": "This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+            "C": "This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+            "D": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+            "E": "This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups."
+        },
+        "raw_answer": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+        "answer": "D. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronidase' found in Bacillus megaterium?\nA. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.\nB. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.",
+        "meta_info": {
+            "source_row": 408,
+            "protein_id": "P0409",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 18,
+        "pid": "18",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Methylenetetrahydrofolate dehydrogenase' found in Blautia producta?\nA. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nB. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.\nC. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nD. This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.\nE. This enzyme catalyzes the conversion of L-arabinose to L-ribulose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism. It can also convert D-galactose to D-tagatose with lower efficiency.",
+        "choices": {
+            "A": "This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+            "B": "This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.",
+            "C": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+            "D": "This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.",
+            "E": "This enzyme catalyzes the conversion of L-arabinose to L-ribulose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism. It can also convert D-galactose to D-tagatose with lower efficiency."
+        },
+        "raw_answer": "This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.",
+        "answer": "D. This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Methylenetetrahydrofolate dehydrogenase' found in Blautia producta?\nA. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.\nB. This enzyme catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. And it requires NADH, but not NADPH, as an electron donor for its activity. And it can also reduce a wide range of sulfonated azo dyes. The substrate preference order is methyl Red > Orange II > Ponceau BS > Ponceau S > Orange G > Amaranth.\nC. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nD. This enzyme catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate.\nE. This enzyme catalyzes the conversion of L-arabinose to L-ribulose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism. It can also convert D-galactose to D-tagatose with lower efficiency.",
+        "meta_info": {
+            "source_row": 357,
+            "protein_id": "P0358",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 19,
+        "pid": "19",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Alkaline phosphatase' found in Capnocytophaga gingivalis?\nA. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.\nB. This enzyme can catalyse transphosphorylations and has wide specificity.\nC. This enzyme can modify rifampicin, thereby inactivating its antibiotic activity. And it constitutes a secondary rifampicin resistance factor.\nD. This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages.\nE. This enzyme catalyzes the glucosylation of flavonoids with sucrose as a sugar donor.",
+        "choices": {
+            "A": "This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+            "B": "This enzyme can catalyse transphosphorylations and has wide specificity.",
+            "C": "This enzyme can modify rifampicin, thereby inactivating its antibiotic activity. And it constitutes a secondary rifampicin resistance factor.",
+            "D": "This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages.",
+            "E": "This enzyme catalyzes the glucosylation of flavonoids with sucrose as a sugar donor."
+        },
+        "raw_answer": "This enzyme can catalyse transphosphorylations and has wide specificity.",
+        "answer": "B. This enzyme can catalyse transphosphorylations and has wide specificity.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Alkaline phosphatase' found in Capnocytophaga gingivalis?\nA. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.\nB. This enzyme can catalyse transphosphorylations and has wide specificity.\nC. This enzyme can modify rifampicin, thereby inactivating its antibiotic activity. And it constitutes a secondary rifampicin resistance factor.\nD. This enzyme hydrolyzes 1,4-linkages in beta-D-glucans also containing 1,3-linkages.\nE. This enzyme catalyzes the glucosylation of flavonoids with sucrose as a sugar donor.",
+        "meta_info": {
+            "source_row": 346,
+            "protein_id": "P0347",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 20,
+        "pid": "20",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Aminoglycoside 6'-N-acetyltransferase' found in Klebsiella pneumoniae?\nA. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nB. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring but does not confer resistance to the polymixin colistin or the fluoroquinolone ciprofloxacin.\nC. This enzyme catalyzes the transfer of an acetyl group from acetyl-CoA to the 6'-amino group of aminoglycoside molecules conferring resistance to antibiotics containing the purpurosamine ring including amikacin, kanamycin, tobramycin and netilmicin.\nD. This enzyme is wide specificity for aromatic amines, including serotonin and it also catalyses acetyl-transfer between arylamines without CoA.\nE. This enzyme hydrolyzes beta-lactam.",
+        "choices": {
+            "A": "This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+            "B": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring but does not confer resistance to the polymixin colistin or the fluoroquinolone ciprofloxacin.",
+            "C": "This enzyme catalyzes the transfer of an acetyl group from acetyl-CoA to the 6'-amino group of aminoglycoside molecules conferring resistance to antibiotics containing the purpurosamine ring including amikacin, kanamycin, tobramycin and netilmicin.",
+            "D": "This enzyme is wide specificity for aromatic amines, including serotonin and it also catalyses acetyl-transfer between arylamines without CoA.",
+            "E": "This enzyme hydrolyzes beta-lactam."
+        },
+        "raw_answer": "This enzyme catalyzes the transfer of an acetyl group from acetyl-CoA to the 6'-amino group of aminoglycoside molecules conferring resistance to antibiotics containing the purpurosamine ring including amikacin, kanamycin, tobramycin and netilmicin.",
+        "answer": "C. This enzyme catalyzes the transfer of an acetyl group from acetyl-CoA to the 6'-amino group of aminoglycoside molecules conferring resistance to antibiotics containing the purpurosamine ring including amikacin, kanamycin, tobramycin and netilmicin.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Aminoglycoside 6'-N-acetyltransferase' found in Klebsiella pneumoniae?\nA. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nB. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring but does not confer resistance to the polymixin colistin or the fluoroquinolone ciprofloxacin.\nC. This enzyme catalyzes the transfer of an acetyl group from acetyl-CoA to the 6'-amino group of aminoglycoside molecules conferring resistance to antibiotics containing the purpurosamine ring including amikacin, kanamycin, tobramycin and netilmicin.\nD. This enzyme is wide specificity for aromatic amines, including serotonin and it also catalyses acetyl-transfer between arylamines without CoA.\nE. This enzyme hydrolyzes beta-lactam.",
+        "meta_info": {
+            "source_row": 212,
+            "protein_id": "P0213",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 21,
+        "pid": "21",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Catechol-2,3-dioxygenase' found in Bacillus pumilus?\nA. This enzyme hydrolyze cephalosporins, penicillins and also cefoxitin; but at a slow rate.\nB. This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.\nC. This enzyme catalyzes release of the N-terminal residue from a tripeptide.\nD. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nE. This enzyme initiates the meta-cleavage pathway of catechol degradation and requires FeII.",
+        "choices": {
+            "A": "This enzyme hydrolyze cephalosporins, penicillins and also cefoxitin; but at a slow rate.",
+            "B": "This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.",
+            "C": "This enzyme catalyzes release of the N-terminal residue from a tripeptide.",
+            "D": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+            "E": "This enzyme initiates the meta-cleavage pathway of catechol degradation and requires FeII."
+        },
+        "raw_answer": "This enzyme initiates the meta-cleavage pathway of catechol degradation and requires FeII.",
+        "answer": "E. This enzyme initiates the meta-cleavage pathway of catechol degradation and requires FeII.",
+        "answer_idx": 4,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Catechol-2,3-dioxygenase' found in Bacillus pumilus?\nA. This enzyme hydrolyze cephalosporins, penicillins and also cefoxitin; but at a slow rate.\nB. This enzyme catalyzes the reversible epimerization of D-fructose at the C3 position to yield D-psicose and it is highly specific for D-psicose and shows very low activity with D-tagatose.\nC. This enzyme catalyzes release of the N-terminal residue from a tripeptide.\nD. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nE. This enzyme initiates the meta-cleavage pathway of catechol degradation and requires FeII.",
+        "meta_info": {
+            "source_row": 407,
+            "protein_id": "P0408",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 22,
+        "pid": "22",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 125A3' found in Mycolicibacterium smegmatis?\nA. This enzyme is a P-450 heme-thiolate protein found in several bacterial pathogens, and it is involved in degradation of the host's cholesterol. The enzyme catalyses the hydroxylation of the C-26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate, initiating the degradation of the alkyl side-chain of cholesterol . The products are exclusively in the (25S) configuration. And it also accepts cholesterol as a substrate.\nB. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nC. This enzyme takes part in glucose metabolic process.\nD. This enzyme acts on canavanine.\nE. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.",
+        "choices": {
+            "A": "This enzyme is a P-450 heme-thiolate protein found in several bacterial pathogens, and it is involved in degradation of the host's cholesterol. The enzyme catalyses the hydroxylation of the C-26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate, initiating the degradation of the alkyl side-chain of cholesterol . The products are exclusively in the (25S) configuration. And it also accepts cholesterol as a substrate.",
+            "B": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+            "C": "This enzyme takes part in glucose metabolic process.",
+            "D": "This enzyme acts on canavanine.",
+            "E": "This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein found in several bacterial pathogens, and it is involved in degradation of the host's cholesterol. The enzyme catalyses the hydroxylation of the C-26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate, initiating the degradation of the alkyl side-chain of cholesterol . The products are exclusively in the (25S) configuration. And it also accepts cholesterol as a substrate.",
+        "answer": "A. This enzyme is a P-450 heme-thiolate protein found in several bacterial pathogens, and it is involved in degradation of the host's cholesterol. The enzyme catalyses the hydroxylation of the C-26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate, initiating the degradation of the alkyl side-chain of cholesterol . The products are exclusively in the (25S) configuration. And it also accepts cholesterol as a substrate.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 125A3' found in Mycolicibacterium smegmatis?\nA. This enzyme is a P-450 heme-thiolate protein found in several bacterial pathogens, and it is involved in degradation of the host's cholesterol. The enzyme catalyses the hydroxylation of the C-26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate, initiating the degradation of the alkyl side-chain of cholesterol . The products are exclusively in the (25S) configuration. And it also accepts cholesterol as a substrate.\nB. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nC. This enzyme takes part in glucose metabolic process.\nD. This enzyme acts on canavanine.\nE. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.",
+        "meta_info": {
+            "source_row": 131,
+            "protein_id": "P0132",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 23,
+        "pid": "23",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 124' found in Mycobacterium tuberculosis?\nA. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nB. This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.\nC. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nD. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.\nE. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+        "choices": {
+            "A": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+            "B": "This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.",
+            "C": "This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.",
+            "D": "This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+            "E": "This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.",
+        "answer": "B. This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 124' found in Mycobacterium tuberculosis?\nA. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate . In vitro, Cyp142 catalyzes with equal preference the oxidation of both (25R)- and (25S)-26-hydroxycholest-4-en-3-one diastereomers to the corresponding carboxylic acid which is a prerequisite for entry into the beta-oxidation pathway . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nB. This enzyme is a P-450 heme-thiolate protein, and it primarily hydroxylates the omega-carbon of a number of methyl-branched lipids, including (2E,6E)-farnesol, phytanate, geranylgeraniol, 15-methylpalmitate and (2E,6E)-farnesyl diphosphate. And it also catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25R)-26-hydroxycholest-4-en-3-one (alcohol), (25R)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25R)-3-oxocholest-4-en-26-oate.\nC. This enzyme catalyzes the N-demethylation of dextromethorphan yielding 3-methoxymorphinan.\nD. This enzyme is cytochrome P-450 (heme-thiolate) protein acting on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.\nE. This enzyme is a P-450 heme-thiolate protein, and it catalyzes C-C bond formation between the carbons ortho to the phenolic hydroxyl of cyclo(L-tyr-L-tyr) (cYY) producing mycocyclosin. The enzme also can use cyclo(L-Tyr-L-Phe) (cYF), cyclo(L-Tyr-L-Trp) (cYW) and cyclo(L-Tyr-L-3,4-dihydroxyphenylalanine) (cY-DOPA) as substrate.",
+        "meta_info": {
+            "source_row": 135,
+            "protein_id": "P0136",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 24,
+        "pid": "24",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Tyrosine decarboxylase' found in Lactobacillus brevis?\nA. This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate.\nB. This enzyme hydrolyzes alpha-D-fucosides.\nC. This enzyme uses NAD+ to oxidize 1,3-propanediol, glycerol, ethanol and 1,2-propanediol. This enzyme required Mn2+ and are probably octamers with a molecular mass of 350 kDa.\nD. This enzyme catalyzes the decarboxylation of L-tyrosine to produce tyramine.\nE. This enzyme acts on primary or secondary alcohols or hemi-acetals with very broad specificity and the enzyme oxidizes methanol much more poorly than ethanol.",
+        "choices": {
+            "A": "This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate.",
+            "B": "This enzyme hydrolyzes alpha-D-fucosides.",
+            "C": "This enzyme uses NAD+ to oxidize 1,3-propanediol, glycerol, ethanol and 1,2-propanediol. This enzyme required Mn2+ and are probably octamers with a molecular mass of 350 kDa.",
+            "D": "This enzyme catalyzes the decarboxylation of L-tyrosine to produce tyramine.",
+            "E": "This enzyme acts on primary or secondary alcohols or hemi-acetals with very broad specificity and the enzyme oxidizes methanol much more poorly than ethanol."
+        },
+        "raw_answer": "This enzyme catalyzes the decarboxylation of L-tyrosine to produce tyramine.",
+        "answer": "D. This enzyme catalyzes the decarboxylation of L-tyrosine to produce tyramine.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Tyrosine decarboxylase' found in Lactobacillus brevis?\nA. This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate.\nB. This enzyme hydrolyzes alpha-D-fucosides.\nC. This enzyme uses NAD+ to oxidize 1,3-propanediol, glycerol, ethanol and 1,2-propanediol. This enzyme required Mn2+ and are probably octamers with a molecular mass of 350 kDa.\nD. This enzyme catalyzes the decarboxylation of L-tyrosine to produce tyramine.\nE. This enzyme acts on primary or secondary alcohols or hemi-acetals with very broad specificity and the enzyme oxidizes methanol much more poorly than ethanol.",
+        "meta_info": {
+            "source_row": 192,
+            "protein_id": "P0193",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 25,
+        "pid": "25",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronate lyase' found in Streptobacillus moniliformis?\nA. This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.\nB. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nC. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.\nD. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nE. This enzyme can slowly reduces folate to 5,6,7,8-tetrahydrofolate in animals and some micro-organisms.",
+        "choices": {
+            "A": "This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.",
+            "B": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+            "C": "This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.",
+            "D": "This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.",
+            "E": "This enzyme can slowly reduces folate to 5,6,7,8-tetrahydrofolate in animals and some micro-organisms."
+        },
+        "raw_answer": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+        "answer": "B. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Hyaluronate lyase' found in Streptobacillus moniliformis?\nA. This enzyme can catalyze FMN and also can catalyze FAD and riboflavin with lower activity.\nB. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nC. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.\nD. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nE. This enzyme can slowly reduces folate to 5,6,7,8-tetrahydrofolate in animals and some micro-organisms.",
+        "meta_info": {
+            "source_row": 38,
+            "protein_id": "P0039",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 26,
+        "pid": "26",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Glyceraldehyde-3-phosphate dehydrogenase' found in Lactobacillus acidophilus?\nA. This enzyme takes part in glucose metabolic process.\nB. This enzyme hydrolyzes alpha-D-fucosides and the short-chain alpha-galactosaccharide raffinose.\nC. This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.\nD. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nE. This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate.",
+        "choices": {
+            "A": "This enzyme takes part in glucose metabolic process.",
+            "B": "This enzyme hydrolyzes alpha-D-fucosides and the short-chain alpha-galactosaccharide raffinose.",
+            "C": "This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.",
+            "D": "This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.",
+            "E": "This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate."
+        },
+        "raw_answer": "This enzyme takes part in glucose metabolic process.",
+        "answer": "A. This enzyme takes part in glucose metabolic process.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Glyceraldehyde-3-phosphate dehydrogenase' found in Lactobacillus acidophilus?\nA. This enzyme takes part in glucose metabolic process.\nB. This enzyme hydrolyzes alpha-D-fucosides and the short-chain alpha-galactosaccharide raffinose.\nC. This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.\nD. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nE. This enzyme catalyzes the conversion of maltose to D-glucose and beta-D-glucose 1-phosphate.",
+        "meta_info": {
+            "source_row": 204,
+            "protein_id": "P0205",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 27,
+        "pid": "27",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Linoleic acid reductase' found in Butyrivibrio fibrisolvens?\nA. This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.\nB. This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.\nC. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nD. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nE. This enzyme involves in the production of dextran, an extracellular glucan polymer.",
+        "choices": {
+            "A": "This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.",
+            "B": "This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.",
+            "C": "This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.",
+            "D": "This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.",
+            "E": "This enzyme involves in the production of dextran, an extracellular glucan polymer."
+        },
+        "raw_answer": "This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.",
+        "answer": "B. This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Linoleic acid reductase' found in Butyrivibrio fibrisolvens?\nA. This enzyme catalyzes the carboxylation of acetone to form acetoacetate, and it has a reduced activity on butanone, and no activity on 2-pentatone, 3-pentatone, 2-hexanone, chloroacetone, pyruvate, phosphoenolpyruvate, acetaldehyde, propionaldehyde and propylene oxide. And it requires Mg2+ and ATP.\nB. This enzyme uses NADH as source of reducing equivalents to reduce of a variety of nitroaromatic compounds.\nC. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nD. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nE. This enzyme involves in the production of dextran, an extracellular glucan polymer.",
+        "meta_info": {
+            "source_row": 349,
+            "protein_id": "P0350",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 28,
+        "pid": "28",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 monooxygenase 51A' found in Aspergillus fumigatus?\nA. This enzyme is involved in the biosynthesis of ergosterol, and as a cytochrome P-450 (heme-thiolate) protein acts on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.\nB. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nC. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nD. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nE. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+        "choices": {
+            "A": "This enzyme is involved in the biosynthesis of ergosterol, and as a cytochrome P-450 (heme-thiolate) protein acts on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+            "B": "This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.",
+            "C": "This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.",
+            "D": "This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.",
+            "E": "This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone."
+        },
+        "raw_answer": "This enzyme is involved in the biosynthesis of ergosterol, and as a cytochrome P-450 (heme-thiolate) protein acts on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "answer": "A. This enzyme is involved in the biosynthesis of ergosterol, and as a cytochrome P-450 (heme-thiolate) protein acts on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 monooxygenase 51A' found in Aspergillus fumigatus?\nA. This enzyme is involved in the biosynthesis of ergosterol, and as a cytochrome P-450 (heme-thiolate) protein acts on a range of steroids with a 14alpha-methyl group, such as obtusifoliol and lanosterol. And it catalyses a hydroxylation and a reduction of the 14alpha-methyl group, followed by a second hydroxylation, resulting in the elimination of formate and formation of a 14(15) double bond.\nB. This enzyme hydrolyzes several other phospho-beta-D-glucosides, but not their non-phosphorylated forms.\nC. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nD. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nE. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+        "meta_info": {
+            "source_row": 416,
+            "protein_id": "P0417",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 29,
+        "pid": "29",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Dextransucrase 4' found in Leuconostoc mesenteroides?\nA. This enzyme involves in the production of dextran, an extracellular glucan polymer.\nB. This enzyme hydrolyzes broad-spectrum beta-lactam antibiotics and is active against cephalosporins.\nC. This enzyme catalyzes the selective hydroxylation of linear and -2 methyl branched fatty acids at the -1 position. Substrates of Cytochrome P450 147G1 include fatty acids ranging from octanoic to hexadecanoic acid.\nD. This enzyme can catalyse transphosphorylations and has wide specificity.\nE. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+        "choices": {
+            "A": "This enzyme involves in the production of dextran, an extracellular glucan polymer.",
+            "B": "This enzyme hydrolyzes broad-spectrum beta-lactam antibiotics and is active against cephalosporins.",
+            "C": "This enzyme catalyzes the selective hydroxylation of linear and -2 methyl branched fatty acids at the -1 position. Substrates of Cytochrome P450 147G1 include fatty acids ranging from octanoic to hexadecanoic acid.",
+            "D": "This enzyme can catalyse transphosphorylations and has wide specificity.",
+            "E": "This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity."
+        },
+        "raw_answer": "This enzyme involves in the production of dextran, an extracellular glucan polymer.",
+        "answer": "A. This enzyme involves in the production of dextran, an extracellular glucan polymer.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Dextransucrase 4' found in Leuconostoc mesenteroides?\nA. This enzyme involves in the production of dextran, an extracellular glucan polymer.\nB. This enzyme hydrolyzes broad-spectrum beta-lactam antibiotics and is active against cephalosporins.\nC. This enzyme catalyzes the selective hydroxylation of linear and -2 methyl branched fatty acids at the -1 position. Substrates of Cytochrome P450 147G1 include fatty acids ranging from octanoic to hexadecanoic acid.\nD. This enzyme can catalyse transphosphorylations and has wide specificity.\nE. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+        "meta_info": {
+            "source_row": 143,
+            "protein_id": "P0144",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 30,
+        "pid": "30",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Carboxylic ester hydrolase' found in Butyrivibrio fibrisolvens?\nA. This enzyme shows specificity for the B side of NADPH.\nB. This enzyme has D-lactate dehydrogenase activity.\nC. This enzyme can hydrolyse vitamin A esters anh has wide specificity.\nD. This enzyme serves as the terminal electron reductase partner to Cardiac glycoside reductase 1 (Cgr1) by forming an complex with Cgr1 and receiving electrons from Cgr1 at the active site FAD redox cofactor.\nE. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.",
+        "choices": {
+            "A": "This enzyme shows specificity for the B side of NADPH.",
+            "B": "This enzyme has D-lactate dehydrogenase activity.",
+            "C": "This enzyme can hydrolyse vitamin A esters anh has wide specificity.",
+            "D": "This enzyme serves as the terminal electron reductase partner to Cardiac glycoside reductase 1 (Cgr1) by forming an complex with Cgr1 and receiving electrons from Cgr1 at the active site FAD redox cofactor.",
+            "E": "This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate."
+        },
+        "raw_answer": "This enzyme can hydrolyse vitamin A esters anh has wide specificity.",
+        "answer": "C. This enzyme can hydrolyse vitamin A esters anh has wide specificity.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Carboxylic ester hydrolase' found in Butyrivibrio fibrisolvens?\nA. This enzyme shows specificity for the B side of NADPH.\nB. This enzyme has D-lactate dehydrogenase activity.\nC. This enzyme can hydrolyse vitamin A esters anh has wide specificity.\nD. This enzyme serves as the terminal electron reductase partner to Cardiac glycoside reductase 1 (Cgr1) by forming an complex with Cgr1 and receiving electrons from Cgr1 at the active site FAD redox cofactor.\nE. This enzyme glucosylates the phenolic compounds catechol, pyrogallol, resorcinol, and ethyl gallate.",
+        "meta_info": {
+            "source_row": 351,
+            "protein_id": "P0352",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 31,
+        "pid": "31",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 107W1' found in Streptomyces avermitilis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.\nC. This enzyme uses NAD+ to oxidize ethanol and 1,3-propanediol.\nD. This enzyme regioselectively hydroxylates C12 of oligomycin C to produce oligomycin A.\nE. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "choices": {
+            "A": "This enzyme hydrolyzes beta-lactam.",
+            "B": "This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.",
+            "C": "This enzyme uses NAD+ to oxidize ethanol and 1,3-propanediol.",
+            "D": "This enzyme regioselectively hydroxylates C12 of oligomycin C to produce oligomycin A.",
+            "E": "This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme."
+        },
+        "raw_answer": "This enzyme regioselectively hydroxylates C12 of oligomycin C to produce oligomycin A.",
+        "answer": "D. This enzyme regioselectively hydroxylates C12 of oligomycin C to produce oligomycin A.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 107W1' found in Streptomyces avermitilis?\nA. This enzyme hydrolyzes beta-lactam.\nB. This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.\nC. This enzyme uses NAD+ to oxidize ethanol and 1,3-propanediol.\nD. This enzyme regioselectively hydroxylates C12 of oligomycin C to produce oligomycin A.\nE. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "meta_info": {
+            "source_row": 21,
+            "protein_id": "P0022",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 32,
+        "pid": "32",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Beta-mannosidase' found in Bacteroides salyersiae?\nA. This enzyme hydrolyzes alpha-D-fucosides.\nB. This enzyme catalyzes the reduction of a variety of nitroaromatic compounds.\nC. This enzyme catalyzes the hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides.\nD. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nE. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "choices": {
+            "A": "This enzyme hydrolyzes alpha-D-fucosides.",
+            "B": "This enzyme catalyzes the reduction of a variety of nitroaromatic compounds.",
+            "C": "This enzyme catalyzes the hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides.",
+            "D": "This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.",
+            "E": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols."
+        },
+        "raw_answer": "This enzyme catalyzes the hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides.",
+        "answer": "C. This enzyme catalyzes the hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Beta-mannosidase' found in Bacteroides salyersiae?\nA. This enzyme hydrolyzes alpha-D-fucosides.\nB. This enzyme catalyzes the reduction of a variety of nitroaromatic compounds.\nC. This enzyme catalyzes the hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosides.\nD. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nE. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "meta_info": {
+            "source_row": 388,
+            "protein_id": "P0389",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 33,
+        "pid": "33",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Clostridium Scindens?\nA. This enzyme catalyzes the interconversion between D-glucose and D-mannose residues at the reducing end of beta-1,4-linked disaccharides by epimerizing the hydroxyl group at the C-2 position of the glucose moiety. Besides, it catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man) and epimerizes lactose to epilactose.\nB. This enzyme hydrolyzes beta-lactam.\nC. This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).\nD. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nE. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "choices": {
+            "A": "This enzyme catalyzes the interconversion between D-glucose and D-mannose residues at the reducing end of beta-1,4-linked disaccharides by epimerizing the hydroxyl group at the C-2 position of the glucose moiety. Besides, it catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man) and epimerizes lactose to epilactose.",
+            "B": "This enzyme hydrolyzes beta-lactam.",
+            "C": "This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).",
+            "D": "This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.",
+            "E": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols."
+        },
+        "raw_answer": "This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer": "E. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "answer_idx": 4,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Alpha-hydroxysteroid dehydrogenase' found in Clostridium Scindens?\nA. This enzyme catalyzes the interconversion between D-glucose and D-mannose residues at the reducing end of beta-1,4-linked disaccharides by epimerizing the hydroxyl group at the C-2 position of the glucose moiety. Besides, it catalyzes the reversible epimerization of cellobiose to 4-O-beta-D-glucopyranosyl-D-mannose (Glc-Man) and epimerizes lactose to epilactose.\nB. This enzyme hydrolyzes beta-lactam.\nC. This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).\nD. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nE. This enzyme catalyzes the oxidation of the 12alpha-hydroxy group of bile acids, both in their free and conjugated form. Abd it also acts on bile alcohols.",
+        "meta_info": {
+            "source_row": 322,
+            "protein_id": "P0323",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 34,
+        "pid": "34",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Sucrose phosphorylase' found in Bifidobacterium longum?\nA. This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).\nB. This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.\nC. This enzyme has cefotaxime-hydrolyzing activity.\nD. This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.\nE. This enzyme involves in drug metabolism, as part of an interspecies gut bacterial pathway for Levodopa (L-dopa) metabolism, acting on dopamine produced by Enterecoccus L-dopa decarboxylase. Removes the para hydroxyl group of dopamine to produce m-tyramine (3-tyramine).",
+        "choices": {
+            "A": "This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).",
+            "B": "This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.",
+            "C": "This enzyme has cefotaxime-hydrolyzing activity.",
+            "D": "This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.",
+            "E": "This enzyme involves in drug metabolism, as part of an interspecies gut bacterial pathway for Levodopa (L-dopa) metabolism, acting on dopamine produced by Enterecoccus L-dopa decarboxylase. Removes the para hydroxyl group of dopamine to produce m-tyramine (3-tyramine)."
+        },
+        "raw_answer": "This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.",
+        "answer": "B. This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Sucrose phosphorylase' found in Bifidobacterium longum?\nA. This enzyme is involved in the degradation of toxic compounds. And it can use a variety of substrates, including the nitrate ester explosives glycerol trinitrate (GTN) and pentaerythritol tetranitrate (PETN), chromate and various electrophiles such as quinones. Moreover, it also can catalyze the reduction of N-ethylmaleimide (NEM) to N-ethylsuccinimide. Together with NfsA and NfsB, can use the nitroaromatic explosive 2,4,6-trinitrotoluene (TNT).\nB. This enzyme catalyzes the conversion of sucrose to D-fructose and alpha-D-glucose-1-phosphate.\nC. This enzyme has cefotaxime-hydrolyzing activity.\nD. This enzyme is a member of the ring-hydroxylating dioxygenase (RHD) family of bacterial enzymes that play a critical role in the degradation of aromatic compounds, such as polycyclic aromatic hydrocarbons, and it requires Fe2+.\nE. This enzyme involves in drug metabolism, as part of an interspecies gut bacterial pathway for Levodopa (L-dopa) metabolism, acting on dopamine produced by Enterecoccus L-dopa decarboxylase. Removes the para hydroxyl group of dopamine to produce m-tyramine (3-tyramine).",
+        "meta_info": {
+            "source_row": 363,
+            "protein_id": "P0364",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 35,
+        "pid": "35",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Beta-hydroxysteroid dehydrogenase' found in Collinsella aerofaciens?\nA. This enzyme catalyzes the oxidative decarboxylation of (S)-malate in the presence of NADP+ and divalent metal ions, and the decarboxylation of oxaloacetate.\nB. This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.\nC. This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.\nD. This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nE. This enzyme catalyzes the hydrolysis of substrates containing beta-glycoside.",
+        "choices": {
+            "A": "This enzyme catalyzes the oxidative decarboxylation of (S)-malate in the presence of NADP+ and divalent metal ions, and the decarboxylation of oxaloacetate.",
+            "B": "This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.",
+            "C": "This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.",
+            "D": "This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.",
+            "E": "This enzyme catalyzes the hydrolysis of substrates containing beta-glycoside."
+        },
+        "raw_answer": "This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.",
+        "answer": "B. This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Beta-hydroxysteroid dehydrogenase' found in Collinsella aerofaciens?\nA. This enzyme catalyzes the oxidative decarboxylation of (S)-malate in the presence of NADP+ and divalent metal ions, and the decarboxylation of oxaloacetate.\nB. This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.\nC. This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.\nD. This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nE. This enzyme catalyzes the hydrolysis of substrates containing beta-glycoside.",
+        "meta_info": {
+            "source_row": 312,
+            "protein_id": "P0313",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 36,
+        "pid": "36",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Gamma-glutamylcyclotransferase' found in Ralstonia solanacearum?\nA. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nB. This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.\nC. This enzyme utilizes low potential quinols, such as menaquinol and rhodoquinol, to reduce fumarate as the final step of an anaerobic respiratory chain. The enzyme is known as complex II of the electron transfer chain, similarly to succinate dehydrogenase (quinone), to which it is closely related.\nD. This enzyme acts on derivatives of L-glutamate, L-2-aminobutanoate, L-alanine and glycine and acts as a cyclotransferase, cleaving the amide bond via transamidation using the alpha-amine of the L-glutamyl residue, releasing it as the cyclic 5-oxo-L-proline.\nE. This enzyme hydrolyzes beta-lactam with a substrate specificity for cephalosporins.",
+        "choices": {
+            "A": "This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.",
+            "B": "This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.",
+            "C": "This enzyme utilizes low potential quinols, such as menaquinol and rhodoquinol, to reduce fumarate as the final step of an anaerobic respiratory chain. The enzyme is known as complex II of the electron transfer chain, similarly to succinate dehydrogenase (quinone), to which it is closely related.",
+            "D": "This enzyme acts on derivatives of L-glutamate, L-2-aminobutanoate, L-alanine and glycine and acts as a cyclotransferase, cleaving the amide bond via transamidation using the alpha-amine of the L-glutamyl residue, releasing it as the cyclic 5-oxo-L-proline.",
+            "E": "This enzyme hydrolyzes beta-lactam with a substrate specificity for cephalosporins."
+        },
+        "raw_answer": "This enzyme acts on derivatives of L-glutamate, L-2-aminobutanoate, L-alanine and glycine and acts as a cyclotransferase, cleaving the amide bond via transamidation using the alpha-amine of the L-glutamyl residue, releasing it as the cyclic 5-oxo-L-proline.",
+        "answer": "D. This enzyme acts on derivatives of L-glutamate, L-2-aminobutanoate, L-alanine and glycine and acts as a cyclotransferase, cleaving the amide bond via transamidation using the alpha-amine of the L-glutamyl residue, releasing it as the cyclic 5-oxo-L-proline.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Gamma-glutamylcyclotransferase' found in Ralstonia solanacearum?\nA. This enzyme converts the aldose L-fucose into the corresponding ketose L-fuculose. It requires a divalent metal ion and binds the closed form of the sugar and catalyses ring opening to generate a form of open-chain conformation that facilitates the isomerization reaction, which proceeds via an ene-diol mechanism.\nB. This enzyme acts on a variety of purines and aldehydes, including hypoxanthine.\nC. This enzyme utilizes low potential quinols, such as menaquinol and rhodoquinol, to reduce fumarate as the final step of an anaerobic respiratory chain. The enzyme is known as complex II of the electron transfer chain, similarly to succinate dehydrogenase (quinone), to which it is closely related.\nD. This enzyme acts on derivatives of L-glutamate, L-2-aminobutanoate, L-alanine and glycine and acts as a cyclotransferase, cleaving the amide bond via transamidation using the alpha-amine of the L-glutamyl residue, releasing it as the cyclic 5-oxo-L-proline.\nE. This enzyme hydrolyzes beta-lactam with a substrate specificity for cephalosporins.",
+        "meta_info": {
+            "source_row": 75,
+            "protein_id": "P0076",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 37,
+        "pid": "37",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Molybdopterin-dependent enzyme' found in Raoultella planticola?\nA. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nB. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nE. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+        "choices": {
+            "A": "This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.",
+            "B": "This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.",
+            "C": "Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .",
+            "D": "This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+            "E": "This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone."
+        },
+        "raw_answer": "This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+        "answer": "D. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Molybdopterin-dependent enzyme' found in Raoultella planticola?\nA. This enzyme is the most prevalent beta-lactamase in enterobacteria. It hydrolyzes the beta-lactam bond in susceptible beta-lactam antibiotics, thus conferring resistance to penicillins and cephalosporins. TEM-3 and TEM-4 are capable of hydrolyzing cefotaxime and ceftazidime. TEM-5 is capable of hydrolyzing ceftazidime. TEM-6 is capable of hydrolyzing ceftazidime and aztreonam. TEM-8/CAZ-2, TEM-16/CAZ-7 and TEM-24/CAZ-6 are markedly active against ceftazidime. IRT-4 shows resistance to beta-lactamase inhibitors.\nB. This enzyme hydrolyzes alpha-L-arabinoside and beta-D-fucosides and beta-D-glucosides.\nC. Involved in the utilization of cholesterol as the sole carbon and energy source by degrading the side chain during infection . Primarily catalyzes the sequential oxidation of the terminal methyl of cholest-4-en-3-one into (25S)-26-hydroxycholest-4-en-3-one (alcohol), (25S)-26-oxocholest-4-en-3-one (aldehyde), to finally yield the carboxylic acid (25S)-3-oxocholest-4-en-26-oate . Also able to sequentially oxidize cholesterol itself, not only cholest-4-en-3-one .\nD. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nE. This enzyme cleaves the sulfated polysaccharide porphyran at the (1->4) linkages between beta-D-galactopyranose and alpha-L-galactopyranose-6-sulfate, forming mostly the disaccharide alpha-L-galactopyranose-6-sulfate-(1->3)-beta-D-galactose. Some longer oligosaccharides of even number of residues are also observed. And the enzyme is inactive on the non-sulfated agarose portion of the porphyran backbone.",
+        "meta_info": {
+            "source_row": 74,
+            "protein_id": "P0075",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 38,
+        "pid": "38",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'NADPH-dependent nitroreductase' found in Bacillus subtilis?\nA. This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.\nB. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nC. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nD. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.\nE. This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides.",
+        "choices": {
+            "A": "This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.",
+            "B": "This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.",
+            "C": "This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+            "D": "This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+            "E": "This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides."
+        },
+        "raw_answer": "This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "answer": "D. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'NADPH-dependent nitroreductase' found in Bacillus subtilis?\nA. This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.\nB. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nC. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nD. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.\nE. This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides.",
+        "meta_info": {
+            "source_row": 400,
+            "protein_id": "P0401",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 39,
+        "pid": "39",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Glycerol/diol dehydratase' found in Lactobacillus reuteri?\nA. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.\nB. This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nC. This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).\nD. This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.\nE. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+        "choices": {
+            "A": "This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+            "B": "This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.",
+            "C": "This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).",
+            "D": "This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.",
+            "E": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring."
+        },
+        "raw_answer": "This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "answer": "A. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Glycerol/diol dehydratase' found in Lactobacillus reuteri?\nA. This enzyme has two forms. One form requires a cobamide coenzyme, while the other is a glycyl radical enzyme.\nB. This enzyme converts internalized glutamate to GABA. The brain enzyme also acts on L-cysteate, 3-sulfino-L-alanine and L-aspartate.\nC. This enzyme can reduce a variety of nitroaromatic compounds using NADH (and to lesser extent NADPH) as source of reducing equivalents; two electrons are transferred. And it can reduce nitrofurazone, quinones and the anti-tumor agent CB1954 (5-(aziridin-1-yl)-2,4-dinitrobenzamide).\nD. This enzyme is a  flavoprotein (FAD). And Menadione can also serve as an electron acceptor.\nE. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+        "meta_info": {
+            "source_row": 166,
+            "protein_id": "P0167",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 40,
+        "pid": "40",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 111A2' found in Novosphingobium aromaticivorans?\nA. This enzyme is a cytochrome P-450 (heme-thiolate) protein.\nB. This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.\nC. This enzyme has D-lactate dehydrogenase activity.\nD. This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.\nE. This enzyme contains a unique nickel-containing cofactor, pyridinium-3-thioamide-5-thiocarboxylate mononucleotide Ni pincer complex.",
+        "choices": {
+            "A": "This enzyme is a cytochrome P-450 (heme-thiolate) protein.",
+            "B": "This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.",
+            "C": "This enzyme has D-lactate dehydrogenase activity.",
+            "D": "This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.",
+            "E": "This enzyme contains a unique nickel-containing cofactor, pyridinium-3-thioamide-5-thiocarboxylate mononucleotide Ni pincer complex."
+        },
+        "raw_answer": "This enzyme is a cytochrome P-450 (heme-thiolate) protein.",
+        "answer": "A. This enzyme is a cytochrome P-450 (heme-thiolate) protein.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 111A2' found in Novosphingobium aromaticivorans?\nA. This enzyme is a cytochrome P-450 (heme-thiolate) protein.\nB. This enzyme is a bacterial zinc protein, and it acts on sphingomyelin and phosphatidylinositol.\nC. This enzyme has D-lactate dehydrogenase activity.\nD. This enzyme catalyzes the oxidation of the 7beta-hydroxy group of bile acids such as ursodeoxycholate.\nE. This enzyme contains a unique nickel-containing cofactor, pyridinium-3-thioamide-5-thiocarboxylate mononucleotide Ni pincer complex.",
+        "meta_info": {
+            "source_row": 125,
+            "protein_id": "P0126",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 41,
+        "pid": "41",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'General stress protein 14' found in Bacillus subtilis?\nA. This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.\nB. This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides.\nC. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nD. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nE. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "choices": {
+            "A": "This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.",
+            "B": "This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides.",
+            "C": "This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.",
+            "D": "This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+            "E": "This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes."
+        },
+        "raw_answer": "This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+        "answer": "D. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'General stress protein 14' found in Bacillus subtilis?\nA. This enzyme utilizes an inverting mechanism of hydrolysis, releasing beta-L-rhamnose. Substrates include naringin, rutin, quercitrin, hesperidin, dioscin, terpenyl glycosides and many other natural glycosides containing terminal alpha-L-rhamnose.\nB. This enzyme has wide specificity for beta-D-glucosides such as beta-D-galactosides, alpha-L-arabinosides, beta-D-xylosides, beta-D-fucosides.\nC. This enzyme is a pyridoxal-phosphate protein providing the (R)-glutamate required for cell wall biosynthesis and converting L- or D-glutamate to D- or L-glutamate, respectively, but not other amino acids such as alanine, aspartate, and glutamine.\nD. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nE. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "meta_info": {
+            "source_row": 403,
+            "protein_id": "P0404",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 42,
+        "pid": "42",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Xylose isomerase' found in Bifidobacterium adolescentis?\nA. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.\nB. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nC. This enzyme is inhibited by AMP and 2,4-dinitrophenol but not by dicoumarol or folic acid derivatives.\nD. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nE. This enzyme requires Fe2+ to display activity.",
+        "choices": {
+            "A": "This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.",
+            "B": "This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.",
+            "C": "This enzyme is inhibited by AMP and 2,4-dinitrophenol but not by dicoumarol or folic acid derivatives.",
+            "D": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+            "E": "This enzyme requires Fe2+ to display activity."
+        },
+        "raw_answer": "This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "answer": "D. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Xylose isomerase' found in Bifidobacterium adolescentis?\nA. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.\nB. This enzyme catalyzes the reversible aldol cleavage of N-acetylneuraminic acid (sialic acid; Neu5Ac) to form pyruvate and N-acetylmannosamine (ManNAc) via a Schiff base intermediate. It also acts on N-glycoloylneuraminate, and on O-acetylated sialic acids, other than 4-O-acetylated derivatives.\nC. This enzyme is inhibited by AMP and 2,4-dinitrophenol but not by dicoumarol or folic acid derivatives.\nD. This enzyme catalyzes the interconversion of aldose and ketose sugars with broad substrate specificity. It binds the closed form of its sugar substrate (in the case of glucose, only the alpha anomer) and catalyses ring opening to generate a form of open-chain conformation that is coordinated to one of the metal sites.\nE. This enzyme requires Fe2+ to display activity.",
+        "meta_info": {
+            "source_row": 373,
+            "protein_id": "P0374",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 43,
+        "pid": "43",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Biphenyl dioxygenase' found in Pseudomonas furukawaii?\nA. This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding.\nB. This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.\nC. This enzyme catalyzes the conversion of mercaptosuccinate to sulfinosuccinate by the introduction of two molecules of oxygen.\nD. This enzyme participates in the degradation pathway of biphenyl and PCB (poly chlorinated biphenyls) and contains Fe2+ or Mn2+ .\nE. This enzyme is involved in the gallate anaerobic degradation pathway in bacteria.",
+        "choices": {
+            "A": "This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding.",
+            "B": "This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.",
+            "C": "This enzyme catalyzes the conversion of mercaptosuccinate to sulfinosuccinate by the introduction of two molecules of oxygen.",
+            "D": "This enzyme participates in the degradation pathway of biphenyl and PCB (poly chlorinated biphenyls) and contains Fe2+ or Mn2+ .",
+            "E": "This enzyme is involved in the gallate anaerobic degradation pathway in bacteria."
+        },
+        "raw_answer": "This enzyme participates in the degradation pathway of biphenyl and PCB (poly chlorinated biphenyls) and contains Fe2+ or Mn2+ .",
+        "answer": "D. This enzyme participates in the degradation pathway of biphenyl and PCB (poly chlorinated biphenyls) and contains Fe2+ or Mn2+ .",
+        "answer_idx": 3,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Biphenyl dioxygenase' found in Pseudomonas furukawaii?\nA. This enzyme is required for high-level resistance to glycopeptides antibiotics. D-Ala--D-Ala ligase of altered specificity catalyzes ester bond formation between D-Ala and various D-hydroxy acids and produce a peptidoglycan which does not terminate in D-alanine but in D-lactate, thus preventing vancomycin binding.\nB. This enzyme catalyzes the conversion of N-acyl-L-homoserine lactone to N-acyl-L-homoserine.\nC. This enzyme catalyzes the conversion of mercaptosuccinate to sulfinosuccinate by the introduction of two molecules of oxygen.\nD. This enzyme participates in the degradation pathway of biphenyl and PCB (poly chlorinated biphenyls) and contains Fe2+ or Mn2+ .\nE. This enzyme is involved in the gallate anaerobic degradation pathway in bacteria.",
+        "meta_info": {
+            "source_row": 83,
+            "protein_id": "P0084",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 44,
+        "pid": "44",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 105D7' found in Streptomyces avermitilis?\nA. This enzyme acts on canavanine.\nB. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nC. Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.\nD. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nE. This enzyme catalyzes the hydroxylation of a nitrogen atom in the quinolone ring of aurachin.",
+        "choices": {
+            "A": "This enzyme acts on canavanine.",
+            "B": "This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.",
+            "C": "Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.",
+            "D": "This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.",
+            "E": "This enzyme catalyzes the hydroxylation of a nitrogen atom in the quinolone ring of aurachin."
+        },
+        "raw_answer": "Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.",
+        "answer": "C. Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.",
+        "answer_idx": 2,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 105D7' found in Streptomyces avermitilis?\nA. This enzyme acts on canavanine.\nB. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nC. Catalyzes the conversion of 1-deoxypentalenic acid to pentalenic acid in the biosynthesis of neopentalenolactone antibiotic.\nD. This enzyme has electron transfer activity, FMN binding, and NAD(P)H dehydrogenase (quinone) activity.\nE. This enzyme catalyzes the hydroxylation of a nitrogen atom in the quinolone ring of aurachin.",
+        "meta_info": {
+            "source_row": 19,
+            "protein_id": "P0020",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 45,
+        "pid": "45",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 101C1' found in Novosphingobium aromaticivorans?\nA. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme has cefotaxime-hydrolyzing activity.\nD. This enzyme catalyses the transfer of a sulfate group from a phenol sulfate ester to other phenolic compounds. It's activity is enhanced by Mg2+ and Mn2+.\nE. This enzyme acts on canavanine.",
+        "choices": {
+            "A": "This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.",
+            "B": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+            "C": "This enzyme has cefotaxime-hydrolyzing activity.",
+            "D": "This enzyme catalyses the transfer of a sulfate group from a phenol sulfate ester to other phenolic compounds. It's activity is enhanced by Mg2+ and Mn2+.",
+            "E": "This enzyme acts on canavanine."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+        "answer": "B. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 101C1' found in Novosphingobium aromaticivorans?\nA. This enzyme catalyzes the deamination of cytidine and 2'-deoxycytidine with similar efficiencies. It is involved in salvage of both exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis.\nB. This enzyme is a P-450 heme-thiolate protein, and it also acts on (-)-camphor and 1,2-campholide, forming 5-exo-hydroxy-1,2-campholide.\nC. This enzyme has cefotaxime-hydrolyzing activity.\nD. This enzyme catalyses the transfer of a sulfate group from a phenol sulfate ester to other phenolic compounds. It's activity is enhanced by Mg2+ and Mn2+.\nE. This enzyme acts on canavanine.",
+        "meta_info": {
+            "source_row": 124,
+            "protein_id": "P0125",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 46,
+        "pid": "46",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Molybdopterin-dependent enzyme' found in Escherichia coli?\nA. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nB. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nC. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.\nD. This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.\nE. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "choices": {
+            "A": "This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.",
+            "B": "This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+            "C": "This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.",
+            "D": "This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.",
+            "E": "This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes."
+        },
+        "raw_answer": "This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+        "answer": "B. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.",
+        "answer_idx": 1,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Molybdopterin-dependent enzyme' found in Escherichia coli?\nA. This enzyme is major oxygen-insensitive nitroreductase in E.coli. And it catalyzes the reduction of nitroaromatic compounds using NADPH, and has a broad electron acceptor specificity. Moreover, it reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product.\nB. This enzyme catalyzes the conversion of doxorubicin to 7-deoxydoxorubicinol and 7-deoxydoxorubicinolone via a reductive deglycosylation mechanism.\nC. This enzyme takes part in glucuronoside catabolic process. Substrates include sucrose.\nD. This enzyme is key enzyme in folate metabolism and can catalyze an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis. And it also slowly reduces folate to 5,6,7,8-tetrahydrofolate.\nE. This enzyme can reduce FMNH(2) to FMN, with NADPH as reductant, and also can reduce nitroaromatic compounds, quinones and azo dyes.",
+        "meta_info": {
+            "source_row": 265,
+            "protein_id": "P0266",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 47,
+        "pid": "47",
+        "question": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 21A2' found in Bacillus megaterium?\nA. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.\nB. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+        "choices": {
+            "A": "This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+            "B": "This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.",
+            "C": "This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.",
+            "D": "This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.",
+            "E": "This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring."
+        },
+        "raw_answer": "This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "answer": "A. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.",
+        "answer_idx": 0,
+        "query": "Which of the following descriptions best characterizes the biological function of the protein 'Cytochrome P450 21A2' found in Bacillus megaterium?\nA. This enzyme is a P-450 heme-thiolate protein and it responsible for the conversion of progesterone and 17alpha-hydroxyprogesterone to their respective 21-hydroxylated derivatives, 11-deoxycorticosterone and 11-deoxycortisol. Involved in the biosynthesis of the hormones aldosterone and cortisol. The electron donor is NADPH---hemoprotein reductase.\nB. This enzyme is P-450 heme-thiolate protein, acting on a wide range of substrates including many xenobiotics, steroids, fatty acids, vitamins and prostaglandins; reactions catalysed include hydroxylation, epoxidation, N-oxidation, sulfooxidation, N-, S- and O-dealkylations, desulfation, deamination, and reduction of azo, nitro and N-oxide groups.\nC. This enzyme has the capacity to hydroxylate certain steroids in the 15-beta position, and it also hydroxylates progesterone in the 11-alpha and 9-beta position.\nD. This enzyme catalyzes the degradation of hyaluronan by a beta-elimination reaction and it also acts on chondroitin.\nE. This enzyme confers resistance to the different beta-lactams antibiotics (penicillin, cephalosporin and carbapenem) via the hydrolysis of the beta-lactam ring.",
+        "meta_info": {
+            "source_row": 412,
+            "protein_id": "P0413",
+            "target_field": "Function",
+            "type": "Protein_Functional_Comprehension",
+            "source_file": "4protein_qa.jsonl"
+        }
+    }
+]

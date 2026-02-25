@@ -1,0 +1,54 @@
+global_planning: |
+  Analyze the query and create an execution plan.
+
+  **Query:** {agent_query}
+  **Available Tools:** {available_tools}
+  **Tool Metadata:** {toolbox_metadata}
+  **Files:** {file_info}
+
+  Provide:
+  1. Summary of query objectives
+  2. Required skills
+  3. Relevant tools with explanations
+  4. Additional considerations
+
+step_planning: |
+  Task: Determine the optimal next step to address the query using available tools and previous steps.
+
+  Context:
+  - **Query:** {agent_query}
+  - **Global Plan:** {global_plan}
+  - **Available Tools:** {available_tools}
+  - **Tool Metadata:** {toolbox_metadata}
+  - **Files:** {file_info}
+  - **Previous Steps:** {previous_steps}
+  - **Current Step:** {current_step} of {max_steps} (Remaining: {remaining_steps})
+
+  Instructions:
+  1. Analyze the query, global plan, and previous steps to identify what has been done and what remains.
+  2. Review the tool metadata carefully, especially limitations and best practices for each tool.
+  3. Select the **single best tool** for this step that maximizes progress toward the goal.
+  4. Formulate a specific, achievable sub-goal that builds on previous results.
+  5. Provide all necessary context, including **file paths**, **variable names**, **data from previous steps**.
+
+  CRITICAL: The Tool Name MUST be EXACTLY one of these: {available_tools}
+
+  Response Format:
+
+  Step Analysis: [Detailed justification for choosing this tool and approach]
+
+  Context: [ALL necessary information: file paths, variable names and values, data from previous steps]
+
+  Sub-Goal: [Specific, achievable objective for this tool]
+
+  Tool Name: [EXACT name from available_tools list - NO variations allowed]
+
+  Expected Outcome: [What you expect this step to produce]
+
+  Rules:
+  - Select only ONE tool for this step.
+  - The sub-goal must be directly achievable by the selected tool within its capabilities.
+  - The Context section MUST contain ALL information the tool needs: file paths, variable names, data values.
+  - Avoid redundancy - build on previous steps instead of repeating work.
+  - The response MUST end with the above five sections in order, with NO additional content afterward.
+  - Tool Name must EXACTLY match one from the list - no similar names, no variations.

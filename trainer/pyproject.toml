@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentflowkit"
+version = "0.3.6"
+authors = [
+  { name="Zhuofeng Li", email="zhuofengli@tamu.edu" },
+  { name="Haoxiang Zhang", email="haz140@ucsd.edu" },
+  { name="Pan Lu", email="lupantech@gmail.com" },
+]
+description = "An effective and easy-to-use agentic framework with extendable tools for complex reasoning."
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["trainer"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[project.urls]
+ArXiv = "https://arxiv.org/abs/2510.05592"
+Homepage = "https://agentflows.github.io"
+Demo = "https://huggingface.co/spaces/AgentFlow/agentflow"
+Github = "https://github.com/agentflows/agentflows.github.io"
+Issues = "https://github.com/agentflows/agentflows.github.io/issues"
+
+[project.optional-dependencies]
+dev = [
+    "black>=25.1.0",
+    "isort>=6.0.1"
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"

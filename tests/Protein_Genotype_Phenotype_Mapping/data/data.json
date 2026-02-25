@@ -1,0 +1,2302 @@
+[
+    {
+        "annot_id": 0,
+        "pid": "0",
+        "question": "In the genome of Klebsiella pneumoniae, which standardized gene is responsible for encoding the protein 'Molybdopterin-dependent enzyme'?\nA. molD\nB. acxB\nC. Lsa784\nD. yieF\nE. BSAG_01549",
+        "choices": {
+            "A": "molD",
+            "B": "acxB",
+            "C": "Lsa784",
+            "D": "yieF",
+            "E": "BSAG_01549"
+        },
+        "raw_answer": "molD",
+        "answer": "A. molD",
+        "answer_idx": 0,
+        "query": "In the genome of Klebsiella pneumoniae, which standardized gene is responsible for encoding the protein 'Molybdopterin-dependent enzyme'?\nA. molD\nB. acxB\nC. Lsa784\nD. yieF\nE. BSAG_01549",
+        "meta_info": {
+            "source_row": 215,
+            "protein_id": "P0216",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 1,
+        "pid": "1",
+        "question": "In the genome of Lactobacillus brevis, which standardized gene is responsible for encoding the protein 'Propanediol dehydrogenase'?\nA. xdhAC\nB. adh\nC. aadA1a\nD. dhaT\nE. iolG",
+        "choices": {
+            "A": "xdhAC",
+            "B": "adh",
+            "C": "aadA1a",
+            "D": "dhaT",
+            "E": "iolG"
+        },
+        "raw_answer": "dhaT",
+        "answer": "D. dhaT",
+        "answer_idx": 3,
+        "query": "In the genome of Lactobacillus brevis, which standardized gene is responsible for encoding the protein 'Propanediol dehydrogenase'?\nA. xdhAC\nB. adh\nC. aadA1a\nD. dhaT\nE. iolG",
+        "meta_info": {
+            "source_row": 194,
+            "protein_id": "P0195",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 2,
+        "pid": "2",
+        "question": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Gal2p'?\nA. VIN7_3230\nB. DWW96_00530\nC. MCC10120_0149\nD. BN522_00462\nE. cfxa2",
+        "choices": {
+            "A": "VIN7_3230",
+            "B": "DWW96_00530",
+            "C": "MCC10120_0149",
+            "D": "BN522_00462",
+            "E": "cfxa2"
+        },
+        "raw_answer": "VIN7_3230",
+        "answer": "A. VIN7_3230",
+        "answer_idx": 0,
+        "query": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Gal2p'?\nA. VIN7_3230\nB. DWW96_00530\nC. MCC10120_0149\nD. BN522_00462\nE. cfxa2",
+        "meta_info": {
+            "source_row": 461,
+            "protein_id": "P0475",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 3,
+        "pid": "3",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease C'?\nA. DEP29_01280\nB. BDX\nC. yjdL\nD. gap\nE. ENI20_12900",
+        "choices": {
+            "A": "DEP29_01280",
+            "B": "BDX",
+            "C": "yjdL",
+            "D": "gap",
+            "E": "ENI20_12900"
+        },
+        "raw_answer": "yjdL",
+        "answer": "C. yjdL",
+        "answer_idx": 2,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease C'?\nA. DEP29_01280\nB. BDX\nC. yjdL\nD. gap\nE. ENI20_12900",
+        "meta_info": {
+            "source_row": 475,
+            "protein_id": "P0489",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 4,
+        "pid": "4",
+        "question": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Outer membrane porin F'?\nA. DEW10_05980\nB. ompF\nC. deoA\nD. BN797_01166\nE. bglA",
+        "choices": {
+            "A": "DEW10_05980",
+            "B": "ompF",
+            "C": "deoA",
+            "D": "BN797_01166",
+            "E": "bglA"
+        },
+        "raw_answer": "ompF",
+        "answer": "B. ompF",
+        "answer_idx": 1,
+        "query": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Outer membrane porin F'?\nA. DEW10_05980\nB. ompF\nC. deoA\nD. BN797_01166\nE. bglA",
+        "meta_info": {
+            "source_row": 452,
+            "protein_id": "P0458",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 5,
+        "pid": "5",
+        "question": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'FMN-dependent NADH:quinone oxidoreductase'?\nA. azoR\nB. gpsA\nC. DC028_03720\nD. tyrDC\nE. KHX07_06210",
+        "choices": {
+            "A": "azoR",
+            "B": "gpsA",
+            "C": "DC028_03720",
+            "D": "tyrDC",
+            "E": "KHX07_06210"
+        },
+        "raw_answer": "azoR",
+        "answer": "A. azoR",
+        "answer_idx": 0,
+        "query": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'FMN-dependent NADH:quinone oxidoreductase'?\nA. azoR\nB. gpsA\nC. DC028_03720\nD. tyrDC\nE. KHX07_06210",
+        "meta_info": {
+            "source_row": 499,
+            "protein_id": "P0513",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 6,
+        "pid": "6",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. blaCMY-6\nB. gadC\nC. DIU45_12775\nD. deoA\nE. preTA",
+        "choices": {
+            "A": "blaCMY-6",
+            "B": "gadC",
+            "C": "DIU45_12775",
+            "D": "deoA",
+            "E": "preTA"
+        },
+        "raw_answer": "gadC",
+        "answer": "B. gadC",
+        "answer_idx": 1,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. blaCMY-6\nB. gadC\nC. DIU45_12775\nD. deoA\nE. preTA",
+        "meta_info": {
+            "source_row": 468,
+            "protein_id": "P0482",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 7,
+        "pid": "7",
+        "question": "In the genome of Methanomassiliicoccus luminyensis, which standardized gene is responsible for encoding the protein 'Chloramphenicol O-acetyltransferase'?\nA. DCW51_03155\nB. bioH\nC. ALP\nD. GXX95_00520\nE. pfkA",
+        "choices": {
+            "A": "DCW51_03155",
+            "B": "bioH",
+            "C": "ALP",
+            "D": "GXX95_00520",
+            "E": "pfkA"
+        },
+        "raw_answer": "GXX95_00520",
+        "answer": "D. GXX95_00520",
+        "answer_idx": 3,
+        "query": "In the genome of Methanomassiliicoccus luminyensis, which standardized gene is responsible for encoding the protein 'Chloramphenicol O-acetyltransferase'?\nA. DCW51_03155\nB. bioH\nC. ALP\nD. GXX95_00520\nE. pfkA",
+        "meta_info": {
+            "source_row": 515,
+            "protein_id": "P0530",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 8,
+        "pid": "8",
+        "question": "In the genome of Staphylococcus petrasii, which standardized gene is responsible for encoding the protein 'Arginine dihydrolase'?\nA. DOE78_02545\nB. arcA\nC. KH045_04285\nD. BAD1610\nE. KIC95_02860",
+        "choices": {
+            "A": "DOE78_02545",
+            "B": "arcA",
+            "C": "KH045_04285",
+            "D": "BAD1610",
+            "E": "KIC95_02860"
+        },
+        "raw_answer": "arcA",
+        "answer": "B. arcA",
+        "answer_idx": 1,
+        "query": "In the genome of Staphylococcus petrasii, which standardized gene is responsible for encoding the protein 'Arginine dihydrolase'?\nA. DOE78_02545\nB. arcA\nC. KH045_04285\nD. BAD1610\nE. KIC95_02860",
+        "meta_info": {
+            "source_row": 39,
+            "protein_id": "P0040",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 9,
+        "pid": "9",
+        "question": "In the genome of Enterococcus faecalis, which standardized gene is responsible for encoding the protein 'L-tyrosine decarboxylase'?\nA. tyrDC\nB. CE\nC. hyaL\nD. C7120_10955\nE. cbgA",
+        "choices": {
+            "A": "tyrDC",
+            "B": "CE",
+            "C": "hyaL",
+            "D": "C7120_10955",
+            "E": "cbgA"
+        },
+        "raw_answer": "tyrDC",
+        "answer": "A. tyrDC",
+        "answer_idx": 0,
+        "query": "In the genome of Enterococcus faecalis, which standardized gene is responsible for encoding the protein 'L-tyrosine decarboxylase'?\nA. tyrDC\nB. CE\nC. hyaL\nD. C7120_10955\nE. cbgA",
+        "meta_info": {
+            "source_row": 441,
+            "protein_id": "P0442",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 10,
+        "pid": "10",
+        "question": "In the genome of Lactobacillus brevis, which standardized gene is responsible for encoding the protein 'Glutamate/GABA antiporter'?\nA. cyp51A\nB. HMPREF0665_01052\nC. rauA\nD. uidA_1\nE. gadC",
+        "choices": {
+            "A": "cyp51A",
+            "B": "HMPREF0665_01052",
+            "C": "rauA",
+            "D": "uidA_1",
+            "E": "gadC"
+        },
+        "raw_answer": "gadC",
+        "answer": "E. gadC",
+        "answer_idx": 4,
+        "query": "In the genome of Lactobacillus brevis, which standardized gene is responsible for encoding the protein 'Glutamate/GABA antiporter'?\nA. cyp51A\nB. HMPREF0665_01052\nC. rauA\nD. uidA_1\nE. gadC",
+        "meta_info": {
+            "source_row": 501,
+            "protein_id": "P0516",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 11,
+        "pid": "11",
+        "question": "In the genome of Micrococcus luteus, which standardized gene is responsible for encoding the protein 'DszA/NtaA-like monooxygenase'?\nA. DszA\nB. DOE78_02545\nC. FCO76_09685\nD. yrpC\nE. ide",
+        "choices": {
+            "A": "DszA",
+            "B": "DOE78_02545",
+            "C": "FCO76_09685",
+            "D": "yrpC",
+            "E": "ide"
+        },
+        "raw_answer": "DszA",
+        "answer": "A. DszA",
+        "answer_idx": 0,
+        "query": "In the genome of Micrococcus luteus, which standardized gene is responsible for encoding the protein 'DszA/NtaA-like monooxygenase'?\nA. DszA\nB. DOE78_02545\nC. FCO76_09685\nD. yrpC\nE. ide",
+        "meta_info": {
+            "source_row": 436,
+            "protein_id": "P0437",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 12,
+        "pid": "12",
+        "question": "In the genome of Blautia obeum, which standardized gene is responsible for encoding the protein 'Glycerol/diol dehydratase'?\nA. HXL23_01170\nB. azoB\nC. dhaB\nD. blaCMY-6\nE. iolG",
+        "choices": {
+            "A": "HXL23_01170",
+            "B": "azoB",
+            "C": "dhaB",
+            "D": "blaCMY-6",
+            "E": "iolG"
+        },
+        "raw_answer": "dhaB",
+        "answer": "C. dhaB",
+        "answer_idx": 2,
+        "query": "In the genome of Blautia obeum, which standardized gene is responsible for encoding the protein 'Glycerol/diol dehydratase'?\nA. HXL23_01170\nB. azoB\nC. dhaB\nD. blaCMY-6\nE. iolG",
+        "meta_info": {
+            "source_row": 359,
+            "protein_id": "P0360",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 13,
+        "pid": "13",
+        "question": "In the genome of Comamonas sp., which standardized gene is responsible for encoding the protein 'Uracil phosphoribosyltransferase'?\nA. upp\nB. gtfA\nC. ldhA\nD. bla\nE. nox",
+        "choices": {
+            "A": "upp",
+            "B": "gtfA",
+            "C": "ldhA",
+            "D": "bla",
+            "E": "nox"
+        },
+        "raw_answer": "upp",
+        "answer": "A. upp",
+        "answer_idx": 0,
+        "query": "In the genome of Comamonas sp., which standardized gene is responsible for encoding the protein 'Uracil phosphoribosyltransferase'?\nA. upp\nB. gtfA\nC. ldhA\nD. bla\nE. nox",
+        "meta_info": {
+            "source_row": 507,
+            "protein_id": "P0522",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 14,
+        "pid": "14",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease B'?\nA. 12AH\nB. yhiP\nC. BDG\nD. acpH\nE. pobA",
+        "choices": {
+            "A": "12AH",
+            "B": "yhiP",
+            "C": "BDG",
+            "D": "acpH",
+            "E": "pobA"
+        },
+        "raw_answer": "yhiP",
+        "answer": "B. yhiP",
+        "answer_idx": 1,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease B'?\nA. 12AH\nB. yhiP\nC. BDG\nD. acpH\nE. pobA",
+        "meta_info": {
+            "source_row": 476,
+            "protein_id": "P0490",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 15,
+        "pid": "15",
+        "question": "In the genome of Vibrio fischeri, which standardized gene is responsible for encoding the protein 'NAD(P)H-flavin reductase'?\nA. katG\nB. simA\nC. fre\nD. racE1\nE. blaNDM-1",
+        "choices": {
+            "A": "katG",
+            "B": "simA",
+            "C": "fre",
+            "D": "racE1",
+            "E": "blaNDM-1"
+        },
+        "raw_answer": "fre",
+        "answer": "C. fre",
+        "answer_idx": 2,
+        "query": "In the genome of Vibrio fischeri, which standardized gene is responsible for encoding the protein 'NAD(P)H-flavin reductase'?\nA. katG\nB. simA\nC. fre\nD. racE1\nE. blaNDM-1",
+        "meta_info": {
+            "source_row": 469,
+            "protein_id": "P0483",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 16,
+        "pid": "16",
+        "question": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Homoserine-O-transsuccinylase'?\nA. DC028_03720\nB. metAA\nC. DDZ04_02500\nD. glyB\nE. cblA",
+        "choices": {
+            "A": "DC028_03720",
+            "B": "metAA",
+            "C": "DDZ04_02500",
+            "D": "glyB",
+            "E": "cblA"
+        },
+        "raw_answer": "metAA",
+        "answer": "B. metAA",
+        "answer_idx": 1,
+        "query": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Homoserine-O-transsuccinylase'?\nA. DC028_03720\nB. metAA\nC. DDZ04_02500\nD. glyB\nE. cblA",
+        "meta_info": {
+            "source_row": 54,
+            "protein_id": "P0055",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 17,
+        "pid": "17",
+        "question": "In the genome of Synechocystis sp., which standardized gene is responsible for encoding the protein 'Protein DrgA'?\nA. dhaB\nB. cyp130\nC. C3V41_10425\nD. xylA\nE. drgA",
+        "choices": {
+            "A": "dhaB",
+            "B": "cyp130",
+            "C": "C3V41_10425",
+            "D": "xylA",
+            "E": "drgA"
+        },
+        "raw_answer": "drgA",
+        "answer": "E. drgA",
+        "answer_idx": 4,
+        "query": "In the genome of Synechocystis sp., which standardized gene is responsible for encoding the protein 'Protein DrgA'?\nA. dhaB\nB. cyp130\nC. C3V41_10425\nD. xylA\nE. drgA",
+        "meta_info": {
+            "source_row": 478,
+            "protein_id": "P0492",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 18,
+        "pid": "18",
+        "question": "In the genome of Lactobacillus acidophilus, which standardized gene is responsible for encoding the protein 'Sucrose phosphorylase'?\nA. gtfA\nB. HMPREF0665_00884\nC. pglB\nD. pse4\nE. Apre_1608",
+        "choices": {
+            "A": "gtfA",
+            "B": "HMPREF0665_00884",
+            "C": "pglB",
+            "D": "pse4",
+            "E": "Apre_1608"
+        },
+        "raw_answer": "gtfA",
+        "answer": "A. gtfA",
+        "answer_idx": 0,
+        "query": "In the genome of Lactobacillus acidophilus, which standardized gene is responsible for encoding the protein 'Sucrose phosphorylase'?\nA. gtfA\nB. HMPREF0665_00884\nC. pglB\nD. pse4\nE. Apre_1608",
+        "meta_info": {
+            "source_row": 198,
+            "protein_id": "P0199",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 19,
+        "pid": "19",
+        "question": "In the genome of Clostridium sporogenes, which standardized gene is responsible for encoding the protein 'Aldehyde oxidase'?\nA. yjdL\nB. BDG\nC. alr\nD. xdhAC\nE. blaCMY-83",
+        "choices": {
+            "A": "yjdL",
+            "B": "BDG",
+            "C": "alr",
+            "D": "xdhAC",
+            "E": "blaCMY-83"
+        },
+        "raw_answer": "xdhAC",
+        "answer": "D. xdhAC",
+        "answer_idx": 3,
+        "query": "In the genome of Clostridium sporogenes, which standardized gene is responsible for encoding the protein 'Aldehyde oxidase'?\nA. yjdL\nB. BDG\nC. alr\nD. xdhAC\nE. blaCMY-83",
+        "meta_info": {
+            "source_row": 314,
+            "protein_id": "P0315",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 20,
+        "pid": "20",
+        "question": "In the genome of Achromobacter xylosoxidans, which standardized gene is responsible for encoding the protein 'Carbapenemase'?\nA. acpH\nB. gadC\nC. GKE90_13880\nD. SAMN02910431_01901\nE. axc",
+        "choices": {
+            "A": "acpH",
+            "B": "gadC",
+            "C": "GKE90_13880",
+            "D": "SAMN02910431_01901",
+            "E": "axc"
+        },
+        "raw_answer": "axc",
+        "answer": "E. axc",
+        "answer_idx": 4,
+        "query": "In the genome of Achromobacter xylosoxidans, which standardized gene is responsible for encoding the protein 'Carbapenemase'?\nA. acpH\nB. gadC\nC. GKE90_13880\nD. SAMN02910431_01901\nE. axc",
+        "meta_info": {
+            "source_row": 435,
+            "protein_id": "P0436",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 21,
+        "pid": "21",
+        "question": "In the genome of Segatella oris, which standardized gene is responsible for encoding the protein 'non-reducing end Alpha-L-arabinofuranosidase'?\nA. DCE60_07650\nB. HMPREF0665_02022\nC. MCC10120_0149\nD. CEP53_011021\nE. ywrO",
+        "choices": {
+            "A": "DCE60_07650",
+            "B": "HMPREF0665_02022",
+            "C": "MCC10120_0149",
+            "D": "CEP53_011021",
+            "E": "ywrO"
+        },
+        "raw_answer": "HMPREF0665_02022",
+        "answer": "B. HMPREF0665_02022",
+        "answer_idx": 1,
+        "query": "In the genome of Segatella oris, which standardized gene is responsible for encoding the protein 'non-reducing end Alpha-L-arabinofuranosidase'?\nA. DCE60_07650\nB. HMPREF0665_02022\nC. MCC10120_0149\nD. CEP53_011021\nE. ywrO",
+        "meta_info": {
+            "source_row": 480,
+            "protein_id": "P0494",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 22,
+        "pid": "22",
+        "question": "In the genome of Bacillus megaterium, which standardized gene is responsible for encoding the protein 'Cytochrome P450 BM3'?\nA. hdcA\nB. cypBM3\nC. malP\nD. upp\nE. bgaB",
+        "choices": {
+            "A": "hdcA",
+            "B": "cypBM3",
+            "C": "malP",
+            "D": "upp",
+            "E": "bgaB"
+        },
+        "raw_answer": "cypBM3",
+        "answer": "B. cypBM3",
+        "answer_idx": 1,
+        "query": "In the genome of Bacillus megaterium, which standardized gene is responsible for encoding the protein 'Cytochrome P450 BM3'?\nA. hdcA\nB. cypBM3\nC. malP\nD. upp\nE. bgaB",
+        "meta_info": {
+            "source_row": 409,
+            "protein_id": "P0410",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 23,
+        "pid": "23",
+        "question": "In the genome of Bacillus anthracis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 109B1'?\nA. ywrO\nB. strA\nC. agaSK\nD. ampC\nE. CYP109B1",
+        "choices": {
+            "A": "ywrO",
+            "B": "strA",
+            "C": "agaSK",
+            "D": "ampC",
+            "E": "CYP109B1"
+        },
+        "raw_answer": "CYP109B1",
+        "answer": "E. CYP109B1",
+        "answer_idx": 4,
+        "query": "In the genome of Bacillus anthracis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 109B1'?\nA. ywrO\nB. strA\nC. agaSK\nD. ampC\nE. CYP109B1",
+        "meta_info": {
+            "source_row": 413,
+            "protein_id": "P0414",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 24,
+        "pid": "24",
+        "question": "In the genome of Listeria welshimeri, which standardized gene is responsible for encoding the protein 'Oxygen-insensitive NADPH nitroreductase'?\nA. nfsA\nB. DCW51_03155\nC. cyp147G1\nD. aph(2'')-Ib\nE. BT_4389",
+        "choices": {
+            "A": "nfsA",
+            "B": "DCW51_03155",
+            "C": "cyp147G1",
+            "D": "aph(2'')-Ib",
+            "E": "BT_4389"
+        },
+        "raw_answer": "nfsA",
+        "answer": "A. nfsA",
+        "answer_idx": 0,
+        "query": "In the genome of Listeria welshimeri, which standardized gene is responsible for encoding the protein 'Oxygen-insensitive NADPH nitroreductase'?\nA. nfsA\nB. DCW51_03155\nC. cyp147G1\nD. aph(2'')-Ib\nE. BT_4389",
+        "meta_info": {
+            "source_row": 516,
+            "protein_id": "P0531",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 25,
+        "pid": "25",
+        "question": "In the genome of Enterobacter cloacae, which standardized gene is responsible for encoding the protein 'Oxygen-insensitive NAD(P)H nitroreductase'?\nA. cphA\nB. nfsB\nC. gadC\nD. hdhB\nE. EGA",
+        "choices": {
+            "A": "cphA",
+            "B": "nfsB",
+            "C": "gadC",
+            "D": "hdhB",
+            "E": "EGA"
+        },
+        "raw_answer": "nfsB",
+        "answer": "B. nfsB",
+        "answer_idx": 1,
+        "query": "In the genome of Enterobacter cloacae, which standardized gene is responsible for encoding the protein 'Oxygen-insensitive NAD(P)H nitroreductase'?\nA. cphA\nB. nfsB\nC. gadC\nD. hdhB\nE. EGA",
+        "meta_info": {
+            "source_row": 286,
+            "protein_id": "P0287",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 26,
+        "pid": "26",
+        "question": "In the genome of Flavonifractor plautii, which standardized gene is responsible for encoding the protein 'Glycerol/diol dehydratase'?\nA. folD\nB. DDZ04_02500\nC. dhaB\nD. pse4\nE. dsrF",
+        "choices": {
+            "A": "folD",
+            "B": "DDZ04_02500",
+            "C": "dhaB",
+            "D": "pse4",
+            "E": "dsrF"
+        },
+        "raw_answer": "dhaB",
+        "answer": "C. dhaB",
+        "answer_idx": 2,
+        "query": "In the genome of Flavonifractor plautii, which standardized gene is responsible for encoding the protein 'Glycerol/diol dehydratase'?\nA. folD\nB. DDZ04_02500\nC. dhaB\nD. pse4\nE. dsrF",
+        "meta_info": {
+            "source_row": 235,
+            "protein_id": "P0236",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 27,
+        "pid": "27",
+        "question": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'New delhi metallo-Beta-lactamase NDM-1'?\nA. treY\nB. blaNDM\nC. EGA\nD. pse4\nE. azoB",
+        "choices": {
+            "A": "treY",
+            "B": "blaNDM",
+            "C": "EGA",
+            "D": "pse4",
+            "E": "azoB"
+        },
+        "raw_answer": "blaNDM",
+        "answer": "B. blaNDM",
+        "answer_idx": 1,
+        "query": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'New delhi metallo-Beta-lactamase NDM-1'?\nA. treY\nB. blaNDM\nC. EGA\nD. pse4\nE. azoB",
+        "meta_info": {
+            "source_row": 56,
+            "protein_id": "P0057",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 28,
+        "pid": "28",
+        "question": "In the genome of Bacteroides JY-6, which standardized gene is responsible for encoding the protein 'Alpha-arabinopyranosidase'?\nA. BT_3661\nB. alr\nC. cgr1\nD. cyp101\nE. yieF",
+        "choices": {
+            "A": "BT_3661",
+            "B": "alr",
+            "C": "cgr1",
+            "D": "cyp101",
+            "E": "yieF"
+        },
+        "raw_answer": "BT_3661",
+        "answer": "A. BT_3661",
+        "answer_idx": 0,
+        "query": "In the genome of Bacteroides JY-6, which standardized gene is responsible for encoding the protein 'Alpha-arabinopyranosidase'?\nA. BT_3661\nB. alr\nC. cgr1\nD. cyp101\nE. yieF",
+        "meta_info": {
+            "source_row": 448,
+            "protein_id": "P0454",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 29,
+        "pid": "29",
+        "question": "In the genome of Burkholderia multivorans, which standardized gene is responsible for encoding the protein 'AmpC Beta-lactamase'?\nA. BN778_00123\nB. ampC\nC. bla\nD. cblA\nE. pse4",
+        "choices": {
+            "A": "BN778_00123",
+            "B": "ampC",
+            "C": "bla",
+            "D": "cblA",
+            "E": "pse4"
+        },
+        "raw_answer": "ampC",
+        "answer": "B. ampC",
+        "answer_idx": 1,
+        "query": "In the genome of Burkholderia multivorans, which standardized gene is responsible for encoding the protein 'AmpC Beta-lactamase'?\nA. BN778_00123\nB. ampC\nC. bla\nD. cblA\nE. pse4",
+        "meta_info": {
+            "source_row": 354,
+            "protein_id": "P0355",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 30,
+        "pid": "30",
+        "question": "In the genome of Clostridium hylemonae, which standardized gene is responsible for encoding the protein 'Alpha-hydroxysteroid dehydrogenase'?\nA. blaFRI-4\nB. 12AH\nC. cdd\nD. ywrO\nE. yihS",
+        "choices": {
+            "A": "blaFRI-4",
+            "B": "12AH",
+            "C": "cdd",
+            "D": "ywrO",
+            "E": "yihS"
+        },
+        "raw_answer": "12AH",
+        "answer": "B. 12AH",
+        "answer_idx": 1,
+        "query": "In the genome of Clostridium hylemonae, which standardized gene is responsible for encoding the protein 'Alpha-hydroxysteroid dehydrogenase'?\nA. blaFRI-4\nB. 12AH\nC. cdd\nD. ywrO\nE. yihS",
+        "meta_info": {
+            "source_row": 320,
+            "protein_id": "P0321",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 31,
+        "pid": "31",
+        "question": "In the genome of Campylobacter jejuni, which standardized gene is responsible for encoding the protein 'Aminoglycoside phosphotransferase'?\nA. aph(2'')-Ib\nB. EGY\nC. blaCARB\nD. DPEase\nE. bgaB",
+        "choices": {
+            "A": "aph(2'')-Ib",
+            "B": "EGY",
+            "C": "blaCARB",
+            "D": "DPEase",
+            "E": "bgaB"
+        },
+        "raw_answer": "aph(2'')-Ib",
+        "answer": "A. aph(2'')-Ib",
+        "answer_idx": 0,
+        "query": "In the genome of Campylobacter jejuni, which standardized gene is responsible for encoding the protein 'Aminoglycoside phosphotransferase'?\nA. aph(2'')-Ib\nB. EGY\nC. blaCARB\nD. DPEase\nE. bgaB",
+        "meta_info": {
+            "source_row": 347,
+            "protein_id": "P0348",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 32,
+        "pid": "32",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Outer membrane porin C'?\nA. ompC\nB. erm\nC. azoR1\nD. adhA_1\nE. bla",
+        "choices": {
+            "A": "ompC",
+            "B": "erm",
+            "C": "azoR1",
+            "D": "adhA_1",
+            "E": "bla"
+        },
+        "raw_answer": "ompC",
+        "answer": "A. ompC",
+        "answer_idx": 0,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Outer membrane porin C'?\nA. ompC\nB. erm\nC. azoR1\nD. adhA_1\nE. bla",
+        "meta_info": {
+            "source_row": 454,
+            "protein_id": "P0460",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 33,
+        "pid": "33",
+        "question": "In the genome of Lacticaseibacillus casei, which standardized gene is responsible for encoding the protein 'Folylpolyglutamate synthetase'?\nA. fpgS\nB. A7975_13595\nC. DOE78_02545\nD. GO707_03090\nE. nemA",
+        "choices": {
+            "A": "fpgS",
+            "B": "A7975_13595",
+            "C": "DOE78_02545",
+            "D": "GO707_03090",
+            "E": "nemA"
+        },
+        "raw_answer": "fpgS",
+        "answer": "A. fpgS",
+        "answer_idx": 0,
+        "query": "In the genome of Lacticaseibacillus casei, which standardized gene is responsible for encoding the protein 'Folylpolyglutamate synthetase'?\nA. fpgS\nB. A7975_13595\nC. DOE78_02545\nD. GO707_03090\nE. nemA",
+        "meta_info": {
+            "source_row": 187,
+            "protein_id": "P0188",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 34,
+        "pid": "34",
+        "question": "In the genome of Xanthobacter autotrophicus, which standardized gene is responsible for encoding the protein 'Acetone carboxylase'?\nA. blaB\nB. pglB1\nC. acxB\nD. deoD\nE. 12AH",
+        "choices": {
+            "A": "blaB",
+            "B": "pglB1",
+            "C": "acxB",
+            "D": "deoD",
+            "E": "12AH"
+        },
+        "raw_answer": "acxB",
+        "answer": "C. acxB",
+        "answer_idx": 2,
+        "query": "In the genome of Xanthobacter autotrophicus, which standardized gene is responsible for encoding the protein 'Acetone carboxylase'?\nA. blaB\nB. pglB1\nC. acxB\nD. deoD\nE. 12AH",
+        "meta_info": {
+            "source_row": 0,
+            "protein_id": "P0001",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 35,
+        "pid": "35",
+        "question": "In the genome of Mycobacterium tuberculosis, which standardized gene is responsible for encoding the protein 'Deazaflavin-dependent nitroreductase'?\nA. xylA\nB. azr_2\nC. ddn\nD. ycjT\nE. deoD",
+        "choices": {
+            "A": "xylA",
+            "B": "azr_2",
+            "C": "ddn",
+            "D": "ycjT",
+            "E": "deoD"
+        },
+        "raw_answer": "ddn",
+        "answer": "C. ddn",
+        "answer_idx": 2,
+        "query": "In the genome of Mycobacterium tuberculosis, which standardized gene is responsible for encoding the protein 'Deazaflavin-dependent nitroreductase'?\nA. xylA\nB. azr_2\nC. ddn\nD. ycjT\nE. deoD",
+        "meta_info": {
+            "source_row": 479,
+            "protein_id": "P0493",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 36,
+        "pid": "36",
+        "question": "In the genome of Campylobacter coli, which standardized gene is responsible for encoding the protein 'Kanamycin/gentamycin-resistance enzyme'?\nA. KHX07_06210\nB. aacA\nC. tynA\nD. DC028_03720\nE. bglX",
+        "choices": {
+            "A": "KHX07_06210",
+            "B": "aacA",
+            "C": "tynA",
+            "D": "DC028_03720",
+            "E": "bglX"
+        },
+        "raw_answer": "aacA",
+        "answer": "B. aacA",
+        "answer_idx": 1,
+        "query": "In the genome of Campylobacter coli, which standardized gene is responsible for encoding the protein 'Kanamycin/gentamycin-resistance enzyme'?\nA. KHX07_06210\nB. aacA\nC. tynA\nD. DC028_03720\nE. bglX",
+        "meta_info": {
+            "source_row": 348,
+            "protein_id": "P0349",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 37,
+        "pid": "37",
+        "question": "In the genome of Burkholderia cepacia, which standardized gene is responsible for encoding the protein 'PenA Beta-lactamase'?\nA. penA\nB. bgl\nC. blaB\nD. apbE1\nE. maeB",
+        "choices": {
+            "A": "penA",
+            "B": "bgl",
+            "C": "blaB",
+            "D": "apbE1",
+            "E": "maeB"
+        },
+        "raw_answer": "penA",
+        "answer": "A. penA",
+        "answer_idx": 0,
+        "query": "In the genome of Burkholderia cepacia, which standardized gene is responsible for encoding the protein 'PenA Beta-lactamase'?\nA. penA\nB. bgl\nC. blaB\nD. apbE1\nE. maeB",
+        "meta_info": {
+            "source_row": 355,
+            "protein_id": "P0356",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 38,
+        "pid": "38",
+        "question": "In the genome of Haemophilus influenzae, which standardized gene is responsible for encoding the protein 'Na(+)-translocating NADH-quinone reductase subunit F'?\nA. nqrF\nB. efe\nC. BSGG_3894\nD. pepV\nE. aphA-6",
+        "choices": {
+            "A": "nqrF",
+            "B": "efe",
+            "C": "BSGG_3894",
+            "D": "pepV",
+            "E": "aphA-6"
+        },
+        "raw_answer": "nqrF",
+        "answer": "A. nqrF",
+        "answer_idx": 0,
+        "query": "In the genome of Haemophilus influenzae, which standardized gene is responsible for encoding the protein 'Na(+)-translocating NADH-quinone reductase subunit F'?\nA. nqrF\nB. efe\nC. BSGG_3894\nD. pepV\nE. aphA-6",
+        "meta_info": {
+            "source_row": 455,
+            "protein_id": "P0462",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 39,
+        "pid": "39",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Outer membrane porin F'?\nA. aec46\nB. pyrC\nC. treY\nD. BSAG_01549\nE. ompF",
+        "choices": {
+            "A": "aec46",
+            "B": "pyrC",
+            "C": "treY",
+            "D": "BSAG_01549",
+            "E": "ompF"
+        },
+        "raw_answer": "ompF",
+        "answer": "E. ompF",
+        "answer_idx": 4,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Outer membrane porin F'?\nA. aec46\nB. pyrC\nC. treY\nD. BSAG_01549\nE. ompF",
+        "meta_info": {
+            "source_row": 453,
+            "protein_id": "P0459",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 40,
+        "pid": "40",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease A'?\nA. cyp51B1\nB. ydgR\nC. cyp124\nD. gtf106B\nE. msmK",
+        "choices": {
+            "A": "cyp51B1",
+            "B": "ydgR",
+            "C": "cyp124",
+            "D": "gtf106B",
+            "E": "msmK"
+        },
+        "raw_answer": "ydgR",
+        "answer": "B. ydgR",
+        "answer_idx": 1,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide and tripeptide permease A'?\nA. cyp51B1\nB. ydgR\nC. cyp124\nD. gtf106B\nE. msmK",
+        "meta_info": {
+            "source_row": 477,
+            "protein_id": "P0491",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 41,
+        "pid": "41",
+        "question": "In the genome of Pseudomonas putida, which standardized gene is responsible for encoding the protein 'Nicotinate dehydrogenase'?\nA. nicA\nB. glmU\nC. hdhB\nD. FYJ54_12480\nE. ldh",
+        "choices": {
+            "A": "nicA",
+            "B": "glmU",
+            "C": "hdhB",
+            "D": "FYJ54_12480",
+            "E": "ldh"
+        },
+        "raw_answer": "nicA",
+        "answer": "A. nicA",
+        "answer_idx": 0,
+        "query": "In the genome of Pseudomonas putida, which standardized gene is responsible for encoding the protein 'Nicotinate dehydrogenase'?\nA. nicA\nB. glmU\nC. hdhB\nD. FYJ54_12480\nE. ldh",
+        "meta_info": {
+            "source_row": 79,
+            "protein_id": "P0080",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 42,
+        "pid": "42",
+        "question": "In the genome of Lactobacillus delbrueckii, which standardized gene is responsible for encoding the protein 'Sugar ABC superfamily ATP binding cassette transporter'?\nA. Shel_22300\nB. gadB\nC. blaOXA-10\nD. lrA\nE. msmK",
+        "choices": {
+            "A": "Shel_22300",
+            "B": "gadB",
+            "C": "blaOXA-10",
+            "D": "lrA",
+            "E": "msmK"
+        },
+        "raw_answer": "msmK",
+        "answer": "E. msmK",
+        "answer_idx": 4,
+        "query": "In the genome of Lactobacillus delbrueckii, which standardized gene is responsible for encoding the protein 'Sugar ABC superfamily ATP binding cassette transporter'?\nA. Shel_22300\nB. gadB\nC. blaOXA-10\nD. lrA\nE. msmK",
+        "meta_info": {
+            "source_row": 470,
+            "protein_id": "P0484",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 43,
+        "pid": "43",
+        "question": "In the genome of Lactobacillus acidophilus, which standardized gene is responsible for encoding the protein 'ATP-binding protein MsmK'?\nA. cyp102A1\nB. msmK\nC. rox\nD. DDX70_00180\nE. glgB",
+        "choices": {
+            "A": "cyp102A1",
+            "B": "msmK",
+            "C": "rox",
+            "D": "DDX70_00180",
+            "E": "glgB"
+        },
+        "raw_answer": "msmK",
+        "answer": "B. msmK",
+        "answer_idx": 1,
+        "query": "In the genome of Lactobacillus acidophilus, which standardized gene is responsible for encoding the protein 'ATP-binding protein MsmK'?\nA. cyp102A1\nB. msmK\nC. rox\nD. DDX70_00180\nE. glgB",
+        "meta_info": {
+            "source_row": 449,
+            "protein_id": "P0455",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 44,
+        "pid": "44",
+        "question": "In the genome of Helicobacter pylori, which standardized gene is responsible for encoding the protein 'Glucosamine-1-phosphate N-acetyltransferase'?\nA. GXX95_00520\nB. aph(2'')-Ib\nC. ybxI\nD. lacZ_4\nE. glmU",
+        "choices": {
+            "A": "GXX95_00520",
+            "B": "aph(2'')-Ib",
+            "C": "ybxI",
+            "D": "lacZ_4",
+            "E": "glmU"
+        },
+        "raw_answer": "glmU",
+        "answer": "E. glmU",
+        "answer_idx": 4,
+        "query": "In the genome of Helicobacter pylori, which standardized gene is responsible for encoding the protein 'Glucosamine-1-phosphate N-acetyltransferase'?\nA. GXX95_00520\nB. aph(2'')-Ib\nC. ybxI\nD. lacZ_4\nE. glmU",
+        "meta_info": {
+            "source_row": 463,
+            "protein_id": "P0477",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 45,
+        "pid": "45",
+        "question": "In the genome of Bacillus subtilis, which standardized gene is responsible for encoding the protein 'Hypoxanthine phosphoribosyltransferase'?\nA. hdhB\nB. nfrA2_4\nC. AVS7_00617\nD. ADH\nE. HPRT",
+        "choices": {
+            "A": "hdhB",
+            "B": "nfrA2_4",
+            "C": "AVS7_00617",
+            "D": "ADH",
+            "E": "HPRT"
+        },
+        "raw_answer": "HPRT",
+        "answer": "E. HPRT",
+        "answer_idx": 4,
+        "query": "In the genome of Bacillus subtilis, which standardized gene is responsible for encoding the protein 'Hypoxanthine phosphoribosyltransferase'?\nA. hdhB\nB. nfrA2_4\nC. AVS7_00617\nD. ADH\nE. HPRT",
+        "meta_info": {
+            "source_row": 459,
+            "protein_id": "P0473",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 46,
+        "pid": "46",
+        "question": "In the genome of Peptostreptoccous YK-10, which standardized gene is responsible for encoding the protein 'C-glycosidase'?\nA. lrA\nB. DWW96_00530\nC. MCC10120_0149\nD. blaP\nE. HXL23_01170",
+        "choices": {
+            "A": "lrA",
+            "B": "DWW96_00530",
+            "C": "MCC10120_0149",
+            "D": "blaP",
+            "E": "HXL23_01170"
+        },
+        "raw_answer": "HXL23_01170",
+        "answer": "E. HXL23_01170",
+        "answer_idx": 4,
+        "query": "In the genome of Peptostreptoccous YK-10, which standardized gene is responsible for encoding the protein 'C-glycosidase'?\nA. lrA\nB. DWW96_00530\nC. MCC10120_0149\nD. blaP\nE. HXL23_01170",
+        "meta_info": {
+            "source_row": 514,
+            "protein_id": "P0529",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 47,
+        "pid": "47",
+        "question": "In the genome of Staphylococcus sciuri, which standardized gene is responsible for encoding the protein 'FMN dependent NADH:quinone oxidoreductase'?\nA. azr_2\nB. azoR\nC. nfsB\nD. azoB\nE. cyp158a2_1",
+        "choices": {
+            "A": "azr_2",
+            "B": "azoR",
+            "C": "nfsB",
+            "D": "azoB",
+            "E": "cyp158a2_1"
+        },
+        "raw_answer": "azoR",
+        "answer": "B. azoR",
+        "answer_idx": 1,
+        "query": "In the genome of Staphylococcus sciuri, which standardized gene is responsible for encoding the protein 'FMN dependent NADH:quinone oxidoreductase'?\nA. azr_2\nB. azoR\nC. nfsB\nD. azoB\nE. cyp158a2_1",
+        "meta_info": {
+            "source_row": 505,
+            "protein_id": "P0520",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 48,
+        "pid": "48",
+        "question": "In the genome of Lactiplantibacillus plantarum, which standardized gene is responsible for encoding the protein '1,4-Alpha-glucan branching enzyme GlgB'?\nA. pobA\nB. azr_2\nC. DCZ73_03960\nD. DIU45_12775\nE. glgB",
+        "choices": {
+            "A": "pobA",
+            "B": "azr_2",
+            "C": "DCZ73_03960",
+            "D": "DIU45_12775",
+            "E": "glgB"
+        },
+        "raw_answer": "glgB",
+        "answer": "E. glgB",
+        "answer_idx": 4,
+        "query": "In the genome of Lactiplantibacillus plantarum, which standardized gene is responsible for encoding the protein '1,4-Alpha-glucan branching enzyme GlgB'?\nA. pobA\nB. azr_2\nC. DCZ73_03960\nD. DIU45_12775\nE. glgB",
+        "meta_info": {
+            "source_row": 465,
+            "protein_id": "P0479",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 49,
+        "pid": "49",
+        "question": "In the genome of Lactococcus lactis, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. ydgR\nB. gadC\nC. ENO05_06740\nD. DEW10_05980\nE. 12AH",
+        "choices": {
+            "A": "ydgR",
+            "B": "gadC",
+            "C": "ENO05_06740",
+            "D": "DEW10_05980",
+            "E": "12AH"
+        },
+        "raw_answer": "gadC",
+        "answer": "B. gadC",
+        "answer_idx": 1,
+        "query": "In the genome of Lactococcus lactis, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. ydgR\nB. gadC\nC. ENO05_06740\nD. DEW10_05980\nE. 12AH",
+        "meta_info": {
+            "source_row": 467,
+            "protein_id": "P0481",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 50,
+        "pid": "50",
+        "question": "In the genome of Citrobacter youngae, which standardized gene is responsible for encoding the protein 'Carbapenemase'?\nA. tynA\nB. nuoE\nC. GXX95_00520\nD. aci1\nE. ampC",
+        "choices": {
+            "A": "tynA",
+            "B": "nuoE",
+            "C": "GXX95_00520",
+            "D": "aci1",
+            "E": "ampC"
+        },
+        "raw_answer": "ampC",
+        "answer": "E. ampC",
+        "answer_idx": 4,
+        "query": "In the genome of Citrobacter youngae, which standardized gene is responsible for encoding the protein 'Carbapenemase'?\nA. tynA\nB. nuoE\nC. GXX95_00520\nD. aci1\nE. ampC",
+        "meta_info": {
+            "source_row": 327,
+            "protein_id": "P0328",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 51,
+        "pid": "51",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'NADPH-dependent nitroreductase'?\nA. racE1\nB. bgaB\nC. vanB\nD. nfrA1\nE. cgr2",
+        "choices": {
+            "A": "racE1",
+            "B": "bgaB",
+            "C": "vanB",
+            "D": "nfrA1",
+            "E": "cgr2"
+        },
+        "raw_answer": "nfrA1",
+        "answer": "D. nfrA1",
+        "answer_idx": 3,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'NADPH-dependent nitroreductase'?\nA. racE1\nB. bgaB\nC. vanB\nD. nfrA1\nE. cgr2",
+        "meta_info": {
+            "source_row": 401,
+            "protein_id": "P0402",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 52,
+        "pid": "52",
+        "question": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Hxt1p'?\nA. nfsA\nB. VIN7_5215\nC. bglX_4\nD. cyp147G1\nE. araA",
+        "choices": {
+            "A": "nfsA",
+            "B": "VIN7_5215",
+            "C": "bglX_4",
+            "D": "cyp147G1",
+            "E": "araA"
+        },
+        "raw_answer": "VIN7_5215",
+        "answer": "B. VIN7_5215",
+        "answer_idx": 1,
+        "query": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Hxt1p'?\nA. nfsA\nB. VIN7_5215\nC. bglX_4\nD. cyp147G1\nE. araA",
+        "meta_info": {
+            "source_row": 460,
+            "protein_id": "P0474",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 53,
+        "pid": "53",
+        "question": "In the genome of Actinomyces howellii, which standardized gene is responsible for encoding the protein 'Glycosyltransferase'?\nA. C3V41_10425\nB. DER28_02905\nC. bglX\nD. blaOXA-10\nE. cyp106A2",
+        "choices": {
+            "A": "C3V41_10425",
+            "B": "DER28_02905",
+            "C": "bglX",
+            "D": "blaOXA-10",
+            "E": "cyp106A2"
+        },
+        "raw_answer": "C3V41_10425",
+        "answer": "A. C3V41_10425",
+        "answer_idx": 0,
+        "query": "In the genome of Actinomyces howellii, which standardized gene is responsible for encoding the protein 'Glycosyltransferase'?\nA. C3V41_10425\nB. DER28_02905\nC. bglX\nD. blaOXA-10\nE. cyp106A2",
+        "meta_info": {
+            "source_row": 424,
+            "protein_id": "P0425",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 54,
+        "pid": "54",
+        "question": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Hxt17p'?\nA. ompC\nB. VIN7_1225\nC. aphA6\nD. ENI20_12900\nE. nhoA",
+        "choices": {
+            "A": "ompC",
+            "B": "VIN7_1225",
+            "C": "aphA6",
+            "D": "ENI20_12900",
+            "E": "nhoA"
+        },
+        "raw_answer": "VIN7_1225",
+        "answer": "B. VIN7_1225",
+        "answer_idx": 1,
+        "query": "In the genome of Saccharomyces cerevisiae, which standardized gene is responsible for encoding the protein 'Hxt17p'?\nA. ompC\nB. VIN7_1225\nC. aphA6\nD. ENI20_12900\nE. nhoA",
+        "meta_info": {
+            "source_row": 462,
+            "protein_id": "P0476",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 55,
+        "pid": "55",
+        "question": "In the genome of Synechococcus elongatus, which standardized gene is responsible for encoding the protein 'Catalase-peroxidase'?\nA. DCM29_08290\nB. bglR\nC. erm(X)\nD. ybxI\nE. katG",
+        "choices": {
+            "A": "DCM29_08290",
+            "B": "bglR",
+            "C": "erm(X)",
+            "D": "ybxI",
+            "E": "katG"
+        },
+        "raw_answer": "katG",
+        "answer": "E. katG",
+        "answer_idx": 4,
+        "query": "In the genome of Synechococcus elongatus, which standardized gene is responsible for encoding the protein 'Catalase-peroxidase'?\nA. DCM29_08290\nB. bglR\nC. erm(X)\nD. ybxI\nE. katG",
+        "meta_info": {
+            "source_row": 17,
+            "protein_id": "P0018",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 56,
+        "pid": "56",
+        "question": "In the genome of Acinetobacter baumannii, which standardized gene is responsible for encoding the protein 'Nicotinamidase'?\nA. manB\nB. DCS83_01640\nC. pncA\nD. nfrA\nE. aadA1a",
+        "choices": {
+            "A": "manB",
+            "B": "DCS83_01640",
+            "C": "pncA",
+            "D": "nfrA",
+            "E": "aadA1a"
+        },
+        "raw_answer": "pncA",
+        "answer": "C. pncA",
+        "answer_idx": 2,
+        "query": "In the genome of Acinetobacter baumannii, which standardized gene is responsible for encoding the protein 'Nicotinamidase'?\nA. manB\nB. DCS83_01640\nC. pncA\nD. nfrA\nE. aadA1a",
+        "meta_info": {
+            "source_row": 426,
+            "protein_id": "P0427",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 57,
+        "pid": "57",
+        "question": "In the genome of Mycoplasma hyorhinis, which standardized gene is responsible for encoding the protein 'Thymidine phosphorylases'?\nA. deoA\nB. KH045_04285\nC. lacG\nD. bgaB\nE. 10-LAH",
+        "choices": {
+            "A": "deoA",
+            "B": "KH045_04285",
+            "C": "lacG",
+            "D": "bgaB",
+            "E": "10-LAH"
+        },
+        "raw_answer": "deoA",
+        "answer": "A. deoA",
+        "answer_idx": 0,
+        "query": "In the genome of Mycoplasma hyorhinis, which standardized gene is responsible for encoding the protein 'Thymidine phosphorylases'?\nA. deoA\nB. KH045_04285\nC. lacG\nD. bgaB\nE. 10-LAH",
+        "meta_info": {
+            "source_row": 442,
+            "protein_id": "P0447",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 58,
+        "pid": "58",
+        "question": "In the genome of Shigella flexneri, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. hyl\nB. pncA\nC. gadC\nD. HMPREF1494_0936\nE. nagH",
+        "choices": {
+            "A": "hyl",
+            "B": "pncA",
+            "C": "gadC",
+            "D": "HMPREF1494_0936",
+            "E": "nagH"
+        },
+        "raw_answer": "gadC",
+        "answer": "C. gadC",
+        "answer_idx": 2,
+        "query": "In the genome of Shigella flexneri, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. hyl\nB. pncA\nC. gadC\nD. HMPREF1494_0936\nE. nagH",
+        "meta_info": {
+            "source_row": 466,
+            "protein_id": "P0480",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 59,
+        "pid": "59",
+        "question": "In the genome of Bifidobacterium longum, which standardized gene is responsible for encoding the protein 'Beta-xylosidase'?\nA. cfxa2\nB. pepT\nC. FCO76_09685\nD. SAMN02910431_01901\nE. alr",
+        "choices": {
+            "A": "cfxa2",
+            "B": "pepT",
+            "C": "FCO76_09685",
+            "D": "SAMN02910431_01901",
+            "E": "alr"
+        },
+        "raw_answer": "FCO76_09685",
+        "answer": "C. FCO76_09685",
+        "answer_idx": 2,
+        "query": "In the genome of Bifidobacterium longum, which standardized gene is responsible for encoding the protein 'Beta-xylosidase'?\nA. cfxa2\nB. pepT\nC. FCO76_09685\nD. SAMN02910431_01901\nE. alr",
+        "meta_info": {
+            "source_row": 504,
+            "protein_id": "P0519",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 60,
+        "pid": "60",
+        "question": "In the genome of Acidovorax ebreus, which standardized gene is responsible for encoding the protein 'N-acylhomoserine lactone acylase'?\nA. ENO05_06740\nB. AVS7_00617\nC. ampG\nD. rafA_1\nE. gtfA",
+        "choices": {
+            "A": "ENO05_06740",
+            "B": "AVS7_00617",
+            "C": "ampG",
+            "D": "rafA_1",
+            "E": "gtfA"
+        },
+        "raw_answer": "AVS7_00617",
+        "answer": "B. AVS7_00617",
+        "answer_idx": 1,
+        "query": "In the genome of Acidovorax ebreus, which standardized gene is responsible for encoding the protein 'N-acylhomoserine lactone acylase'?\nA. ENO05_06740\nB. AVS7_00617\nC. ampG\nD. rafA_1\nE. gtfA",
+        "meta_info": {
+            "source_row": 429,
+            "protein_id": "P0430",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 61,
+        "pid": "61",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Aec46'?\nA. KIC95_02860\nB. aec46\nC. ompF\nD. ompC\nE. ScrB",
+        "choices": {
+            "A": "KIC95_02860",
+            "B": "aec46",
+            "C": "ompF",
+            "D": "ompC",
+            "E": "ScrB"
+        },
+        "raw_answer": "aec46",
+        "answer": "B. aec46",
+        "answer_idx": 1,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Aec46'?\nA. KIC95_02860\nB. aec46\nC. ompF\nD. ompC\nE. ScrB",
+        "meta_info": {
+            "source_row": 450,
+            "protein_id": "P0456",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 62,
+        "pid": "62",
+        "question": "In the genome of Bacteroides fragilis, which standardized gene is responsible for encoding the protein 'Protein RecA'?\nA. recA\nB. azr_2\nC. punA\nD. blaP\nE. hyl",
+        "choices": {
+            "A": "recA",
+            "B": "azr_2",
+            "C": "punA",
+            "D": "blaP",
+            "E": "hyl"
+        },
+        "raw_answer": "recA",
+        "answer": "A. recA",
+        "answer_idx": 0,
+        "query": "In the genome of Bacteroides fragilis, which standardized gene is responsible for encoding the protein 'Protein RecA'?\nA. recA\nB. azr_2\nC. punA\nD. blaP\nE. hyl",
+        "meta_info": {
+            "source_row": 443,
+            "protein_id": "P0449",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 63,
+        "pid": "63",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'N-ethylmaleimide reductase'?\nA. bphC\nB. CE\nC. Lsa784\nD. pse4\nE. nemA",
+        "choices": {
+            "A": "bphC",
+            "B": "CE",
+            "C": "Lsa784",
+            "D": "pse4",
+            "E": "nemA"
+        },
+        "raw_answer": "nemA",
+        "answer": "E. nemA",
+        "answer_idx": 4,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'N-ethylmaleimide reductase'?\nA. bphC\nB. CE\nC. Lsa784\nD. pse4\nE. nemA",
+        "meta_info": {
+            "source_row": 255,
+            "protein_id": "P0256",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 64,
+        "pid": "64",
+        "question": "In the genome of Enterococcus saccharolyticus, which standardized gene is responsible for encoding the protein 'Multiple sugar-binding transport ATP-binding protein msmK'?\nA. sd-XDH\nB. fpgS\nC. bglH\nD. hdcA\nE. msmK",
+        "choices": {
+            "A": "sd-XDH",
+            "B": "fpgS",
+            "C": "bglH",
+            "D": "hdcA",
+            "E": "msmK"
+        },
+        "raw_answer": "msmK",
+        "answer": "E. msmK",
+        "answer_idx": 4,
+        "query": "In the genome of Enterococcus saccharolyticus, which standardized gene is responsible for encoding the protein 'Multiple sugar-binding transport ATP-binding protein msmK'?\nA. sd-XDH\nB. fpgS\nC. bglH\nD. hdcA\nE. msmK",
+        "meta_info": {
+            "source_row": 503,
+            "protein_id": "P0518",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 65,
+        "pid": "65",
+        "question": "In the genome of Leuconostoc mesenteroides, which standardized gene is responsible for encoding the protein 'Dextransucrase 2'?\nA. dsrF\nB. cyp102A1\nC. hdcA\nD. HMPREF2983_01415\nE. araA",
+        "choices": {
+            "A": "dsrF",
+            "B": "cyp102A1",
+            "C": "hdcA",
+            "D": "HMPREF2983_01415",
+            "E": "araA"
+        },
+        "raw_answer": "dsrF",
+        "answer": "A. dsrF",
+        "answer_idx": 0,
+        "query": "In the genome of Leuconostoc mesenteroides, which standardized gene is responsible for encoding the protein 'Dextransucrase 2'?\nA. dsrF\nB. cyp102A1\nC. hdcA\nD. HMPREF2983_01415\nE. araA",
+        "meta_info": {
+            "source_row": 145,
+            "protein_id": "P0146",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 66,
+        "pid": "66",
+        "question": "In the genome of Streptomyces avermitilis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 102D1'?\nA. molD\nB. cyp102A1\nC. DCY19_10210\nD. HMPREF0665_01052\nE. vanB",
+        "choices": {
+            "A": "molD",
+            "B": "cyp102A1",
+            "C": "DCY19_10210",
+            "D": "HMPREF0665_01052",
+            "E": "vanB"
+        },
+        "raw_answer": "cyp102A1",
+        "answer": "B. cyp102A1",
+        "answer_idx": 1,
+        "query": "In the genome of Streptomyces avermitilis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 102D1'?\nA. molD\nB. cyp102A1\nC. DCY19_10210\nD. HMPREF0665_01052\nE. vanB",
+        "meta_info": {
+            "source_row": 23,
+            "protein_id": "P0024",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 67,
+        "pid": "67",
+        "question": "In the genome of Fusobacterium mortiferum, which standardized gene is responsible for encoding the protein 'Fructokinase'?\nA. scrK\nB. glmU\nC. dtpD\nD. DWY65_12685\nE. DER28_02905",
+        "choices": {
+            "A": "scrK",
+            "B": "glmU",
+            "C": "dtpD",
+            "D": "DWY65_12685",
+            "E": "DER28_02905"
+        },
+        "raw_answer": "scrK",
+        "answer": "A. scrK",
+        "answer_idx": 0,
+        "query": "In the genome of Fusobacterium mortiferum, which standardized gene is responsible for encoding the protein 'Fructokinase'?\nA. scrK\nB. glmU\nC. dtpD\nD. DWY65_12685\nE. DER28_02905",
+        "meta_info": {
+            "source_row": 232,
+            "protein_id": "P0233",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 68,
+        "pid": "68",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Carboxylesterase'?\nA. Shel_22300\nB. DW036_01130\nC. bioH\nD. cbgA\nE. KHX07_06210",
+        "choices": {
+            "A": "Shel_22300",
+            "B": "DW036_01130",
+            "C": "bioH",
+            "D": "cbgA",
+            "E": "KHX07_06210"
+        },
+        "raw_answer": "bioH",
+        "answer": "C. bioH",
+        "answer_idx": 2,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Carboxylesterase'?\nA. Shel_22300\nB. DW036_01130\nC. bioH\nD. cbgA\nE. KHX07_06210",
+        "meta_info": {
+            "source_row": 491,
+            "protein_id": "P0505",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 69,
+        "pid": "69",
+        "question": "In the genome of Lactobacillus delbrueckii, which standardized gene is responsible for encoding the protein 'ATP-dependent 6-phosphofructokinase'?\nA. nicA\nB. pfkA\nC. ddl\nD. GO707_03090\nE. cyp121",
+        "choices": {
+            "A": "nicA",
+            "B": "pfkA",
+            "C": "ddl",
+            "D": "GO707_03090",
+            "E": "cyp121"
+        },
+        "raw_answer": "pfkA",
+        "answer": "B. pfkA",
+        "answer_idx": 1,
+        "query": "In the genome of Lactobacillus delbrueckii, which standardized gene is responsible for encoding the protein 'ATP-dependent 6-phosphofructokinase'?\nA. nicA\nB. pfkA\nC. ddl\nD. GO707_03090\nE. cyp121",
+        "meta_info": {
+            "source_row": 181,
+            "protein_id": "P0182",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 70,
+        "pid": "70",
+        "question": "In the genome of Streptomyces avermitilis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 154C2'?\nA. DEW10_04450\nB. DPEase\nC. cyp154C4-2\nD. xylA\nE. ADH",
+        "choices": {
+            "A": "DEW10_04450",
+            "B": "DPEase",
+            "C": "cyp154C4-2",
+            "D": "xylA",
+            "E": "ADH"
+        },
+        "raw_answer": "cyp154C4-2",
+        "answer": "C. cyp154C4-2",
+        "answer_idx": 2,
+        "query": "In the genome of Streptomyces avermitilis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 154C2'?\nA. DEW10_04450\nB. DPEase\nC. cyp154C4-2\nD. xylA\nE. ADH",
+        "meta_info": {
+            "source_row": 24,
+            "protein_id": "P0025",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 71,
+        "pid": "71",
+        "question": "In the genome of Segatella oris, which standardized gene is responsible for encoding the protein 'Xylosidase/arabinosidase'?\nA. per1\nB. azoB\nC. HMPREF9684_1950\nD. HMPREF0665_00884\nE. cla-r",
+        "choices": {
+            "A": "per1",
+            "B": "azoB",
+            "C": "HMPREF9684_1950",
+            "D": "HMPREF0665_00884",
+            "E": "cla-r"
+        },
+        "raw_answer": "HMPREF0665_00884",
+        "answer": "D. HMPREF0665_00884",
+        "answer_idx": 3,
+        "query": "In the genome of Segatella oris, which standardized gene is responsible for encoding the protein 'Xylosidase/arabinosidase'?\nA. per1\nB. azoB\nC. HMPREF9684_1950\nD. HMPREF0665_00884\nE. cla-r",
+        "meta_info": {
+            "source_row": 482,
+            "protein_id": "P0496",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 72,
+        "pid": "72",
+        "question": "In the genome of Bifidobacterium breve, which standardized gene is responsible for encoding the protein 'Beta-D-xylosidase'?\nA. ftsI\nB. PMAT\nC. BDX\nD. DIU45_12775\nE. iolG",
+        "choices": {
+            "A": "ftsI",
+            "B": "PMAT",
+            "C": "BDX",
+            "D": "DIU45_12775",
+            "E": "iolG"
+        },
+        "raw_answer": "BDX",
+        "answer": "C. BDX",
+        "answer_idx": 2,
+        "query": "In the genome of Bifidobacterium breve, which standardized gene is responsible for encoding the protein 'Beta-D-xylosidase'?\nA. ftsI\nB. PMAT\nC. BDX\nD. DIU45_12775\nE. iolG",
+        "meta_info": {
+            "source_row": 498,
+            "protein_id": "P0512",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 73,
+        "pid": "73",
+        "question": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Aminoglycoside adenylyltransferase'?\nA. aadA1a\nB. glmU\nC. gtfA\nD. bglA\nE. cyp51A",
+        "choices": {
+            "A": "aadA1a",
+            "B": "glmU",
+            "C": "gtfA",
+            "D": "bglA",
+            "E": "cyp51A"
+        },
+        "raw_answer": "aadA1a",
+        "answer": "A. aadA1a",
+        "answer_idx": 0,
+        "query": "In the genome of Salmonella enterica, which standardized gene is responsible for encoding the protein 'Aminoglycoside adenylyltransferase'?\nA. aadA1a\nB. glmU\nC. gtfA\nD. bglA\nE. cyp51A",
+        "meta_info": {
+            "source_row": 50,
+            "protein_id": "P0051",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 74,
+        "pid": "74",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Uracil phosphoribosyltransferase'?\nA. nagH\nB. upp\nC. treY\nD. pepV\nE. codA",
+        "choices": {
+            "A": "nagH",
+            "B": "upp",
+            "C": "treY",
+            "D": "pepV",
+            "E": "codA"
+        },
+        "raw_answer": "upp",
+        "answer": "B. upp",
+        "answer_idx": 1,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Uracil phosphoribosyltransferase'?\nA. nagH\nB. upp\nC. treY\nD. pepV\nE. codA",
+        "meta_info": {
+            "source_row": 439,
+            "protein_id": "P0440",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 75,
+        "pid": "75",
+        "question": "In the genome of Acidithiobacillus ferrooxidans, which standardized gene is responsible for encoding the protein 'Sulfide-quinone reductase'?\nA. cyp106A2\nB. plc\nC. yjdL\nD. azoR1\nE. SQR",
+        "choices": {
+            "A": "cyp106A2",
+            "B": "plc",
+            "C": "yjdL",
+            "D": "azoR1",
+            "E": "SQR"
+        },
+        "raw_answer": "SQR",
+        "answer": "E. SQR",
+        "answer_idx": 4,
+        "query": "In the genome of Acidithiobacillus ferrooxidans, which standardized gene is responsible for encoding the protein 'Sulfide-quinone reductase'?\nA. cyp106A2\nB. plc\nC. yjdL\nD. azoR1\nE. SQR",
+        "meta_info": {
+            "source_row": 431,
+            "protein_id": "P0432",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 76,
+        "pid": "76",
+        "question": "In the genome of Fusobacterium K-60, which standardized gene is responsible for encoding the protein '6-phospho-Alpha-glucosidase'?\nA. lacG\nB. lacZ\nC. bglX_4\nD. mtnN\nE. KIC95_02860",
+        "choices": {
+            "A": "lacG",
+            "B": "lacZ",
+            "C": "bglX_4",
+            "D": "mtnN",
+            "E": "KIC95_02860"
+        },
+        "raw_answer": "KIC95_02860",
+        "answer": "E. KIC95_02860",
+        "answer_idx": 4,
+        "query": "In the genome of Fusobacterium K-60, which standardized gene is responsible for encoding the protein '6-phospho-Alpha-glucosidase'?\nA. lacG\nB. lacZ\nC. bglX_4\nD. mtnN\nE. KIC95_02860",
+        "meta_info": {
+            "source_row": 508,
+            "protein_id": "P0523",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 77,
+        "pid": "77",
+        "question": "In the genome of Listeria monocytogenes, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. pfkA\nB. cyp51A\nC. alr\nD. pglB1\nE. gadC",
+        "choices": {
+            "A": "pfkA",
+            "B": "cyp51A",
+            "C": "alr",
+            "D": "pglB1",
+            "E": "gadC"
+        },
+        "raw_answer": "gadC",
+        "answer": "E. gadC",
+        "answer_idx": 4,
+        "query": "In the genome of Listeria monocytogenes, which standardized gene is responsible for encoding the protein 'Glutamate/gamma-aminobutyrate antiporter'?\nA. pfkA\nB. cyp51A\nC. alr\nD. pglB1\nE. gadC",
+        "meta_info": {
+            "source_row": 447,
+            "protein_id": "P0453",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 78,
+        "pid": "78",
+        "question": "In the genome of Peptostreptoccous YK-10, which standardized gene is responsible for encoding the protein '6-phospho-Alpha-glucosidase'?\nA. lrA\nB. DHW75_01370\nC. KHX07_06210\nD. dadH\nE. vanG",
+        "choices": {
+            "A": "lrA",
+            "B": "DHW75_01370",
+            "C": "KHX07_06210",
+            "D": "dadH",
+            "E": "vanG"
+        },
+        "raw_answer": "KHX07_06210",
+        "answer": "C. KHX07_06210",
+        "answer_idx": 2,
+        "query": "In the genome of Peptostreptoccous YK-10, which standardized gene is responsible for encoding the protein '6-phospho-Alpha-glucosidase'?\nA. lrA\nB. DHW75_01370\nC. KHX07_06210\nD. dadH\nE. vanG",
+        "meta_info": {
+            "source_row": 510,
+            "protein_id": "P0525",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 79,
+        "pid": "79",
+        "question": "In the genome of Lactobacillus sp., which standardized gene is responsible for encoding the protein 'Tyrosine decarboxylase'?\nA. 12AH\nB. bla\nC. ldh\nD. chlR\nE. C821_00197",
+        "choices": {
+            "A": "12AH",
+            "B": "bla",
+            "C": "ldh",
+            "D": "chlR",
+            "E": "C821_00197"
+        },
+        "raw_answer": "C821_00197",
+        "answer": "E. C821_00197",
+        "answer_idx": 4,
+        "query": "In the genome of Lactobacillus sp., which standardized gene is responsible for encoding the protein 'Tyrosine decarboxylase'?\nA. 12AH\nB. bla\nC. ldh\nD. chlR\nE. C821_00197",
+        "meta_info": {
+            "source_row": 458,
+            "protein_id": "P0465",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 80,
+        "pid": "80",
+        "question": "In the genome of Klebsiella pneumoniae, which standardized gene is responsible for encoding the protein 'S-adenosylhomocysteine nucleosidase'?\nA. 12AH\nB. cbgA\nC. glmU\nD. mtnN\nE. HMPREF0665_01052",
+        "choices": {
+            "A": "12AH",
+            "B": "cbgA",
+            "C": "glmU",
+            "D": "mtnN",
+            "E": "HMPREF0665_01052"
+        },
+        "raw_answer": "mtnN",
+        "answer": "D. mtnN",
+        "answer_idx": 3,
+        "query": "In the genome of Klebsiella pneumoniae, which standardized gene is responsible for encoding the protein 'S-adenosylhomocysteine nucleosidase'?\nA. 12AH\nB. cbgA\nC. glmU\nD. mtnN\nE. HMPREF0665_01052",
+        "meta_info": {
+            "source_row": 209,
+            "protein_id": "P0210",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 81,
+        "pid": "81",
+        "question": "In the genome of Corynebacterium glutamicum, which standardized gene is responsible for encoding the protein 'Carboxylate transporter'?\nA. dcsT\nB. cyp101\nC. recA\nD. cyp28\nE. pyrC",
+        "choices": {
+            "A": "dcsT",
+            "B": "cyp101",
+            "C": "recA",
+            "D": "cyp28",
+            "E": "pyrC"
+        },
+        "raw_answer": "dcsT",
+        "answer": "A. dcsT",
+        "answer_idx": 0,
+        "query": "In the genome of Corynebacterium glutamicum, which standardized gene is responsible for encoding the protein 'Carboxylate transporter'?\nA. dcsT\nB. cyp101\nC. recA\nD. cyp28\nE. pyrC",
+        "meta_info": {
+            "source_row": 502,
+            "protein_id": "P0517",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 82,
+        "pid": "82",
+        "question": "In the genome of Agathobacter rectalis, which standardized gene is responsible for encoding the protein 'Arylsulfate sulfotransferase'?\nA. nhoA_1\nB. nicA\nC. pglB1\nD. astA\nE. bglR",
+        "choices": {
+            "A": "nhoA_1",
+            "B": "nicA",
+            "C": "pglB1",
+            "D": "astA",
+            "E": "bglR"
+        },
+        "raw_answer": "astA",
+        "answer": "D. astA",
+        "answer_idx": 3,
+        "query": "In the genome of Agathobacter rectalis, which standardized gene is responsible for encoding the protein 'Arylsulfate sulfotransferase'?\nA. nhoA_1\nB. nicA\nC. pglB1\nD. astA\nE. bglR",
+        "meta_info": {
+            "source_row": 241,
+            "protein_id": "P0242",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 83,
+        "pid": "83",
+        "question": "In the genome of Acinetobacter baumannii, which standardized gene is responsible for encoding the protein 'Aminoglycoside N-acetyltransferase'?\nA. DCZ73_03960\nB. BSGG_3894\nC. lacZ\nD. blaNDM-1\nE. aacC2",
+        "choices": {
+            "A": "DCZ73_03960",
+            "B": "BSGG_3894",
+            "C": "lacZ",
+            "D": "blaNDM-1",
+            "E": "aacC2"
+        },
+        "raw_answer": "aacC2",
+        "answer": "E. aacC2",
+        "answer_idx": 4,
+        "query": "In the genome of Acinetobacter baumannii, which standardized gene is responsible for encoding the protein 'Aminoglycoside N-acetyltransferase'?\nA. DCZ73_03960\nB. BSGG_3894\nC. lacZ\nD. blaNDM-1\nE. aacC2",
+        "meta_info": {
+            "source_row": 427,
+            "protein_id": "P0428",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 84,
+        "pid": "84",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Cytosine deaminase'?\nA. nicA\nB. sd-XDH\nC. pglB1\nD. codA\nE. vanC-2",
+        "choices": {
+            "A": "nicA",
+            "B": "sd-XDH",
+            "C": "pglB1",
+            "D": "codA",
+            "E": "vanC-2"
+        },
+        "raw_answer": "codA",
+        "answer": "D. codA",
+        "answer_idx": 3,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Cytosine deaminase'?\nA. nicA\nB. sd-XDH\nC. pglB1\nD. codA\nE. vanC-2",
+        "meta_info": {
+            "source_row": 484,
+            "protein_id": "P0498",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 85,
+        "pid": "85",
+        "question": "In the genome of Bacteroides thetaiotaomicron, which standardized gene is responsible for encoding the protein 'Purine nucleoside phosphorylase'?\nA. drgA\nB. ce13\nC. BT_4389\nD. gldC\nE. yrpC",
+        "choices": {
+            "A": "drgA",
+            "B": "ce13",
+            "C": "BT_4389",
+            "D": "gldC",
+            "E": "yrpC"
+        },
+        "raw_answer": "BT_4389",
+        "answer": "C. BT_4389",
+        "answer_idx": 2,
+        "query": "In the genome of Bacteroides thetaiotaomicron, which standardized gene is responsible for encoding the protein 'Purine nucleoside phosphorylase'?\nA. drgA\nB. ce13\nC. BT_4389\nD. gldC\nE. yrpC",
+        "meta_info": {
+            "source_row": 451,
+            "protein_id": "P0457",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 86,
+        "pid": "86",
+        "question": "In the genome of Bifidobacterium adolescentis, which standardized gene is responsible for encoding the protein 'GH3 Beta-glucosidase'?\nA. gpsA\nB. dhaB\nC. mrdA\nD. cyp106A2\nE. BAD1610",
+        "choices": {
+            "A": "gpsA",
+            "B": "dhaB",
+            "C": "mrdA",
+            "D": "cyp106A2",
+            "E": "BAD1610"
+        },
+        "raw_answer": "BAD1610",
+        "answer": "E. BAD1610",
+        "answer_idx": 4,
+        "query": "In the genome of Bifidobacterium adolescentis, which standardized gene is responsible for encoding the protein 'GH3 Beta-glucosidase'?\nA. gpsA\nB. dhaB\nC. mrdA\nD. cyp106A2\nE. BAD1610",
+        "meta_info": {
+            "source_row": 375,
+            "protein_id": "P0376",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 87,
+        "pid": "87",
+        "question": "In the genome of Bacteroides J-37, which standardized gene is responsible for encoding the protein 'C-glycosidase'?\nA. BSGG_3894\nB. BDG\nC. KHZ27_05865\nD. VIN7_3230\nE. pse4",
+        "choices": {
+            "A": "BSGG_3894",
+            "B": "BDG",
+            "C": "KHZ27_05865",
+            "D": "VIN7_3230",
+            "E": "pse4"
+        },
+        "raw_answer": "BSGG_3894",
+        "answer": "A. BSGG_3894",
+        "answer_idx": 0,
+        "query": "In the genome of Bacteroides J-37, which standardized gene is responsible for encoding the protein 'C-glycosidase'?\nA. BSGG_3894\nB. BDG\nC. KHZ27_05865\nD. VIN7_3230\nE. pse4",
+        "meta_info": {
+            "source_row": 471,
+            "protein_id": "P0485",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 88,
+        "pid": "88",
+        "question": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide permease D'?\nA. fpgS\nB. GXX95_00520\nC. ywrO\nD. ldh\nE. dtpD",
+        "choices": {
+            "A": "fpgS",
+            "B": "GXX95_00520",
+            "C": "ywrO",
+            "D": "ldh",
+            "E": "dtpD"
+        },
+        "raw_answer": "dtpD",
+        "answer": "E. dtpD",
+        "answer_idx": 4,
+        "query": "In the genome of Escherichia coli, which standardized gene is responsible for encoding the protein 'Dipeptide permease D'?\nA. fpgS\nB. GXX95_00520\nC. ywrO\nD. ldh\nE. dtpD",
+        "meta_info": {
+            "source_row": 474,
+            "protein_id": "P0488",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 89,
+        "pid": "89",
+        "question": "In the genome of Clostridium Scindens, which standardized gene is responsible for encoding the protein 'Multiple sugar-binding transport ATP-binding protein MsmK'?\nA. cyp28\nB. BN522_00462\nC. KIC62_15295\nD. msmK\nE. HXL23_01170",
+        "choices": {
+            "A": "cyp28",
+            "B": "BN522_00462",
+            "C": "KIC62_15295",
+            "D": "msmK",
+            "E": "HXL23_01170"
+        },
+        "raw_answer": "msmK",
+        "answer": "D. msmK",
+        "answer_idx": 3,
+        "query": "In the genome of Clostridium Scindens, which standardized gene is responsible for encoding the protein 'Multiple sugar-binding transport ATP-binding protein MsmK'?\nA. cyp28\nB. BN522_00462\nC. KIC62_15295\nD. msmK\nE. HXL23_01170",
+        "meta_info": {
+            "source_row": 490,
+            "protein_id": "P0504",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 90,
+        "pid": "90",
+        "question": "In the genome of Phocaeicola plebeius, which standardized gene is responsible for encoding the protein 'Beta-porphyranase A'?\nA. aacA\nB. GH86A\nC. CI601_00675\nD. upp\nE. BN797_01166",
+        "choices": {
+            "A": "aacA",
+            "B": "GH86A",
+            "C": "CI601_00675",
+            "D": "upp",
+            "E": "BN797_01166"
+        },
+        "raw_answer": "GH86A",
+        "answer": "B. GH86A",
+        "answer_idx": 1,
+        "query": "In the genome of Phocaeicola plebeius, which standardized gene is responsible for encoding the protein 'Beta-porphyranase A'?\nA. aacA\nB. GH86A\nC. CI601_00675\nD. upp\nE. BN797_01166",
+        "meta_info": {
+            "source_row": 389,
+            "protein_id": "P0390",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 91,
+        "pid": "91",
+        "question": "In the genome of Rhodobacter capsulatus, which standardized gene is responsible for encoding the protein 'Acetone carboxylase'?\nA. DCW51_03155\nB. ldhA\nC. cyp28\nD. vanC-2\nE. acxC",
+        "choices": {
+            "A": "DCW51_03155",
+            "B": "ldhA",
+            "C": "cyp28",
+            "D": "vanC-2",
+            "E": "acxC"
+        },
+        "raw_answer": "acxC",
+        "answer": "E. acxC",
+        "answer_idx": 4,
+        "query": "In the genome of Rhodobacter capsulatus, which standardized gene is responsible for encoding the protein 'Acetone carboxylase'?\nA. DCW51_03155\nB. ldhA\nC. cyp28\nD. vanC-2\nE. acxC",
+        "meta_info": {
+            "source_row": 72,
+            "protein_id": "P0073",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 92,
+        "pid": "92",
+        "question": "In the genome of Enterococcus faecium, which standardized gene is responsible for encoding the protein 'L-tyrosine decarboxylase'?\nA. EBR-1\nB. CYP109B1\nC. DC028_03720\nD. rafA_1\nE. tdc",
+        "choices": {
+            "A": "EBR-1",
+            "B": "CYP109B1",
+            "C": "DC028_03720",
+            "D": "rafA_1",
+            "E": "tdc"
+        },
+        "raw_answer": "tdc",
+        "answer": "E. tdc",
+        "answer_idx": 4,
+        "query": "In the genome of Enterococcus faecium, which standardized gene is responsible for encoding the protein 'L-tyrosine decarboxylase'?\nA. EBR-1\nB. CYP109B1\nC. DC028_03720\nD. rafA_1\nE. tdc",
+        "meta_info": {
+            "source_row": 440,
+            "protein_id": "P0441",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 93,
+        "pid": "93",
+        "question": "In the genome of Leuconostoc mesenteroides, which standardized gene is responsible for encoding the protein 'Dextransucrase 1'?\nA. SaGUS\nB. cfxA\nC. lacZ_4\nD. pglB1\nE. dsrF",
+        "choices": {
+            "A": "SaGUS",
+            "B": "cfxA",
+            "C": "lacZ_4",
+            "D": "pglB1",
+            "E": "dsrF"
+        },
+        "raw_answer": "dsrF",
+        "answer": "E. dsrF",
+        "answer_idx": 4,
+        "query": "In the genome of Leuconostoc mesenteroides, which standardized gene is responsible for encoding the protein 'Dextransucrase 1'?\nA. SaGUS\nB. cfxA\nC. lacZ_4\nD. pglB1\nE. dsrF",
+        "meta_info": {
+            "source_row": 146,
+            "protein_id": "P0147",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 94,
+        "pid": "94",
+        "question": "In the genome of Methanobrevibacter smithii, which standardized gene is responsible for encoding the protein 'Chloramphenicol O-acetyltransferase'?\nA. doxB\nB. F9962_01530\nC. GO707_03090\nD. aphA6\nE. BN522_00462",
+        "choices": {
+            "A": "doxB",
+            "B": "F9962_01530",
+            "C": "GO707_03090",
+            "D": "aphA6",
+            "E": "BN522_00462"
+        },
+        "raw_answer": "BN522_00462",
+        "answer": "E. BN522_00462",
+        "answer_idx": 4,
+        "query": "In the genome of Methanobrevibacter smithii, which standardized gene is responsible for encoding the protein 'Chloramphenicol O-acetyltransferase'?\nA. doxB\nB. F9962_01530\nC. GO707_03090\nD. aphA6\nE. BN522_00462",
+        "meta_info": {
+            "source_row": 444,
+            "protein_id": "P0450",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 95,
+        "pid": "95",
+        "question": "In the genome of Alistipes sp., which standardized gene is responsible for encoding the protein 'Flavodoxin family protein'?\nA. KHZ60_06845\nB. BT_4389\nC. SQR\nD. dtpD\nE. araA",
+        "choices": {
+            "A": "KHZ60_06845",
+            "B": "BT_4389",
+            "C": "SQR",
+            "D": "dtpD",
+            "E": "araA"
+        },
+        "raw_answer": "KHZ60_06845",
+        "answer": "A. KHZ60_06845",
+        "answer_idx": 0,
+        "query": "In the genome of Alistipes sp., which standardized gene is responsible for encoding the protein 'Flavodoxin family protein'?\nA. KHZ60_06845\nB. BT_4389\nC. SQR\nD. dtpD\nE. araA",
+        "meta_info": {
+            "source_row": 513,
+            "protein_id": "P0528",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 96,
+        "pid": "96",
+        "question": "In the genome of Anaerostipes caccae, which standardized gene is responsible for encoding the protein 'Sucrose-6-phosphate hydrolase scrB'?\nA. agaSK\nB. DEP29_01280\nC. ScrB\nD. manB\nE. dhaT",
+        "choices": {
+            "A": "agaSK",
+            "B": "DEP29_01280",
+            "C": "ScrB",
+            "D": "manB",
+            "E": "dhaT"
+        },
+        "raw_answer": "ScrB",
+        "answer": "C. ScrB",
+        "answer_idx": 2,
+        "query": "In the genome of Anaerostipes caccae, which standardized gene is responsible for encoding the protein 'Sucrose-6-phosphate hydrolase scrB'?\nA. agaSK\nB. DEP29_01280\nC. ScrB\nD. manB\nE. dhaT",
+        "meta_info": {
+            "source_row": 418,
+            "protein_id": "P0419",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 97,
+        "pid": "97",
+        "question": "In the genome of Nocardia farcinica, which standardized gene is responsible for encoding the protein 'Rifampicin monooxygenase'?\nA. BAD1610\nB. rox\nC. sacA\nD. DCW44_09275\nE. GO707_03090",
+        "choices": {
+            "A": "BAD1610",
+            "B": "rox",
+            "C": "sacA",
+            "D": "DCW44_09275",
+            "E": "GO707_03090"
+        },
+        "raw_answer": "rox",
+        "answer": "B. rox",
+        "answer_idx": 1,
+        "query": "In the genome of Nocardia farcinica, which standardized gene is responsible for encoding the protein 'Rifampicin monooxygenase'?\nA. BAD1610\nB. rox\nC. sacA\nD. DCW44_09275\nE. GO707_03090",
+        "meta_info": {
+            "source_row": 126,
+            "protein_id": "P0127",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 98,
+        "pid": "98",
+        "question": "In the genome of Lacticaseibacillus casei, which standardized gene is responsible for encoding the protein 'Pyruvate oxidase'?\nA. alr\nB. xylA\nC. pyrO\nD. metF\nE. fre",
+        "choices": {
+            "A": "alr",
+            "B": "xylA",
+            "C": "pyrO",
+            "D": "metF",
+            "E": "fre"
+        },
+        "raw_answer": "pyrO",
+        "answer": "C. pyrO",
+        "answer_idx": 2,
+        "query": "In the genome of Lacticaseibacillus casei, which standardized gene is responsible for encoding the protein 'Pyruvate oxidase'?\nA. alr\nB. xylA\nC. pyrO\nD. metF\nE. fre",
+        "meta_info": {
+            "source_row": 190,
+            "protein_id": "P0191",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 99,
+        "pid": "99",
+        "question": "In the genome of Mycobacterium tuberculosis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 125A1'?\nA. cyp125\nB. ENO05_06740\nC. bglX_2\nD. VIN7_3230\nE. DszA",
+        "choices": {
+            "A": "cyp125",
+            "B": "ENO05_06740",
+            "C": "bglX_2",
+            "D": "VIN7_3230",
+            "E": "DszA"
+        },
+        "raw_answer": "cyp125",
+        "answer": "A. cyp125",
+        "answer_idx": 0,
+        "query": "In the genome of Mycobacterium tuberculosis, which standardized gene is responsible for encoding the protein 'Cytochrome P450 125A1'?\nA. cyp125\nB. ENO05_06740\nC. bglX_2\nD. VIN7_3230\nE. DszA",
+        "meta_info": {
+            "source_row": 133,
+            "protein_id": "P0134",
+            "target_field": "GeneName_Standarized",
+            "type": "Protein_Genotype_Phenotype_Mapping",
+            "source_file": "4protein_qa.jsonl"
+        }
+    }
+]

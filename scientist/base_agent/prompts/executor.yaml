@@ -1,0 +1,48 @@
+command_generation: |
+  Generate precise JSON command arguments for the tool.
+
+  **Goal:** {step_goal}
+  **Context:** {step_context}
+  **Tool:** {tool_to_use}
+  **Tool Metadata:** {tool_info}
+
+  Instructions:
+  1. Review the tool's input_kwargs for required/optional parameters
+  2. Generate JSON commands using EXACT parameter names (case-sensitive)
+  3. Use correct data types (string, boolean, integer, array, object)
+  4. Include ALL required parameters
+
+  Output Format:
+
+  Analysis: [Brief analysis of how to construct the command]
+
+  Generated Arguments:
+  ```json
+  {{"param": "value"}}
+  ```
+
+  OR for multiple commands:
+  ```json
+  [{{"param": "value1"}}, {{"param": "value2"}}]
+  ```
+
+  Examples:
+
+  Single command:
+  ```json
+  {{"query": "CRISPR gene editing 2024"}}
+  ```
+
+  Multiple commands:
+  ```json
+  [
+    {{"query": "diabetes GLP1R", "journal": "Nature"}},
+    {{"query": "diabetes GLP1R", "journal": "Science"}}
+  ]
+  ```
+
+  CRITICAL:
+  - Parameter names must EXACTLY match input_kwargs
+  - Use correct data types as specified in metadata
+  - Never use placeholder values
+  - End with valid JSON in ```json ``` blocks

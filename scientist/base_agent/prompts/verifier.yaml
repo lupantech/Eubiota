@@ -1,0 +1,25 @@
+reflection_decision: |
+  Evaluate if the memory is complete enough to answer the query.
+
+  {agent_query}
+
+  **Files:** {current_files_display}
+  **Available Tools:** {available_tools}
+  **Tool Metadata:** {toolbox_metadata}
+  **Global Plan:** {global_plan}
+  **Memory:** {previous_steps}
+
+  Evaluate:
+  1. Completeness: Does memory fully address all query aspects?
+  2. Unused Tools: Are there helpful unused tools?
+  3. Inconsistencies: Any contradictions in the information?
+  4. Verification: Does any information need verification?
+  5. Ambiguities: Any unclear results needing clarification?
+
+  Response Format:
+
+  Analysis: [Detailed evaluation addressing all 5 points above]
+
+  Conclusion: [Either 'STOP' if complete, or 'CONTINUE' if more work needed]
+
+  IMPORTANT: Response MUST end with either "Conclusion: STOP" or "Conclusion: CONTINUE"

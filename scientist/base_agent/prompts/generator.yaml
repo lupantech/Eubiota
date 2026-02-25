@@ -1,0 +1,50 @@
+direct_output_generation: |
+  Generate a concise direct answer based on the execution history.
+
+  **Query:** {agent_query}
+  **Files:** {current_files_display}
+  **Global Plan:** {global_plan}
+  **Execution History:** {execution_history}
+
+  Provide:
+  1. Brief process summary (step-by-step)
+  2. Precise, direct answer to the query
+
+final_output_generation: |
+  Generate comprehensive final output.
+
+  **Query:** {agent_query}
+  **Global Plan:** {global_plan}
+  **Files:** {current_files_display}
+  **Execution History:** {execution_history}
+
+  Include:
+  1. Summary: Brief overview
+  2. Detailed Analysis: Complete walkthrough with:
+     - Tools used and purposes
+     - Key results from each step
+     - How findings contribute to the answer
+  3. Key Findings: Important discoveries
+  4. Answer: Direct answer to query
+  5. Additional Insights: Limitations or considerations
+  6. Conclusion: Summary and next steps
+
+schema_output_generation: |
+  Generate output conforming to the specified schema.
+
+  **Query:** {agent_query}
+  **Global Plan:** {global_plan}
+  **Files:** {current_files_display}
+  **Execution History:** {execution_history}
+
+  **Required Schema:** {schema_fields}
+
+  Return comprehensive response as JSON with ALL required schema fields.
+
+  Example:
+  ```json
+  {{
+      "field1": "value1",
+      "field2": "value2"
+  }}
+  ```

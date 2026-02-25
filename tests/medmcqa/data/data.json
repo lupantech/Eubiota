@@ -1,0 +1,1702 @@
+[
+    {
+        "pid": "0",
+        "question": "During Sx for meningioma, the left paracentral lobule was injured. It would lead to paresis of",
+        "choices": [
+            "A. Rt. Leg and perineus",
+            "B. Left face",
+            "C. Right face",
+            "D. Right shoulder & trunk"
+        ],
+        "answer": "A. Rt. Leg and perineus",
+        "query": "During Sx for meningioma, the left paracentral lobule was injured. It would lead to paresis of\nChoices:\nA. Rt. Leg and perineus\nB. Left face\nC. Right face\nD. Right shoulder & trunk\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "21ab1846-bbea-4bca-bd03-8933fa61ea5d",
+            "raw_answer": "Rt. Leg and perineus",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "1",
+        "question": "All of the following are features of Lymph node histology except",
+        "choices": [
+            "A. Subcapsular sinus present",
+            "B. Both Efferent and Afferent are present",
+            "C. Coex and Medulla are present",
+            "D. Red pulp and White pulp are present"
+        ],
+        "answer": "D. Red pulp and White pulp are present",
+        "query": "All of the following are features of Lymph node histology except\nChoices:\nA. Subcapsular sinus present\nB. Both Efferent and Afferent are present\nC. Coex and Medulla are present\nD. Red pulp and White pulp are present\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "cb8dbb33-9f74-4e01-8ac3-fe295178d2a1",
+            "raw_answer": "Red pulp and White pulp are present",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "2",
+        "question": "In caloric test, cold water stimulation causes movement of eye -",
+        "choices": [
+            "A. Some side",
+            "B. Opposite side",
+            "C. Up",
+            "D. Do\\vn"
+        ],
+        "answer": "B. Opposite side",
+        "query": "In caloric test, cold water stimulation causes movement of eye -\nChoices:\nA. Some side\nB. Opposite side\nC. Up\nD. Do\\vn\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "0210576a-e7fd-40c4-b51e-acd13de82132",
+            "raw_answer": "Opposite side",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "3",
+        "question": "Hypomimia is ?",
+        "choices": [
+            "A. Decreased ability to copy",
+            "B. Decreased execution",
+            "C. Deficit of expression by gesture",
+            "D. Deficit of fluent speech"
+        ],
+        "answer": "C. Deficit of expression by gesture",
+        "query": "Hypomimia is ?\nChoices:\nA. Decreased ability to copy\nB. Decreased execution\nC. Deficit of expression by gesture\nD. Deficit of fluent speech\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "53f79833-21b0-4336-8ef4-404c687ec807",
+            "raw_answer": "Deficit of expression by gesture",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "4",
+        "question": "False about obstructive jaundice",
+        "choices": [
+            "A. Unconjugated bilirubin",
+            "B. Pruritus",
+            "C. Pale stools",
+            "D. Icterus"
+        ],
+        "answer": "A. Unconjugated bilirubin",
+        "query": "False about obstructive jaundice\nChoices:\nA. Unconjugated bilirubin\nB. Pruritus\nC. Pale stools\nD. Icterus\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "d9f648af-a752-4368-999d-05e13c345ce0",
+            "raw_answer": "Unconjugated bilirubin",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "5",
+        "question": "True statement regarding specific death rates",
+        "choices": [
+            "A. Specific for age and sex",
+            "B. Identify particular group or groups \"at risk\" for preventive action",
+            "C. Find out cause or disease specific",
+            "D. All of the above"
+        ],
+        "answer": "D. All of the above",
+        "query": "True statement regarding specific death rates\nChoices:\nA. Specific for age and sex\nB. Identify particular group or groups \"at risk\" for preventive action\nC. Find out cause or disease specific\nD. All of the above\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "8a72ed74-b546-481b-bf0c-0c812ce2f3df",
+            "raw_answer": "All of the above",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "6",
+        "question": "Which vitamin is supplied from only animal source:",
+        "choices": [
+            "A. Vitamin C",
+            "B. Vitamin B7",
+            "C. Vitamin B12",
+            "D. Vitamin D"
+        ],
+        "answer": "C. Vitamin B12",
+        "query": "Which vitamin is supplied from only animal source:\nChoices:\nA. Vitamin C\nB. Vitamin B7\nC. Vitamin B12\nD. Vitamin D\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e3d3c4e1-4fb2-45e7-9f88-247cc8f373b3",
+            "raw_answer": "Vitamin B12",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "7",
+        "question": "Atherosclerosis initiation by fibroblast plaque is mediated by injury to ?",
+        "choices": [
+            "A. Smooth muscle",
+            "B. Media",
+            "C. Adventitia",
+            "D. Endothelium"
+        ],
+        "answer": "D. Endothelium",
+        "query": "Atherosclerosis initiation by fibroblast plaque is mediated by injury to ?\nChoices:\nA. Smooth muscle\nB. Media\nC. Adventitia\nD. Endothelium\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f94f9f8f-fb28-44f0-9381-3dca473e305d",
+            "raw_answer": "Endothelium",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "8",
+        "question": "With which of the following receptors theophylline has an antagonistic interaction ?",
+        "choices": [
+            "A. Histamine receptors",
+            "B. Bradykinin receptors",
+            "C. Adenosine receptors",
+            "D. Imidazoline receptors"
+        ],
+        "answer": "C. Adenosine receptors",
+        "query": "With which of the following receptors theophylline has an antagonistic interaction ?\nChoices:\nA. Histamine receptors\nB. Bradykinin receptors\nC. Adenosine receptors\nD. Imidazoline receptors\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "fabd82e2-8b86-429a-8adb-ac46dde1aba6",
+            "raw_answer": "Adenosine receptors",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "9",
+        "question": "Which of the following is true statement regarding human eye",
+        "choices": [
+            "A. Cornea cut off wavelength upto 400 nm",
+            "B. Normal eye medium will permit wavelength of 400- 700 nm",
+            "C. Even after cataract surgery UV rays are not penetrated",
+            "D. Lens will not reflect light"
+        ],
+        "answer": "B. Normal eye medium will permit wavelength of 400- 700 nm",
+        "query": "Which of the following is true statement regarding human eye\nChoices:\nA. Cornea cut off wavelength upto 400 nm\nB. Normal eye medium will permit wavelength of 400- 700 nm\nC. Even after cataract surgery UV rays are not penetrated\nD. Lens will not reflect light\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "44e3f7ec-ad90-49bc-9f91-54f959bae81b",
+            "raw_answer": "Normal eye medium will permit wavelength of 400- 700 nm",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "10",
+        "question": "Determination of Pulp vitality by pulse oximeter based on:",
+        "choices": [
+            "A. Beer's law.",
+            "B. Pascal's law.",
+            "C. Doppler law.",
+            "D. Poisslues law."
+        ],
+        "answer": "A. Beer's law.",
+        "query": "Determination of Pulp vitality by pulse oximeter based on:\nChoices:\nA. Beer's law.\nB. Pascal's law.\nC. Doppler law.\nD. Poisslues law.\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "2b7ff41e-66e4-467a-97ec-9ea4e5e98cbc",
+            "raw_answer": "Beer's law.",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "11",
+        "question": "Naglers reaction is shown by",
+        "choices": [
+            "A. Clostridium tetani",
+            "B. Clostridium botulinum",
+            "C. Clostridium perfringens",
+            "D. Clostridium septicum"
+        ],
+        "answer": "C. Clostridium perfringens",
+        "query": "Naglers reaction is shown by\nChoices:\nA. Clostridium tetani\nB. Clostridium botulinum\nC. Clostridium perfringens\nD. Clostridium septicum\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b3d1eb6c-3909-4011-ad10-d55538b81456",
+            "raw_answer": "Clostridium perfringens",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "12",
+        "question": "Gp2b3A inhibitors are all except -",
+        "choices": [
+            "A. Abciximab",
+            "B. Eptifibatide",
+            "C. Tirofiban",
+            "D. Prasugrel"
+        ],
+        "answer": "D. Prasugrel",
+        "query": "Gp2b3A inhibitors are all except -\nChoices:\nA. Abciximab\nB. Eptifibatide\nC. Tirofiban\nD. Prasugrel\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e6c29c8b-af47-4dd6-8154-663358bed3b8",
+            "raw_answer": "Prasugrel",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "13",
+        "question": "True of case control studies -",
+        "choices": [
+            "A. It proceeds from cause to effect",
+            "B. Odds ratio can be calculated",
+            "C. Incidence can be calculated",
+            "D. Needs many patients"
+        ],
+        "answer": "B. Odds ratio can be calculated",
+        "query": "True of case control studies -\nChoices:\nA. It proceeds from cause to effect\nB. Odds ratio can be calculated\nC. Incidence can be calculated\nD. Needs many patients\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "81b24099-1d53-4130-ac61-72364a99d53f",
+            "raw_answer": "Odds ratio can be calculated",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "14",
+        "question": "Mark the true statement regarding use of Lithium in maniac-depressive psychosis?",
+        "choices": [
+            "A. Monotherapy for acute episodes",
+            "B. Monitoring of serum concentration is not useful for guiding dose adjustment",
+            "C. Can result in leucocytosis",
+            "D. Can result in hypehyroidism on long term use"
+        ],
+        "answer": "C. Can result in leucocytosis",
+        "query": "Mark the true statement regarding use of Lithium in maniac-depressive psychosis?\nChoices:\nA. Monotherapy for acute episodes\nB. Monitoring of serum concentration is not useful for guiding dose adjustment\nC. Can result in leucocytosis\nD. Can result in hypehyroidism on long term use\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "cbc8a1b1-532c-490e-a17d-9168083fabae",
+            "raw_answer": "Can result in leucocytosis",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "15",
+        "question": "Glucose sympo occurs with:",
+        "choices": [
+            "A. Na+",
+            "B. Ca++",
+            "C. K+",
+            "D. Cl-"
+        ],
+        "answer": "A. Na+",
+        "query": "Glucose sympo occurs with:\nChoices:\nA. Na+\nB. Ca++\nC. K+\nD. Cl-\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "90c75fdd-c6c6-4320-8411-9a5a750b5c5d",
+            "raw_answer": "Na+",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "16",
+        "question": "In chronic alcoholism the rate limiting component for alcohol metabolism excluding enzymes is/are : (PGI Dec 2008)",
+        "choices": [
+            "A. NADP",
+            "B. NAD+",
+            "C. NADPH",
+            "D. FADH"
+        ],
+        "answer": "B. NAD+",
+        "query": "In chronic alcoholism the rate limiting component for alcohol metabolism excluding enzymes is/are : (PGI Dec 2008)\nChoices:\nA. NADP\nB. NAD+\nC. NADPH\nD. FADH\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b801715b-75b9-41bd-8f3c-828469d01266",
+            "raw_answer": "NAD+",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "17",
+        "question": "Which of the following is not false about annual risk of TB",
+        "choices": [
+            "A. ARI of 1% = 75 new cases",
+            "B. Current ARI in India is 1.7%",
+            "C. It is represents new cases of TB",
+            "D. It is assessed by tuberculin conversion in previously non-vaccinated children"
+        ],
+        "answer": "D. It is assessed by tuberculin conversion in previously non-vaccinated children",
+        "query": "Which of the following is not false about annual risk of TB\nChoices:\nA. ARI of 1% = 75 new cases\nB. Current ARI in India is 1.7%\nC. It is represents new cases of TB\nD. It is assessed by tuberculin conversion in previously non-vaccinated children\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b9c3c5cc-127b-46a2-bfdc-d23bd2412409",
+            "raw_answer": "It is assessed by tuberculin conversion in previously non-vaccinated children",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "18",
+        "question": "Hypersecretory glaucoma is seen in \u2013",
+        "choices": [
+            "A. Epidemic dropsy",
+            "B. Marfan's syndrome",
+            "C. Hypertension",
+            "D. Diabetes"
+        ],
+        "answer": "A. Epidemic dropsy",
+        "query": "Hypersecretory glaucoma is seen in \u2013\nChoices:\nA. Epidemic dropsy\nB. Marfan's syndrome\nC. Hypertension\nD. Diabetes\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b15c5039-0f3c-4195-8331-35b9632899c7",
+            "raw_answer": "Epidemic dropsy",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "19",
+        "question": "What change will be seen in vertebral column in ochronosis-",
+        "choices": [
+            "A. Calcification of disc",
+            "B. Bamboo spine",
+            "C. Increased disc space",
+            "D. None"
+        ],
+        "answer": "A. Calcification of disc",
+        "query": "What change will be seen in vertebral column in ochronosis-\nChoices:\nA. Calcification of disc\nB. Bamboo spine\nC. Increased disc space\nD. None\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "08255d75-8015-4389-b7ce-7621634c98d2",
+            "raw_answer": "Calcification of disc",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "20",
+        "question": "Risk factors associated with post-operative nausea and vomiting following strabismus surgery are all except -",
+        "choices": [
+            "A. Age < 3years",
+            "B. Duration of anesthesia > 30 mins",
+            "C. Personal or family history of post - op nausea and vomiting",
+            "D. Personal or family history of motion sickness"
+        ],
+        "answer": "A. Age < 3years",
+        "query": "Risk factors associated with post-operative nausea and vomiting following strabismus surgery are all except -\nChoices:\nA. Age < 3years\nB. Duration of anesthesia > 30 mins\nC. Personal or family history of post - op nausea and vomiting\nD. Personal or family history of motion sickness\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e7f60d58-db4c-4067-981b-2988a9de88ff",
+            "raw_answer": "Age < 3years",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "21",
+        "question": "Position of vocal cord in cadaver is:",
+        "choices": [
+            "A. Median",
+            "B. Paramedian",
+            "C. Intermediate",
+            "D. Full Abduction"
+        ],
+        "answer": "C. Intermediate",
+        "query": "Position of vocal cord in cadaver is:\nChoices:\nA. Median\nB. Paramedian\nC. Intermediate\nD. Full Abduction\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "2583b8c8-aeaa-47c0-86fb-5efc9f386de6",
+            "raw_answer": "Intermediate",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "22",
+        "question": "Anterolateral ahroscopy of knee is for:",
+        "choices": [
+            "A. To see patellofemoral aiculation",
+            "B. To see the posterior cruciate ligament",
+            "C. To see the anterior poion of lateral meniscus",
+            "D. To see the periphery of the posterior horn of medial meniscus"
+        ],
+        "answer": "A. To see patellofemoral aiculation",
+        "query": "Anterolateral ahroscopy of knee is for:\nChoices:\nA. To see patellofemoral aiculation\nB. To see the posterior cruciate ligament\nC. To see the anterior poion of lateral meniscus\nD. To see the periphery of the posterior horn of medial meniscus\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "7a14deed-5c09-443b-9221-10f3a70fb6a4",
+            "raw_answer": "To see patellofemoral aiculation",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "23",
+        "question": "Which of the following hormonal activity is expected immediately prior to Ovulation?",
+        "choices": [
+            "A. LH surge",
+            "B. FSH surge",
+            "C. Progestrone surge",
+            "D. Estrogen surge"
+        ],
+        "answer": "A. LH surge",
+        "query": "Which of the following hormonal activity is expected immediately prior to Ovulation?\nChoices:\nA. LH surge\nB. FSH surge\nC. Progestrone surge\nD. Estrogen surge\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "d0b35238-78a6-454d-9bc9-65180db85bbb",
+            "raw_answer": "LH surge",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "24",
+        "question": "Delayed union of fracture of a bone follo-wing a surgical treatment may be due to",
+        "choices": [
+            "A. Infection",
+            "B. Inadequate circulation",
+            "C. Inadequate mobilization",
+            "D. All of the above"
+        ],
+        "answer": "D. All of the above",
+        "query": "Delayed union of fracture of a bone follo-wing a surgical treatment may be due to\nChoices:\nA. Infection\nB. Inadequate circulation\nC. Inadequate mobilization\nD. All of the above\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "161fc4a5-e9fb-44c6-9a4b-2d734cf01ebc",
+            "raw_answer": "All of the above",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "25",
+        "question": "Minimum level of iodine iodized salt reaching the consumer level according to iodine programme should be:-",
+        "choices": [
+            "A. 5 ppm",
+            "B. 30 ppm",
+            "C. 15 ppm",
+            "D. 20 ppm"
+        ],
+        "answer": "C. 15 ppm",
+        "query": "Minimum level of iodine iodized salt reaching the consumer level according to iodine programme should be:-\nChoices:\nA. 5 ppm\nB. 30 ppm\nC. 15 ppm\nD. 20 ppm\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "12b668e8-af03-47d7-bc80-41dec978da4d",
+            "raw_answer": "15 ppm",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "26",
+        "question": "Foam cells are seen in infection with which virus ?",
+        "choices": [
+            "A. Measles",
+            "B. EBV",
+            "C. Molluscum contagiosum",
+            "D. RSV"
+        ],
+        "answer": "B. EBV",
+        "query": "Foam cells are seen in infection with which virus ?\nChoices:\nA. Measles\nB. EBV\nC. Molluscum contagiosum\nD. RSV\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "d000623f-eba6-4e64-8cc0-3ed932403fce",
+            "raw_answer": "EBV",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "27",
+        "question": "Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?",
+        "choices": [
+            "A. Meningococci",
+            "B. Pneumococci",
+            "C. Hemophilus Influenza",
+            "D. E. Coli"
+        ],
+        "answer": "B. Pneumococci",
+        "query": "Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?\nChoices:\nA. Meningococci\nB. Pneumococci\nC. Hemophilus Influenza\nD. E. Coli\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "a822c6ea-6cfd-44c1-890f-6fac4b97e16d",
+            "raw_answer": "Pneumococci",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "28",
+        "question": "Last organ to putrefy in females is?",
+        "choices": [
+            "A. Liver",
+            "B. Uterus",
+            "C. Brain",
+            "D. Breast"
+        ],
+        "answer": "B. Uterus",
+        "query": "Last organ to putrefy in females is?\nChoices:\nA. Liver\nB. Uterus\nC. Brain\nD. Breast\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "8cf45c14-9de1-4f72-a51c-e0ab03cd4518",
+            "raw_answer": "Uterus",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "29",
+        "question": "Regarding vaginal candidiasis which one of the following is false:",
+        "choices": [
+            "A. Cottage cheese like secretions are seen",
+            "B. Intense pruritus",
+            "C. Most common in non-pregnant women",
+            "D. Buds and hyphae seen in KOH preparation"
+        ],
+        "answer": "C. Most common in non-pregnant women",
+        "query": "Regarding vaginal candidiasis which one of the following is false:\nChoices:\nA. Cottage cheese like secretions are seen\nB. Intense pruritus\nC. Most common in non-pregnant women\nD. Buds and hyphae seen in KOH preparation\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "05e92aa4-f149-49d2-bfb3-48263f7de421",
+            "raw_answer": "Most common in non-pregnant women",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "30",
+        "question": "Characteristics of Remifentanyl \u2013 a) Metabolised by plasma esteraseb) Short half lifec) More potent than Alfentanyld) Dose reduced in hepatic and renal diseasee) Duration of action more than Alfentanyl",
+        "choices": [
+            "A. ab",
+            "B. bc",
+            "C. abc",
+            "D. bcd"
+        ],
+        "answer": "C. abc",
+        "query": "Characteristics of Remifentanyl \u2013 a) Metabolised by plasma esteraseb) Short half lifec) More potent than Alfentanyld) Dose reduced in hepatic and renal diseasee) Duration of action more than Alfentanyl\nChoices:\nA. ab\nB. bc\nC. abc\nD. bcd\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "73515f05-e947-4801-8077-3abdeca95c84",
+            "raw_answer": "abc",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "31",
+        "question": "Of the various modalities used in the treatment of re-threatening effects of hyperkalemia which one of the following as the most rapid onset of action ?",
+        "choices": [
+            "A. Hemodialysis",
+            "B. Sodium bicarbonate infusion",
+            "C. Insulin and glucose infusion",
+            "D. Intravenous calcium gluconate"
+        ],
+        "answer": "A. Hemodialysis",
+        "query": "Of the various modalities used in the treatment of re-threatening effects of hyperkalemia which one of the following as the most rapid onset of action ?\nChoices:\nA. Hemodialysis\nB. Sodium bicarbonate infusion\nC. Insulin and glucose infusion\nD. Intravenous calcium gluconate\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "9595ba1f-bc34-42ab-8603-45961b925ad0",
+            "raw_answer": "Hemodialysis",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "32",
+        "question": "Which of the following is very difficult to induce antibody -",
+        "choices": [
+            "A. Polysaccharide",
+            "B. Protein",
+            "C. Antigen",
+            "D. Effector"
+        ],
+        "answer": "A. Polysaccharide",
+        "query": "Which of the following is very difficult to induce antibody -\nChoices:\nA. Polysaccharide\nB. Protein\nC. Antigen\nD. Effector\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "3c3ba303-b196-45de-8ced-6c888c9e0d4e",
+            "raw_answer": "Polysaccharide",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "33",
+        "question": "Drug causing malignant hyperthermia:(Asked twice in the exam)",
+        "choices": [
+            "A. Cisatracurium",
+            "B. Suxamethonium",
+            "C. Propofol",
+            "D. Thiopentone"
+        ],
+        "answer": "B. Suxamethonium",
+        "query": "Drug causing malignant hyperthermia:(Asked twice in the exam)\nChoices:\nA. Cisatracurium\nB. Suxamethonium\nC. Propofol\nD. Thiopentone\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "52e6dc81-fb25-495d-b941-543e03158f7c",
+            "raw_answer": "Suxamethonium",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "34",
+        "question": "An Isograft indicates transfer of tissues between -",
+        "choices": [
+            "A. Unrelated donors",
+            "B. Related donors",
+            "C. Monozygotic twins",
+            "D. From the same individual"
+        ],
+        "answer": "C. Monozygotic twins",
+        "query": "An Isograft indicates transfer of tissues between -\nChoices:\nA. Unrelated donors\nB. Related donors\nC. Monozygotic twins\nD. From the same individual\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "c5165fb3-3a59-49ed-9de0-4dbbced2cf08",
+            "raw_answer": "Monozygotic twins",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "35",
+        "question": "All of the following statements are true regarding hyperophy, except:",
+        "choices": [
+            "A. Occurs due to synthesis and assembly of additional intracellular components.",
+            "B. There is an increase in the size of the cells.",
+            "C. Cells capable of division respond to stress by hyperophy and hyperplasia.",
+            "D. There is an increase in the number of cells."
+        ],
+        "answer": "D. There is an increase in the number of cells.",
+        "query": "All of the following statements are true regarding hyperophy, except:\nChoices:\nA. Occurs due to synthesis and assembly of additional intracellular components.\nB. There is an increase in the size of the cells.\nC. Cells capable of division respond to stress by hyperophy and hyperplasia.\nD. There is an increase in the number of cells.\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "af913acc-4ca3-4266-a199-86b667524325",
+            "raw_answer": "There is an increase in the number of cells.",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "36",
+        "question": "For exhumation the order should be passed by -",
+        "choices": [
+            "A. Chief judicial magistrate",
+            "B. Executive magistrate",
+            "C. Police officer",
+            "D. Session judge"
+        ],
+        "answer": "B. Executive magistrate",
+        "query": "For exhumation the order should be passed by -\nChoices:\nA. Chief judicial magistrate\nB. Executive magistrate\nC. Police officer\nD. Session judge\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "df59eac7-87b1-4805-9c47-0caf96a3450d",
+            "raw_answer": "Executive magistrate",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "37",
+        "question": "Regarding Sjogren's syndrome, all are true except: September 2010",
+        "choices": [
+            "A. Keratoconjuctivitis sicca",
+            "B. Rheumatoid ahritis",
+            "C. Epiphora",
+            "D. Autoimmune in nature"
+        ],
+        "answer": "C. Epiphora",
+        "query": "Regarding Sjogren's syndrome, all are true except: September 2010\nChoices:\nA. Keratoconjuctivitis sicca\nB. Rheumatoid ahritis\nC. Epiphora\nD. Autoimmune in nature\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "bf09d252-e987-480b-9a17-fe566ad398b9",
+            "raw_answer": "Epiphora",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "38",
+        "question": "Rescue P.C.I is done for which of the following?",
+        "choices": [
+            "A. Persistent chest pain with ST elevation > 60 min after thrombolysis",
+            "B. Persistent chest pain with ST elevation > 30 min after thrombolysis",
+            "C. Persistent Chest pain with ST elevation >90 min after thrombolysis",
+            "D. Pain with ST elevation for >120minutes after thrombolysis"
+        ],
+        "answer": "C. Persistent Chest pain with ST elevation >90 min after thrombolysis",
+        "query": "Rescue P.C.I is done for which of the following?\nChoices:\nA. Persistent chest pain with ST elevation > 60 min after thrombolysis\nB. Persistent chest pain with ST elevation > 30 min after thrombolysis\nC. Persistent Chest pain with ST elevation >90 min after thrombolysis\nD. Pain with ST elevation for >120minutes after thrombolysis\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "ffa5b47b-7d02-489f-9bcf-f6753b2be449",
+            "raw_answer": "Persistent Chest pain with ST elevation >90 min after thrombolysis",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "39",
+        "question": "The pharmakokinetic change occurring in geriatric patient is due to",
+        "choices": [
+            "A. Gastric absorption",
+            "B. Liver metabolism",
+            "C. Renal clearance",
+            "D. Hypersensitivity"
+        ],
+        "answer": "C. Renal clearance",
+        "query": "The pharmakokinetic change occurring in geriatric patient is due to\nChoices:\nA. Gastric absorption\nB. Liver metabolism\nC. Renal clearance\nD. Hypersensitivity\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "4e6de6fe-8c69-4553-827d-417ce597f3ac",
+            "raw_answer": "Renal clearance",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "40",
+        "question": "For TOF management in antenatal period includes ?",
+        "choices": [
+            "A. Balloon valvotomy",
+            "B. Open hea surgery",
+            "C. Karyotyping",
+            "D. Aspirin"
+        ],
+        "answer": "C. Karyotyping",
+        "query": "For TOF management in antenatal period includes ?\nChoices:\nA. Balloon valvotomy\nB. Open hea surgery\nC. Karyotyping\nD. Aspirin\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "836756cc-2b92-483b-a8cc-302b578a9eaa",
+            "raw_answer": "Karyotyping",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "41",
+        "question": "Normal waist hip ratio of a female is below",
+        "choices": [
+            "A. 0.7",
+            "B. 0.8",
+            "C. 0.9",
+            "D. 1"
+        ],
+        "answer": "B. 0.8",
+        "query": "Normal waist hip ratio of a female is below\nChoices:\nA. 0.7\nB. 0.8\nC. 0.9\nD. 1\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b77af8ce-2e9c-4979-a544-a2331f86f6b1",
+            "raw_answer": "0.8",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "42",
+        "question": "Pearsonian measure of skewness -",
+        "choices": [
+            "A. Mode - Mean/ SD",
+            "B. Mean - Mode/ SD",
+            "C. SD/Mode - mean",
+            "D. Mean - Mode/ SD"
+        ],
+        "answer": "B. Mean - Mode/ SD",
+        "query": "Pearsonian measure of skewness -\nChoices:\nA. Mode - Mean/ SD\nB. Mean - Mode/ SD\nC. SD/Mode - mean\nD. Mean - Mode/ SD\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "476a3ecd-7c42-4c85-9982-1ce80c95ab82",
+            "raw_answer": "Mean - Mode/ SD",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "43",
+        "question": "Following are the causes of sudden loss of vision except ?",
+        "choices": [
+            "A. Angle closure glaucoma",
+            "B. Endophthalmitis",
+            "C. Central serous retinopathy",
+            "D. Corneal ulceration"
+        ],
+        "answer": "D. Corneal ulceration",
+        "query": "Following are the causes of sudden loss of vision except ?\nChoices:\nA. Angle closure glaucoma\nB. Endophthalmitis\nC. Central serous retinopathy\nD. Corneal ulceration\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "509f300d-f354-48fb-a2c9-fb1a55cb8e00",
+            "raw_answer": "Corneal ulceration",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "44",
+        "question": "The process of hardening a cement matrix through hydration with oral fluids  to achieve greater mechanical strength is known as:",
+        "choices": [
+            "A. Maturation",
+            "B. Setting",
+            "C. Hardening",
+            "D. Mineralization"
+        ],
+        "answer": "A. Maturation",
+        "query": "The process of hardening a cement matrix through hydration with oral fluids  to achieve greater mechanical strength is known as:\nChoices:\nA. Maturation\nB. Setting\nC. Hardening\nD. Mineralization\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "26ac2e3d-bbd7-44d6-968a-feeb54cf1a92",
+            "raw_answer": "Maturation",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "45",
+        "question": "All of the following structure lies outside the cavernous sinus except",
+        "choices": [
+            "A. Sphenoidal air sinus",
+            "B. Internal carotid aery",
+            "C. Foramen lacerum",
+            "D. Maxillary nerve"
+        ],
+        "answer": "D. Maxillary nerve",
+        "query": "All of the following structure lies outside the cavernous sinus except\nChoices:\nA. Sphenoidal air sinus\nB. Internal carotid aery\nC. Foramen lacerum\nD. Maxillary nerve\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "0e3852f0-45a6-493c-96d5-aefe1e0fa769",
+            "raw_answer": "Maxillary nerve",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "46",
+        "question": "S2 is best appreciated in -",
+        "choices": [
+            "A. 3rd left intercostal space",
+            "B. 2nd right intercostal space",
+            "C. 4th left intercostal space",
+            "D. 5th left intercostal space"
+        ],
+        "answer": "A. 3rd left intercostal space",
+        "query": "S2 is best appreciated in -\nChoices:\nA. 3rd left intercostal space\nB. 2nd right intercostal space\nC. 4th left intercostal space\nD. 5th left intercostal space\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "9531838e-9009-47d8-8d6e-3880fab47804",
+            "raw_answer": "3rd left intercostal space",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "47",
+        "question": "Prevalence is a:",
+        "choices": [
+            "A. Rate",
+            "B. Ratio",
+            "C. Propoion",
+            "D. None of the above"
+        ],
+        "answer": "C. Propoion",
+        "query": "Prevalence is a:\nChoices:\nA. Rate\nB. Ratio\nC. Propoion\nD. None of the above\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "452b1926-6027-40a1-a934-6d58f2a8caed",
+            "raw_answer": "Propoion",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "48",
+        "question": "Per rectum examination is not a useful test for diagnosis of",
+        "choices": [
+            "A. Anal fissure",
+            "B. Hemorrhoid",
+            "C. Pilonidal sinus",
+            "D. Rectal ulcer"
+        ],
+        "answer": "C. Pilonidal sinus",
+        "query": "Per rectum examination is not a useful test for diagnosis of\nChoices:\nA. Anal fissure\nB. Hemorrhoid\nC. Pilonidal sinus\nD. Rectal ulcer\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f3bf8583-231b-4b7a-828c-179b0f9ccdd9",
+            "raw_answer": "Pilonidal sinus",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "49",
+        "question": "25 year old patient Suspected to have a pneumoperitoneum. Patient is unable to stand. Best x-ray view is",
+        "choices": [
+            "A. Left lateral decubitus view",
+            "B. Right lateral decubitus view",
+            "C. Supine",
+            "D. Prone"
+        ],
+        "answer": "A. Left lateral decubitus view",
+        "query": "25 year old patient Suspected to have a pneumoperitoneum. Patient is unable to stand. Best x-ray view is\nChoices:\nA. Left lateral decubitus view\nB. Right lateral decubitus view\nC. Supine\nD. Prone\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "d27fbb91-ef90-4092-9175-636be25c357f",
+            "raw_answer": "Left lateral decubitus view",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "50",
+        "question": "The radiograph of a 32 year old patient is shown below. The patient is asymptomatic and the lesion revealed in the\u00a0radiograph is an accidental finding. The most likely diagnosis is:",
+        "choices": [
+            "A. Stafne\u2019s bone cavity",
+            "B. Radicular Cyst",
+            "C. Dentigerous cyst",
+            "D. Lateral periodontal cyst"
+        ],
+        "answer": "A. Stafne\u2019s bone cavity",
+        "query": "The radiograph of a 32 year old patient is shown below. The patient is asymptomatic and the lesion revealed in the\u00a0radiograph is an accidental finding. The most likely diagnosis is:\nChoices:\nA. Stafne\u2019s bone cavity\nB. Radicular Cyst\nC. Dentigerous cyst\nD. Lateral periodontal cyst\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "aeb420c2-ede8-48bc-9400-a5ae531f15ee",
+            "raw_answer": "Stafne\u2019s bone cavity",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "51",
+        "question": "All are true about temporal arteritis except -",
+        "choices": [
+            "A. Can leads to sudden bilateral blindness",
+            "B. More corrunon in females",
+            "C. Worsen on exposure to heat",
+            "D. Mostly affects elderly"
+        ],
+        "answer": "C. Worsen on exposure to heat",
+        "query": "All are true about temporal arteritis except -\nChoices:\nA. Can leads to sudden bilateral blindness\nB. More corrunon in females\nC. Worsen on exposure to heat\nD. Mostly affects elderly\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "4fb5da8e-6fa9-4308-829d-bef54d70af7c",
+            "raw_answer": "Worsen on exposure to heat",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "52",
+        "question": "All of the following are surgical options for morbid obesity except -",
+        "choices": [
+            "A. Adjustable gastric banding",
+            "B. Biliopancreatic diversion",
+            "C. Duodenal Switch",
+            "D. Roux en Y Duodenal By pass"
+        ],
+        "answer": "D. Roux en Y Duodenal By pass",
+        "query": "All of the following are surgical options for morbid obesity except -\nChoices:\nA. Adjustable gastric banding\nB. Biliopancreatic diversion\nC. Duodenal Switch\nD. Roux en Y Duodenal By pass\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "5c38bea6-787a-44a9-b2df-88f4218ab914",
+            "raw_answer": "Roux en Y Duodenal By pass",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "53",
+        "question": "Pre-exposure prophylaxis for rabies is given on days",
+        "choices": [
+            "A. 0, 3, 7, 14, 28, 90",
+            "B. 0, 3, 7, 28, 90",
+            "C. 0, 3",
+            "D. 0, 7, 28"
+        ],
+        "answer": "D. 0, 7, 28",
+        "query": "Pre-exposure prophylaxis for rabies is given on days\nChoices:\nA. 0, 3, 7, 14, 28, 90\nB. 0, 3, 7, 28, 90\nC. 0, 3\nD. 0, 7, 28\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "6d21ae16-b1b7-42d3-ba62-7e310d8b0198",
+            "raw_answer": "0, 7, 28",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "54",
+        "question": "Hyper viscosity is seen in",
+        "choices": [
+            "A. Cryoglobulinemia",
+            "B. Multiple myeloma",
+            "C. MGUS",
+            "D. Lymphoma"
+        ],
+        "answer": "A. Cryoglobulinemia",
+        "query": "Hyper viscosity is seen in\nChoices:\nA. Cryoglobulinemia\nB. Multiple myeloma\nC. MGUS\nD. Lymphoma\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f79a972f-3611-4cdc-837e-ce2f9393f592",
+            "raw_answer": "Cryoglobulinemia",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "55",
+        "question": "If solid line represent the rigid height, then the following diagram with excessive inter arch space is classified in?",
+        "choices": [
+            "A. Class - 1",
+            "B. Class - 2",
+            "C. Class - 3",
+            "D. Class - 4"
+        ],
+        "answer": "B. Class - 2",
+        "query": "If solid line represent the rigid height, then the following diagram with excessive inter arch space is classified in?\nChoices:\nA. Class - 1\nB. Class - 2\nC. Class - 3\nD. Class - 4\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "55b3bce3-3a08-4770-a6c6-c416160de22e",
+            "raw_answer": "Class - 2",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "56",
+        "question": "According to recent SC judgment, doctor can be charged for medical negligence under 304-A, only if: AIIMS 12",
+        "choices": [
+            "A. He is from corporate hospital",
+            "B. Negligence is from inadveent error",
+            "C. Simple negligence",
+            "D. Gross negligence"
+        ],
+        "answer": "D. Gross negligence",
+        "query": "According to recent SC judgment, doctor can be charged for medical negligence under 304-A, only if: AIIMS 12\nChoices:\nA. He is from corporate hospital\nB. Negligence is from inadveent error\nC. Simple negligence\nD. Gross negligence\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "95a23ec3-c2d6-40f4-890f-bece76c568cd",
+            "raw_answer": "Gross negligence",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "57",
+        "question": "Which of the following is measured by the device, Bellow's spirometer?",
+        "choices": [
+            "A. TLC",
+            "B. RV",
+            "C. Closing volume",
+            "D. ERV"
+        ],
+        "answer": "D. ERV",
+        "query": "Which of the following is measured by the device, Bellow's spirometer?\nChoices:\nA. TLC\nB. RV\nC. Closing volume\nD. ERV\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "236d1eb1-f2e1-43b0-90f3-f88deff358cb",
+            "raw_answer": "ERV",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "58",
+        "question": "Organisms that has not been cultured successfully so far is-",
+        "choices": [
+            "A. Leptospira",
+            "B. Treponema pallidum",
+            "C. Bordetella",
+            "D. Staphylococcus"
+        ],
+        "answer": "B. Treponema pallidum",
+        "query": "Organisms that has not been cultured successfully so far is-\nChoices:\nA. Leptospira\nB. Treponema pallidum\nC. Bordetella\nD. Staphylococcus\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e9038cb9-56db-473d-9d3f-440f130295ec",
+            "raw_answer": "Treponema pallidum",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "59",
+        "question": "Position of limb in posterior dislocation of hip -",
+        "choices": [
+            "A. Flexion, abduction & external rotation",
+            "B. Flexion, adduction & internal rotation",
+            "C. Flexion, adduction & external rotation",
+            "D. Flexion, abduction & internal rotation"
+        ],
+        "answer": "B. Flexion, adduction & internal rotation",
+        "query": "Position of limb in posterior dislocation of hip -\nChoices:\nA. Flexion, abduction & external rotation\nB. Flexion, adduction & internal rotation\nC. Flexion, adduction & external rotation\nD. Flexion, abduction & internal rotation\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "764ad788-556b-49cd-b976-c93086492894",
+            "raw_answer": "Flexion, adduction & internal rotation",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "60",
+        "question": "The most common cause of renal scaring in a 3 year old child is -",
+        "choices": [
+            "A. Trauma",
+            "B. Tuberculosis",
+            "C. Vesicoureteral reflux induced pyelonephritis",
+            "D. Interstitial nephritis"
+        ],
+        "answer": "C. Vesicoureteral reflux induced pyelonephritis",
+        "query": "The most common cause of renal scaring in a 3 year old child is -\nChoices:\nA. Trauma\nB. Tuberculosis\nC. Vesicoureteral reflux induced pyelonephritis\nD. Interstitial nephritis\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f5df7424-6485-43fa-ba98-6de498561a76",
+            "raw_answer": "Vesicoureteral reflux induced pyelonephritis",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "61",
+        "question": "Scrub typhus is transmitted by: September 2004",
+        "choices": [
+            "A. Louse",
+            "B. Tick",
+            "C. Mite",
+            "D. Milk"
+        ],
+        "answer": "C. Mite",
+        "query": "Scrub typhus is transmitted by: September 2004\nChoices:\nA. Louse\nB. Tick\nC. Mite\nD. Milk\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "5ab84ea8-12d1-47d4-ab22-668ebf01e64c",
+            "raw_answer": "Mite",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "62",
+        "question": "Abnormal vascular patterns seen with colposcopy in case of cervical intraepithelial neoplasia  are all except",
+        "choices": [
+            "A. Punctation",
+            "B. Mosaicism",
+            "C. Satellite lesions",
+            "D. Atypical vessels"
+        ],
+        "answer": "C. Satellite lesions",
+        "query": "Abnormal vascular patterns seen with colposcopy in case of cervical intraepithelial neoplasia  are all except\nChoices:\nA. Punctation\nB. Mosaicism\nC. Satellite lesions\nD. Atypical vessels\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "a83de6e4-9427-4480-b404-d96621ebb640",
+            "raw_answer": "Satellite lesions",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "63",
+        "question": "Which of the following is the best procedure done for intrapaum fetal monitoring:",
+        "choices": [
+            "A. Fetal echocardiography",
+            "B. Fetal scalp pH",
+            "C. Continuous electrical fetal hea monitoring",
+            "D. Physical examination"
+        ],
+        "answer": "C. Continuous electrical fetal hea monitoring",
+        "query": "Which of the following is the best procedure done for intrapaum fetal monitoring:\nChoices:\nA. Fetal echocardiography\nB. Fetal scalp pH\nC. Continuous electrical fetal hea monitoring\nD. Physical examination\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "1d4ccb9d-1924-4aa6-b07c-0ed46fe31c20",
+            "raw_answer": "Continuous electrical fetal hea monitoring",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "64",
+        "question": "One standard detion in normal standard curev includes value-",
+        "choices": [
+            "A. 50%",
+            "B. 68%",
+            "C. 95%",
+            "D. 100%"
+        ],
+        "answer": "B. 68%",
+        "query": "One standard detion in normal standard curev includes value-\nChoices:\nA. 50%\nB. 68%\nC. 95%\nD. 100%\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "cdfbd205-6f98-4cdc-9d76-29c0e9887cef",
+            "raw_answer": "68%",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "65",
+        "question": "Superior vena cava is derived from:",
+        "choices": [
+            "A. Aortic arch",
+            "B. Pharyngeal arch",
+            "C. Cardinal vein",
+            "D. Vitelline vein"
+        ],
+        "answer": "C. Cardinal vein",
+        "query": "Superior vena cava is derived from:\nChoices:\nA. Aortic arch\nB. Pharyngeal arch\nC. Cardinal vein\nD. Vitelline vein\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "56b5a2d2-044c-4b80-b778-6fa762206f52",
+            "raw_answer": "Cardinal vein",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "66",
+        "question": "Which of the following muscle is not a hybrid muscle",
+        "choices": [
+            "A. Pectoralis major",
+            "B. Extensor digitorum",
+            "C. Flexor digitorum profundus",
+            "D. Brachialis"
+        ],
+        "answer": "B. Extensor digitorum",
+        "query": "Which of the following muscle is not a hybrid muscle\nChoices:\nA. Pectoralis major\nB. Extensor digitorum\nC. Flexor digitorum profundus\nD. Brachialis\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "6a19df3c-6af0-4673-8e2b-02d86ddc7523",
+            "raw_answer": "Extensor digitorum",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "67",
+        "question": "Which of the following bacterial meningitis is associated with sudural effusion?",
+        "choices": [
+            "A. H. influenza",
+            "B. Neisseria meningitits",
+            "C. Streptococcus pneumonia",
+            "D. Enterococcus"
+        ],
+        "answer": "A. H. influenza",
+        "query": "Which of the following bacterial meningitis is associated with sudural effusion?\nChoices:\nA. H. influenza\nB. Neisseria meningitits\nC. Streptococcus pneumonia\nD. Enterococcus\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "af3f9375-99f2-4495-8e66-c875d70c9612",
+            "raw_answer": "H. influenza",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "68",
+        "question": "Causes of thickened gallbladder wall on ultrasound examination are all except:",
+        "choices": [
+            "A. Postprandial state",
+            "B. Cholecystitis",
+            "C. Congestive cardiac failure",
+            "D. Kawasaki disease"
+        ],
+        "answer": "D. Kawasaki disease",
+        "query": "Causes of thickened gallbladder wall on ultrasound examination are all except:\nChoices:\nA. Postprandial state\nB. Cholecystitis\nC. Congestive cardiac failure\nD. Kawasaki disease\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "22c45247-65d6-4168-aa89-428eb6ccf1c3",
+            "raw_answer": "Kawasaki disease",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "69",
+        "question": "Testicular artery usually arises from",
+        "choices": [
+            "A. Abdominal aorta below renal artery",
+            "B. Renal artery",
+            "C. Internal iliac artery",
+            "D. Ext iliac artery"
+        ],
+        "answer": "A. Abdominal aorta below renal artery",
+        "query": "Testicular artery usually arises from\nChoices:\nA. Abdominal aorta below renal artery\nB. Renal artery\nC. Internal iliac artery\nD. Ext iliac artery\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "9ecbc05b-b255-47b5-b7b1-bf55f0f21abd",
+            "raw_answer": "Abdominal aorta below renal artery",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "70",
+        "question": "Chronic urethral obstruction due to benign prismatic hyperplasia can lead to the following change in kidney parenchyma",
+        "choices": [
+            "A. Hyperplasia",
+            "B. Hyperophy",
+            "C. Atrophy",
+            "D. Dyplasia"
+        ],
+        "answer": "C. Atrophy",
+        "query": "Chronic urethral obstruction due to benign prismatic hyperplasia can lead to the following change in kidney parenchyma\nChoices:\nA. Hyperplasia\nB. Hyperophy\nC. Atrophy\nD. Dyplasia\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e9ad821a-c438-4965-9f77-760819dfa155",
+            "raw_answer": "Atrophy",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "71",
+        "question": "A Dentin 'Primer'?",
+        "choices": [
+            "A. Etches the dentin",
+            "B. It increases the surface energy & wets the dentin surface",
+            "C. Removes the smear layer",
+            "D. Conditions the dentin"
+        ],
+        "answer": "B. It increases the surface energy & wets the dentin surface",
+        "query": "A Dentin 'Primer'?\nChoices:\nA. Etches the dentin\nB. It increases the surface energy & wets the dentin surface\nC. Removes the smear layer\nD. Conditions the dentin\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "8705fb60-c237-4804-a9cf-8adbb631bcd3",
+            "raw_answer": "It increases the surface energy & wets the dentin surface",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "72",
+        "question": "All of the following could include the mechanism or function of oxigenases, EXCEPT:",
+        "choices": [
+            "A. Incorporate 2 atoms of oxygen",
+            "B. Incorporate 1 atom of oxygen",
+            "C. Required for hydroxylation of steroids",
+            "D. Required for carboxylation of drugs"
+        ],
+        "answer": "D. Required for carboxylation of drugs",
+        "query": "All of the following could include the mechanism or function of oxigenases, EXCEPT:\nChoices:\nA. Incorporate 2 atoms of oxygen\nB. Incorporate 1 atom of oxygen\nC. Required for hydroxylation of steroids\nD. Required for carboxylation of drugs\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "c08137c8-34c0-4f03-9b07-227dfeb8ec8e",
+            "raw_answer": "Required for carboxylation of drugs",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "73",
+        "question": "A 12-year-old girl presents to the casualty with symptoms of fever, shoness of breath, and cough. A chest X-ray reveals complete consolidation of the lower lobe of the left lung. Cultures of the lower lobe of the left lung would most likely reveal which organism?",
+        "choices": [
+            "A. Streptococcus pneumoniae",
+            "B. Staphylococcus aureus",
+            "C. Klebsiella pneumoniae",
+            "D. Pseudomonas aeruginosa"
+        ],
+        "answer": "A. Streptococcus pneumoniae",
+        "query": "A 12-year-old girl presents to the casualty with symptoms of fever, shoness of breath, and cough. A chest X-ray reveals complete consolidation of the lower lobe of the left lung. Cultures of the lower lobe of the left lung would most likely reveal which organism?\nChoices:\nA. Streptococcus pneumoniae\nB. Staphylococcus aureus\nC. Klebsiella pneumoniae\nD. Pseudomonas aeruginosa\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f6c9fd05-bcda-4397-bcaa-a17d65107ad3",
+            "raw_answer": "Streptococcus pneumoniae",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "74",
+        "question": "Best indicator of antemoum drowning is :",
+        "choices": [
+            "A. Froth in mouth and nostrils",
+            "B. Cutis anserina",
+            "C. Washerman's hand",
+            "D. Water in nose"
+        ],
+        "answer": "A. Froth in mouth and nostrils",
+        "query": "Best indicator of antemoum drowning is :\nChoices:\nA. Froth in mouth and nostrils\nB. Cutis anserina\nC. Washerman's hand\nD. Water in nose\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "a79732e1-a0c9-4e81-bce6-fbcacaaab4e7",
+            "raw_answer": "Froth in mouth and nostrils",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "75",
+        "question": "Test for diagnosis of pyogenic meningitis is?",
+        "choices": [
+            "A. Widal",
+            "B. CSF PCR",
+            "C. CSF examination",
+            "D. PET scan"
+        ],
+        "answer": "C. CSF examination",
+        "query": "Test for diagnosis of pyogenic meningitis is?\nChoices:\nA. Widal\nB. CSF PCR\nC. CSF examination\nD. PET scan\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "c50f51df-27d7-43e6-9be6-4b89df294edb",
+            "raw_answer": "CSF examination",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "76",
+        "question": "A 6hours old snake bite patient comes to emergency with mild local edema at the injury site. On examination no abnormalities detected and lab repos are normal. Most appropriate management is",
+        "choices": [
+            "A. Incision and suction",
+            "B. Wait and watch",
+            "C. Local subcutaneous antisnake venom",
+            "D. Intravenous antisnake venom"
+        ],
+        "answer": "B. Wait and watch",
+        "query": "A 6hours old snake bite patient comes to emergency with mild local edema at the injury site. On examination no abnormalities detected and lab repos are normal. Most appropriate management is\nChoices:\nA. Incision and suction\nB. Wait and watch\nC. Local subcutaneous antisnake venom\nD. Intravenous antisnake venom\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "99ae24e6-10c3-48b5-8c69-a8784ce4a4fc",
+            "raw_answer": "Wait and watch",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "77",
+        "question": "The WBC that is considered \u201csecond line of defence\u201d is:",
+        "choices": [
+            "A. Neutrophil",
+            "B. Eosinophil",
+            "C. Basophil",
+            "D. Monocyte"
+        ],
+        "answer": "D. Monocyte",
+        "query": "The WBC that is considered \u201csecond line of defence\u201d is:\nChoices:\nA. Neutrophil\nB. Eosinophil\nC. Basophil\nD. Monocyte\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "bdf94942-49c0-4d9a-b990-a7bfb7099857",
+            "raw_answer": "Monocyte",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "78",
+        "question": "During extraction of the upper first molar, the mesio buccal root is missing and is suspected to have been pushed into the maxillary sinus.\nThe best position for the patient immediately after the incident is",
+        "choices": [
+            "A. To position the patient upright",
+            "B. To position the patients in a semi inclined posture to visualize the perforation",
+            "C. Trendelenberg position",
+            "D. Reverse trendelenberg position"
+        ],
+        "answer": "A. To position the patient upright",
+        "query": "During extraction of the upper first molar, the mesio buccal root is missing and is suspected to have been pushed into the maxillary sinus.\nThe best position for the patient immediately after the incident is\nChoices:\nA. To position the patient upright\nB. To position the patients in a semi inclined posture to visualize the perforation\nC. Trendelenberg position\nD. Reverse trendelenberg position\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "fc374693-12de-4ca4-8854-34bd1a9c686b",
+            "raw_answer": "To position the patient upright",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "79",
+        "question": "A 14-year-old girl presents with quadriparesis, facial palsy, winging of scapula and ptosis. There is h/o similar illness in father and brother but less severe. Her CPK level is also raised (500IU/L). She is probably suffering from?",
+        "choices": [
+            "A. Emery-Dreifuss muscular dystrophy",
+            "B. Becker muscular dystrophy",
+            "C. Limb-girdle dystrophy",
+            "D. Scapulofaciohumeral dystrophy"
+        ],
+        "answer": "D. Scapulofaciohumeral dystrophy",
+        "query": "A 14-year-old girl presents with quadriparesis, facial palsy, winging of scapula and ptosis. There is h/o similar illness in father and brother but less severe. Her CPK level is also raised (500IU/L). She is probably suffering from?\nChoices:\nA. Emery-Dreifuss muscular dystrophy\nB. Becker muscular dystrophy\nC. Limb-girdle dystrophy\nD. Scapulofaciohumeral dystrophy\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "01b9f068-4db2-45e5-94b8-19d4f7d290f7",
+            "raw_answer": "Scapulofaciohumeral dystrophy",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "80",
+        "question": "Household insectiside used for malaria-",
+        "choices": [
+            "A. Malathion",
+            "B. Pyrethrum",
+            "C. Paris green",
+            "D. Permethrin"
+        ],
+        "answer": "A. Malathion",
+        "query": "Household insectiside used for malaria-\nChoices:\nA. Malathion\nB. Pyrethrum\nC. Paris green\nD. Permethrin\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "91d73a6d-7f5b-44bb-b0ac-477ea9338efb",
+            "raw_answer": "Malathion",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "81",
+        "question": "Lymph vessel which drain the posterior 1/3 rd of the tongue:",
+        "choices": [
+            "A. Basal vessel.",
+            "B. Marginal vessel.",
+            "C. Central vessel.",
+            "D. Lateral vessel."
+        ],
+        "answer": "A. Basal vessel.",
+        "query": "Lymph vessel which drain the posterior 1/3 rd of the tongue:\nChoices:\nA. Basal vessel.\nB. Marginal vessel.\nC. Central vessel.\nD. Lateral vessel.\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "24b17b1d-0dac-4da1-b215-22451784b9b6",
+            "raw_answer": "Basal vessel.",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "82",
+        "question": "Treatment of choice in traumatic facial nerve injury is:",
+        "choices": [
+            "A. Facial sling",
+            "B. Facial nerve repair",
+            "C. Conservative management",
+            "D. Systemic corticosteroids"
+        ],
+        "answer": "B. Facial nerve repair",
+        "query": "Treatment of choice in traumatic facial nerve injury is:\nChoices:\nA. Facial sling\nB. Facial nerve repair\nC. Conservative management\nD. Systemic corticosteroids\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "69e9312c-9be5-4efe-a981-6bd7be0ef65b",
+            "raw_answer": "Facial nerve repair",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "83",
+        "question": "Hamartomatous lung tissue is?",
+        "choices": [
+            "A. Hypoplasia of lung",
+            "B. Congenital cyst",
+            "C. Lobar sequestration",
+            "D. Congenital cystic adenomatoid malformation"
+        ],
+        "answer": "D. Congenital cystic adenomatoid malformation",
+        "query": "Hamartomatous lung tissue is?\nChoices:\nA. Hypoplasia of lung\nB. Congenital cyst\nC. Lobar sequestration\nD. Congenital cystic adenomatoid malformation\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "567e1d6a-5444-4e1a-b07a-98417b051c28",
+            "raw_answer": "Congenital cystic adenomatoid malformation",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "84",
+        "question": "Following are fibrous joints :",
+        "choices": [
+            "A. Pubic symphysis",
+            "B. Fronto parietal suture",
+            "C. Manubrio sternal joint",
+            "D. Inf. radio ulnar joint"
+        ],
+        "answer": "B. Fronto parietal suture",
+        "query": "Following are fibrous joints :\nChoices:\nA. Pubic symphysis\nB. Fronto parietal suture\nC. Manubrio sternal joint\nD. Inf. radio ulnar joint\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e2e8a056-13c0-457f-945f-da4fdb9afbd6",
+            "raw_answer": "Fronto parietal suture",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "85",
+        "question": "Growth hormone has its effect on growth through?",
+        "choices": [
+            "A. Directly",
+            "B. IG1-1",
+            "C. Thyroxine",
+            "D. Intranuclear receptors"
+        ],
+        "answer": "B. IG1-1",
+        "query": "Growth hormone has its effect on growth through?\nChoices:\nA. Directly\nB. IG1-1\nC. Thyroxine\nD. Intranuclear receptors\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "dc6794a3-b108-47c5-8b1b-3b4931577249",
+            "raw_answer": "IG1-1",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "86",
+        "question": "Splenomegaly may be a feature of: March 2013",
+        "choices": [
+            "A. Megaloblastic anemia",
+            "B. Sickle cell anemia",
+            "C. Thalassemia",
+            "D. G6PD deficiency"
+        ],
+        "answer": "B. Sickle cell anemia",
+        "query": "Splenomegaly may be a feature of: March 2013\nChoices:\nA. Megaloblastic anemia\nB. Sickle cell anemia\nC. Thalassemia\nD. G6PD deficiency\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "432ce240-2b6c-47aa-afd7-18bd49806239",
+            "raw_answer": "Sickle cell anemia",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "87",
+        "question": "All of the following are causes of congenital blindness Except",
+        "choices": [
+            "A. Toxoplasmosis",
+            "B. Congenital rubella",
+            "C. Vitamin A deficiency",
+            "D. Cataract"
+        ],
+        "answer": "C. Vitamin A deficiency",
+        "query": "All of the following are causes of congenital blindness Except\nChoices:\nA. Toxoplasmosis\nB. Congenital rubella\nC. Vitamin A deficiency\nD. Cataract\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e197f947-1bdd-4efd-887a-b72faa9441c5",
+            "raw_answer": "Vitamin A deficiency",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "88",
+        "question": "Which of the following statements are True/False? 1. Hirsutism, which is defined as androgen-dependent excessive male pattern hair growth, affects approximately 25% of women. 2. Virilization refers to a condition in which androgen levels are sufficiently high to cause additional signs and symptoms. 3. Frequently, patients with growth hormone excess (i.e., acromegaly) present with hirsutism. 4. A simple and commonly used method to grade hair growth is the modified scale of Ferriman and Gallwey. 5. Scores above 8 suggest excess androgen-mediated hair growth.",
+        "choices": [
+            "A. 1, 2, 3 True & 4, 5 false",
+            "B. 1, 3, 5 True & 2, 4 false",
+            "C. 2, 4, 5 True & 1, 3 false",
+            "D. 1, 2, 3, 4 True & 5 false"
+        ],
+        "answer": "C. 2, 4, 5 True & 1, 3 false",
+        "query": "Which of the following statements are True/False? 1. Hirsutism, which is defined as androgen-dependent excessive male pattern hair growth, affects approximately 25% of women. 2. Virilization refers to a condition in which androgen levels are sufficiently high to cause additional signs and symptoms. 3. Frequently, patients with growth hormone excess (i.e., acromegaly) present with hirsutism. 4. A simple and commonly used method to grade hair growth is the modified scale of Ferriman and Gallwey. 5. Scores above 8 suggest excess androgen-mediated hair growth.\nChoices:\nA. 1, 2, 3 True & 4, 5 false\nB. 1, 3, 5 True & 2, 4 false\nC. 2, 4, 5 True & 1, 3 false\nD. 1, 2, 3, 4 True & 5 false\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "e529be7c-f360-4dba-b313-7f3fc240697a",
+            "raw_answer": "2, 4, 5 True & 1, 3 false",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "89",
+        "question": "Which of the following is a newly emerging food poisoning organism",
+        "choices": [
+            "A. Salmonella typhimurium",
+            "B. Enterococcus",
+            "C. Diphtheria",
+            "D. Pseudomonas"
+        ],
+        "answer": "A. Salmonella typhimurium",
+        "query": "Which of the following is a newly emerging food poisoning organism\nChoices:\nA. Salmonella typhimurium\nB. Enterococcus\nC. Diphtheria\nD. Pseudomonas\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "a2630da3-17a1-4149-b424-4b04b2c42f1c",
+            "raw_answer": "Salmonella typhimurium",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "90",
+        "question": "Fever associated with infection",
+        "choices": [
+            "A. Accelerates bacterial and viral replication",
+            "B. Left shifts the oxygen dissociation curve",
+            "C. Is due to interleukin-1 released from CD4 T-helper cells",
+            "D. Increase oxygen release to tissue"
+        ],
+        "answer": "D. Increase oxygen release to tissue",
+        "query": "Fever associated with infection\nChoices:\nA. Accelerates bacterial and viral replication\nB. Left shifts the oxygen dissociation curve\nC. Is due to interleukin-1 released from CD4 T-helper cells\nD. Increase oxygen release to tissue\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "fefb2a6d-129a-4ebd-9100-fcdb862c98a2",
+            "raw_answer": "Increase oxygen release to tissue",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "91",
+        "question": "True regarding lag phase is?",
+        "choices": [
+            "A. Time taken to adpt in the new environment",
+            "B. Growth occurs exponentially",
+            "C. The plateau in lag phase is due to cell death",
+            "D. It is the 2nd phase in bacterial growth curve"
+        ],
+        "answer": "A. Time taken to adpt in the new environment",
+        "query": "True regarding lag phase is?\nChoices:\nA. Time taken to adpt in the new environment\nB. Growth occurs exponentially\nC. The plateau in lag phase is due to cell death\nD. It is the 2nd phase in bacterial growth curve\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "d64eabcf-da66-438f-a53f-7137d3bba9dd",
+            "raw_answer": "Time taken to adpt in the new environment",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "92",
+        "question": "For a positively skewed curve which measure of central tendency is largest",
+        "choices": [
+            "A. Mean",
+            "B. Mode",
+            "C. Median",
+            "D. All are equal"
+        ],
+        "answer": "A. Mean",
+        "query": "For a positively skewed curve which measure of central tendency is largest\nChoices:\nA. Mean\nB. Mode\nC. Median\nD. All are equal\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "b1a4e1b8-fb3d-40e4-9da7-ebc8a9c0963b",
+            "raw_answer": "Mean",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "93",
+        "question": "What is the best method of informing the rural population about Oral rehydration technique: March 2013 (d, f)",
+        "choices": [
+            "A. Chalk and talk/Lecture",
+            "B. Demonstrations",
+            "C. Role play",
+            "D. Flash cards"
+        ],
+        "answer": "B. Demonstrations",
+        "query": "What is the best method of informing the rural population about Oral rehydration technique: March 2013 (d, f)\nChoices:\nA. Chalk and talk/Lecture\nB. Demonstrations\nC. Role play\nD. Flash cards\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "108ff605-0712-4a5b-8a74-aa8cbefc3d07",
+            "raw_answer": "Demonstrations",
+            "answer_idx": 1
+        }
+    },
+    {
+        "pid": "94",
+        "question": "All are True about Acute Osteomyelitis except",
+        "choices": [
+            "A. Common in children",
+            "B. Severe pain",
+            "C. Involves Epiphyseal plate",
+            "D. Treatment involves 6 weeks of Antibiotics"
+        ],
+        "answer": "C. Involves Epiphyseal plate",
+        "query": "All are True about Acute Osteomyelitis except\nChoices:\nA. Common in children\nB. Severe pain\nC. Involves Epiphyseal plate\nD. Treatment involves 6 weeks of Antibiotics\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "7f11c629-b766-486f-a98e-6de0a2be8ae3",
+            "raw_answer": "Involves Epiphyseal plate",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "95",
+        "question": "What is the most probable poal of entry of Aspergillus?",
+        "choices": [
+            "A. Puncture wound",
+            "B. Blood",
+            "C. Lungs",
+            "D. Gastrointestinal tract"
+        ],
+        "answer": "C. Lungs",
+        "query": "What is the most probable poal of entry of Aspergillus?\nChoices:\nA. Puncture wound\nB. Blood\nC. Lungs\nD. Gastrointestinal tract\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "2b42ac45-27a8-4304-b28d-7554722e76ba",
+            "raw_answer": "Lungs",
+            "answer_idx": 2
+        }
+    },
+    {
+        "pid": "96",
+        "question": "IgA deposits on skin biopsy",
+        "choices": [
+            "A. Henoch Schouleiln puspura",
+            "B. Giant cell aeritis",
+            "C. Microscopic polyangitis",
+            "D. Wegener's granulomatosis"
+        ],
+        "answer": "A. Henoch Schouleiln puspura",
+        "query": "IgA deposits on skin biopsy\nChoices:\nA. Henoch Schouleiln puspura\nB. Giant cell aeritis\nC. Microscopic polyangitis\nD. Wegener's granulomatosis\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "19de7ff4-cb68-4c51-afe3-07a425f20c91",
+            "raw_answer": "Henoch Schouleiln puspura",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "97",
+        "question": "Following endaerectomy on the right common carotid, a patient is found to be blind in the right eye. It is appears that a small thrombus embolized during surgery and lodged in the aery supplying the optic nerve. Which aery would be blocked?",
+        "choices": [
+            "A. Central aery of the retina",
+            "B. Infraorbital aery",
+            "C. Lacrimal aery",
+            "D. Nasociliary aretry"
+        ],
+        "answer": "A. Central aery of the retina",
+        "query": "Following endaerectomy on the right common carotid, a patient is found to be blind in the right eye. It is appears that a small thrombus embolized during surgery and lodged in the aery supplying the optic nerve. Which aery would be blocked?\nChoices:\nA. Central aery of the retina\nB. Infraorbital aery\nC. Lacrimal aery\nD. Nasociliary aretry\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "cdeedb04-fbe9-432c-937c-d53ac24475de",
+            "raw_answer": "Central aery of the retina",
+            "answer_idx": 0
+        }
+    },
+    {
+        "pid": "98",
+        "question": "A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Investigation of choice to know the cause of hematuria",
+        "choices": [
+            "A. USG",
+            "B. X-ray KUB",
+            "C. Urine routine",
+            "D. Urine microscopy for malignant cytology cells"
+        ],
+        "answer": "D. Urine microscopy for malignant cytology cells",
+        "query": "A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Investigation of choice to know the cause of hematuria\nChoices:\nA. USG\nB. X-ray KUB\nC. Urine routine\nD. Urine microscopy for malignant cytology cells\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "35a7eac4-fd96-4184-9a5f-86bba82a5b62",
+            "raw_answer": "Urine microscopy for malignant cytology cells",
+            "answer_idx": 3
+        }
+    },
+    {
+        "pid": "99",
+        "question": "What is the pressure of inspiration?",
+        "choices": [
+            "A. Intrapleuarl",
+            "B. Transpulmonary",
+            "C. Trans chest wall",
+            "D. Alveolar pressure"
+        ],
+        "answer": "A. Intrapleuarl",
+        "query": "What is the pressure of inspiration?\nChoices:\nA. Intrapleuarl\nB. Transpulmonary\nC. Trans chest wall\nD. Alveolar pressure\nChoose the correct option.",
+        "metadata": {
+            "annot_id": "f18b19db-efc0-40d3-accd-5d2dcb3b1879",
+            "raw_answer": "Intrapleuarl",
+            "answer_idx": 0
+        }
+    }
+]

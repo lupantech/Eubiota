@@ -1,0 +1,130 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eubiota"
+version = "0.1.0"
+description = "Eubiota orchestrates specialized agents to drive tool-grounded discovery through outcome-driven refinement."
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Eubiota Team"},
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+requires-python = ">=3.10"
+
+# Core dependencies (minimal for inference)
+dependencies = [
+  "graphviz",
+  "psutil",
+  "setproctitle",
+  "flask",
+  "agentops<=0.4.18",
+  "httpdbg",
+  "uvicorn",
+  "fastapi",
+  "aiohttp",
+  "diskcache",
+  "platformdirs",
+]
+
+[project.optional-dependencies]
+# Inference-only installation (recommended for production)
+infer = [
+  "biopython",      # For PubMed and biological data tools
+  "wikipedia",      # For Wikipedia search tool
+  "google-genai",   # For Google Search tool and Gemini models (new API)
+  "autogen-agentchat",
+  "autogen-ext[openai]",
+  "litellm[proxy]",
+  "mcp",
+  "openai-agents",
+  "langgraph",
+  "langchain[openai]",
+  "langchain-community",
+  "langchain-text-splitters",
+  "sqlparse",
+  "nltk",
+  "uv",
+  "tenacity",
+  "pillow",
+]
+
+# Extended LLM engines
+extended-engines = [
+  "dashscope",      # Alibaba Qwen models
+  "together",       # Together AI
+  "ollama",         # Local Ollama models
+]
+
+# Development tools
+dev = [
+  "flake8",
+  "pytest",
+  "hatch",
+  "pytest-asyncio",
+  "pre-commit",
+  "pytest-rerunfailures",
+  "black",
+  "mkdocs",
+  "mkdocs-material",
+  "mkdocstrings[python]",
+  "mike",
+  "mkdocs-git-revision-date-localized-plugin",
+  "mkdocs-git-authors-plugin",
+  "mkdocs-macros-plugin",
+]
+
+# Training dependencies (for trainer package, not needed for inference)
+train = [
+  "ray[default]",
+  "transformers",
+  "datasets",
+  "tensordict",
+  "codetiming",
+  "omegaconf",
+  "hydra-core",
+  "opentelemetry-api",  
+  "opentelemetry-sdk",
+
+  "agentops<=0.4.18",  
+  "psutil",            
+  "setproctitle",     
+  "fastapi",           
+  "uvicorn",           
+  "flask",            
+  "graphviz",         
+  "setuptools"
+]
+
+# Full installation (everything)
+all = [
+  "eubiota[infer,extended-engines,dev,train]",
+]
+
+[project.urls]
+Homepage = "https://github.com/Eubiota/Eubiota"
+Repository = "https://github.com/Eubiota/Eubiota"
+
+[tool.setuptools.packages.find]
+include = ["scientist*", "trainer*"]
+
+[tool.setuptools.package-data]
+scientist = ["**/*.yaml", "**/*.yml", "**/*.json"]
+
+[tool.black]
+line-length = 120
+target-version = ['py311']
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true

@@ -1,0 +1,70 @@
+# config.yaml for Scientist Training
+env:
+  WANDB_ENTITY: "sci-agent" # wandb team name
+  CUDA_VISIBLE_DEVICES: '0,1,2,3'
+  HYDRA_FULL_ERROR: 1
+  N_GPUS: 4
+  BASE_MODEL: 'Qwen/Qwen3-8B' # This model will be served in vllm, used by `agentflow.port`, and serve as the base model of rollout in the training process.
+  ROLLOUT_TP_SIZE: 1
+  EXPERIMENT_NAME: 'eubiota_8b'
+  PROJECT_NAME: 'Eubiota_8b'
+  BASE_DATA_DIR: '/PATH_TO_PROJECT/data' # This is where to find training and eval data. Use absolute path to avoid Ray working directory issues.
+  VERBOSITY: 'DEBUG'
+  N_WORKERS: 12
+  # Scientist uses ALL available tools
+  ENABLE_TOOLS: ["Base_Generator_Tool", "Google_Search_Tool", "KEGG_Disease_Search_Tool", "KEGG_Drug_Search_Tool", "KEGG_Gene_Search_Tool", "KEGG_Organism_Search_Tool", "MDIPID_Disease_Search_Tool", "MDIPID_Gene_Search_Tool", "MDIPID_Microbe_Search_Tool", "Perplexity_Search_Tool", "PubMed_Search_Tool", "Python_Coder_Tool", "URL_Context_Search_Tool", "Wikipedia_Search_Tool"]
+  TOOL_ENGINE: ["gpt-4o", "None", "None", "None", "None", "None", "gpt-4o", "gpt-4o", "gpt-4o", "None", "gpt-4o", "gpt-4o", "gpt-4o", "gpt-4o"]
+
+  # Module engines: Specify which reasoning modules to train vs. fix
+  # Order: [planner, executor, verifier, generator]
+  # "Trainable" or "Default" - uses the BASE_MODEL being trained
+  # "<model-name>" - uses a fixed model (e.g., "gpt-4o", "dashscope", "vllm-Qwen/Qwen2.5-30B-Instruct")
+  MODULE_ENGINE: ["Trainable", "gpt-4o", "gpt-4o", "gpt-4o"]
+
+  TOOL_STEPS: 3 # Do not increase beyond 5. It may overflow context.
+  TEST_TEMPERATURE: 0.0
+  TRAIN_TEMPERATURE: 0.7 # 0.7 - 0.5 is good. Please check whether every planner and the executor have this parameter correctly transferred.
+  OUTPUT_TYPE: "direct" # Different output mode in rollout's last output, not that necessary if we are searching and math reasoning because answer should be short.
+  AGENT_MAX_TIMEOUT: 500 # 300-500 is good. When steps extend beyond this limit, there may be errors.
+
+python_args:
+  agentflow.port: 9999 # This will be sent to agent serving and training.
+  algorithm.adv_estimator: 'grpo'
+  data.train_files: '${BASE_DATA_DIR}/train/train.parquet' # Mixed nq search and mathard, shuffled.
+  data.val_files: '${BASE_DATA_DIR}/val/val.parquet' # AIME24 for fast check, the first epoch maybe down due to async start and file lock.
+  actor_rollout_ref.rollout.tensor_model_parallel_size: '${ROLLOUT_TP_SIZE}'
+  trainer.n_gpus_per_node: '${N_GPUS}'
+  data.train_batch_size: 32
+  actor_rollout_ref.rollout.n: 8
+  actor_rollout_ref.actor.ppo_mini_batch_size: 8
+  actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu: 2
+  actor_rollout_ref.rollout.log_prob_micro_batch_size_per_gpu: 2
+  actor_rollout_ref.rollout.multi_turn.format: 'hermes'
+  actor_rollout_ref.model.path: '${BASE_MODEL}'
+  data.max_prompt_length: 18432 # This is safe here because in qwen-planner&executor and dashscope/4o-mini's tools will never prematurely end the output at this length.
+  data.max_response_length: 2048 # Make sure this will be transferred all the way down.
+  data.truncation: 'truncate' # If this is set to "error", then the process will be shut down when the input length exceeds the max_prompt_length + max_response_length.
+  trainer.val_before_train: True # If you restart from a CKPT, then you don't need to save time.
+  actor_rollout_ref.actor.optim.lr: 1e-6
+  actor_rollout_ref.model.use_remove_padding: True
+  actor_rollout_ref.actor.use_kl_loss: True
+  actor_rollout_ref.actor.kl_loss_coef: 0.001
+  actor_rollout_ref.actor.entropy_coeff: 0.0 # Maybe this can somehow prevent model repetition?
+  actor_rollout_ref.actor.clip_ratio_low: 0.2
+  actor_rollout_ref.actor.clip_ratio_high: 0.3
+  actor_rollout_ref.model.enable_gradient_checkpointing: True
+  actor_rollout_ref.actor.fsdp_config.param_offload: False
+  actor_rollout_ref.actor.fsdp_config.optimizer_offload: False
+  actor_rollout_ref.rollout.name: 'vllm'
+  actor_rollout_ref.rollout.gpu_memory_utilization: 0.6 # 0.55-0.65 is fine. If it's too small, the BASE_MODEL inference will be slow. If it's too large, the KV cache and other extra saved logic will cause OOM.
+  actor_rollout_ref.ref.log_prob_micro_batch_size_per_gpu: 2
+  actor_rollout_ref.ref.fsdp_config.param_offload: False
+  algorithm.use_kl_in_reward: False
+  trainer.critic_warmup: 0
+  trainer.logger: ['console','wandb']
+  trainer.project_name: '${PROJECT_NAME}'
+  trainer.experiment_name: '${EXPERIMENT_NAME}'
+  trainer.nnodes: 1
+  trainer.save_freq: 2 # This is to ensure the CKPT exists.
+  trainer.test_freq: 2
+  trainer.total_epochs: 5

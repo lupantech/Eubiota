@@ -1,0 +1,2302 @@
+[
+    {
+        "annot_id": 0,
+        "pid": "0",
+        "question": "In Streptococcus mitis, which specific membrane-associated enzyme is most likely responsible for the microbiome-mediated metabolic modification of daptomycin by catalyzing the transfer of phosphatidyl groups from CDP-activated alcohols to diacylglycerol during phospholipid biosynthesis, thereby altering the bacterial membrane composition and impacting daptomycin activity?\nA. CDP-alcohol phosphatidyltransferase\nB. Multiple sugar-binding transport ATP-binding protein msmK\nC. Xylose isomerase\nD. NADPH-dependent curcumin reductase\nE. Cytochrome P450 monooxygenase 51A",
+        "choices": {
+            "A": "CDP-alcohol phosphatidyltransferase",
+            "B": "Multiple sugar-binding transport ATP-binding protein msmK",
+            "C": "Xylose isomerase",
+            "D": "NADPH-dependent curcumin reductase",
+            "E": "Cytochrome P450 monooxygenase 51A"
+        },
+        "raw_answer": "CDP-alcohol phosphatidyltransferase",
+        "answer": "A. CDP-alcohol phosphatidyltransferase",
+        "answer_idx": 0,
+        "query": "In Streptococcus mitis, which specific membrane-associated enzyme is most likely responsible for the microbiome-mediated metabolic modification of daptomycin by catalyzing the transfer of phosphatidyl groups from CDP-activated alcohols to diacylglycerol during phospholipid biosynthesis, thereby altering the bacterial membrane composition and impacting daptomycin activity?\nA. CDP-alcohol phosphatidyltransferase\nB. Multiple sugar-binding transport ATP-binding protein msmK\nC. Xylose isomerase\nD. NADPH-dependent curcumin reductase\nE. Cytochrome P450 monooxygenase 51A",
+        "meta_info": {
+            "source_row": 1787,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein CDP-alcohol phosphatidyltransferase in Streptococcus mitis is identified as responsible for: Metabolic modification of Daptomycin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 1,
+        "pid": "1",
+        "question": "In Bacteroides uniformis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cephalothin by hydrolyzing its β-lactam ring?\nA. Outer membrane porin F\nB. Beta-glucuronidase\nC. Purine nucleoside phosphorylase\nD. Beta-lactamase\nE. AmpC Beta-lactamase",
+        "choices": {
+            "A": "Outer membrane porin F",
+            "B": "Beta-glucuronidase",
+            "C": "Purine nucleoside phosphorylase",
+            "D": "Beta-lactamase",
+            "E": "AmpC Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Bacteroides uniformis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cephalothin by hydrolyzing its β-lactam ring?\nA. Outer membrane porin F\nB. Beta-glucuronidase\nC. Purine nucleoside phosphorylase\nD. Beta-lactamase\nE. AmpC Beta-lactamase",
+        "meta_info": {
+            "source_row": 1289,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides uniformis is identified as responsible for: Metabolic modification of Cephalothin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 2,
+        "pid": "2",
+        "question": "In Bacteroides thetaiotaomicron, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Purine nucleoside phosphorylase\nB. Beta-lactamase\nC. Alpha-L-rhamnosidase\nD. Outer membrane porin C\nE. Beta-glucuronidase",
+        "choices": {
+            "A": "Purine nucleoside phosphorylase",
+            "B": "Beta-lactamase",
+            "C": "Alpha-L-rhamnosidase",
+            "D": "Outer membrane porin C",
+            "E": "Beta-glucuronidase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Bacteroides thetaiotaomicron, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Purine nucleoside phosphorylase\nB. Beta-lactamase\nC. Alpha-L-rhamnosidase\nD. Outer membrane porin C\nE. Beta-glucuronidase",
+        "meta_info": {
+            "source_row": 1251,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides thetaiotaomicron is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 3,
+        "pid": "3",
+        "question": "In Citrobacter koseri, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the beta-lactam antibiotic cefoxitin?\nA. Glycerol/diol dehydratase\nB. Beta-lactamase\nC. Acarbose preferred glucosidase\nD. Multiple sugar-binding transport ATP-binding protein msmK\nE. Azoreductase",
+        "choices": {
+            "A": "Glycerol/diol dehydratase",
+            "B": "Beta-lactamase",
+            "C": "Acarbose preferred glucosidase",
+            "D": "Multiple sugar-binding transport ATP-binding protein msmK",
+            "E": "Azoreductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Citrobacter koseri, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the beta-lactam antibiotic cefoxitin?\nA. Glycerol/diol dehydratase\nB. Beta-lactamase\nC. Acarbose preferred glucosidase\nD. Multiple sugar-binding transport ATP-binding protein msmK\nE. Azoreductase",
+        "meta_info": {
+            "source_row": 1256,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter koseri is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 4,
+        "pid": "4",
+        "question": "In the human gut microbiome, Bacteroides caccae has been shown to mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime, thereby reducing its antibacterial efficacy. Which specific bacterial enzyme is most directly responsible for this metabolic inactivation of cefotaxime by Bacteroides caccae?\nA. Beta-lactamase\nB. Glycosyl hydrolase\nC. Histidine decarboxylase\nD. Alpha-glucosidase\nE. Beta-galactosidase LacA",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Glycosyl hydrolase",
+            "C": "Histidine decarboxylase",
+            "D": "Alpha-glucosidase",
+            "E": "Beta-galactosidase LacA"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In the human gut microbiome, Bacteroides caccae has been shown to mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime, thereby reducing its antibacterial efficacy. Which specific bacterial enzyme is most directly responsible for this metabolic inactivation of cefotaxime by Bacteroides caccae?\nA. Beta-lactamase\nB. Glycosyl hydrolase\nC. Histidine decarboxylase\nD. Alpha-glucosidase\nE. Beta-galactosidase LacA",
+        "meta_info": {
+            "source_row": 1234,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides caccae is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 5,
+        "pid": "5",
+        "question": "In Klebsiella variicola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime, thereby contributing to reduced drug efficacy?\nA. Methylenetetrahydrofolate dehydrogenase\nB. Aminoglycoside O-phosphotransferase\nC. ABC transporter ATP-binding protein\nD. Beta-lactamase\nE. N-ethylmaleimide reductase",
+        "choices": {
+            "A": "Methylenetetrahydrofolate dehydrogenase",
+            "B": "Aminoglycoside O-phosphotransferase",
+            "C": "ABC transporter ATP-binding protein",
+            "D": "Beta-lactamase",
+            "E": "N-ethylmaleimide reductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Klebsiella variicola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime, thereby contributing to reduced drug efficacy?\nA. Methylenetetrahydrofolate dehydrogenase\nB. Aminoglycoside O-phosphotransferase\nC. ABC transporter ATP-binding protein\nD. Beta-lactamase\nE. N-ethylmaleimide reductase",
+        "meta_info": {
+            "source_row": 1244,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella variicola is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 6,
+        "pid": "6",
+        "question": "In Parabacteroides merdae, microbiome-mediated metabolic modification of the beta-lactam antibiotic cefotaxime can reduce its therapeutic efficacy. Which specific enzyme produced by this bacterium is most likely responsible for this metabolic inactivation of cefotaxime?\nA. Homogentisate 1,2-dioxygenase\nB. Beta-lactamase\nC. Glycoside hydrolase family 43 protein\nD. Insulin-degrading enzyme\nE. NAD(P)H-flavin reductase",
+        "choices": {
+            "A": "Homogentisate 1,2-dioxygenase",
+            "B": "Beta-lactamase",
+            "C": "Glycoside hydrolase family 43 protein",
+            "D": "Insulin-degrading enzyme",
+            "E": "NAD(P)H-flavin reductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Parabacteroides merdae, microbiome-mediated metabolic modification of the beta-lactam antibiotic cefotaxime can reduce its therapeutic efficacy. Which specific enzyme produced by this bacterium is most likely responsible for this metabolic inactivation of cefotaxime?\nA. Homogentisate 1,2-dioxygenase\nB. Beta-lactamase\nC. Glycoside hydrolase family 43 protein\nD. Insulin-degrading enzyme\nE. NAD(P)H-flavin reductase",
+        "meta_info": {
+            "source_row": 1246,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Parabacteroides merdae is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 7,
+        "pid": "7",
+        "question": "In Citrobacter freundii, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime, thereby contributing to reduced drug efficacy?\nA. Flavin adenine dinucleotide dehydrogenase\nB. Exo-Alpha-(1->6)-L-arabinofuranosidase\nC. Mercaptosuccinate dioxygenase\nD. Beta-lactamase\nE. Carboxylate transporter",
+        "choices": {
+            "A": "Flavin adenine dinucleotide dehydrogenase",
+            "B": "Exo-Alpha-(1->6)-L-arabinofuranosidase",
+            "C": "Mercaptosuccinate dioxygenase",
+            "D": "Beta-lactamase",
+            "E": "Carboxylate transporter"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Citrobacter freundii, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime, thereby contributing to reduced drug efficacy?\nA. Flavin adenine dinucleotide dehydrogenase\nB. Exo-Alpha-(1->6)-L-arabinofuranosidase\nC. Mercaptosuccinate dioxygenase\nD. Beta-lactamase\nE. Carboxylate transporter",
+        "meta_info": {
+            "source_row": 1240,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter freundii is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 8,
+        "pid": "8",
+        "question": "In Bacillus pumilus, which specific bacterial enzyme is responsible for the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, leading to its inactivation and reduced antimicrobial efficacy?\nA. Beta-lactamase\nB. Dipeptide and tripeptide permease A\nC. Chloramphenicol O-acetyltransferase\nD. Glycerol-3-phosphate dehydrogenase\nE. Chloramphenicolase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Dipeptide and tripeptide permease A",
+            "C": "Chloramphenicol O-acetyltransferase",
+            "D": "Glycerol-3-phosphate dehydrogenase",
+            "E": "Chloramphenicolase"
+        },
+        "raw_answer": "Chloramphenicolase",
+        "answer": "E. Chloramphenicolase",
+        "answer_idx": 4,
+        "query": "In Bacillus pumilus, which specific bacterial enzyme is responsible for the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, leading to its inactivation and reduced antimicrobial efficacy?\nA. Beta-lactamase\nB. Dipeptide and tripeptide permease A\nC. Chloramphenicol O-acetyltransferase\nD. Glycerol-3-phosphate dehydrogenase\nE. Chloramphenicolase",
+        "meta_info": {
+            "source_row": 1336,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Chloramphenicolase in Bacillus pumilus is identified as responsible for: Metabolic modification of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 9,
+        "pid": "9",
+        "question": "In Mycolicibacterium smegmatis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of cholesterol, catalyzing its oxidative biotransformation as part of bacterial cholesterol catabolism?\nA. Phosphoenolpyruvate carboxykinase\nB. Ribosomal 23S RNA methyltransferase Erm\nC. Cytochrome P450 102A1\nD. Cytochrome P450 142A2\nE. Cytochrome P450 105D7",
+        "choices": {
+            "A": "Phosphoenolpyruvate carboxykinase",
+            "B": "Ribosomal 23S RNA methyltransferase Erm",
+            "C": "Cytochrome P450 102A1",
+            "D": "Cytochrome P450 142A2",
+            "E": "Cytochrome P450 105D7"
+        },
+        "raw_answer": "Cytochrome P450 142A2",
+        "answer": "D. Cytochrome P450 142A2",
+        "answer_idx": 3,
+        "query": "In Mycolicibacterium smegmatis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of cholesterol, catalyzing its oxidative biotransformation as part of bacterial cholesterol catabolism?\nA. Phosphoenolpyruvate carboxykinase\nB. Ribosomal 23S RNA methyltransferase Erm\nC. Cytochrome P450 102A1\nD. Cytochrome P450 142A2\nE. Cytochrome P450 105D7",
+        "meta_info": {
+            "source_row": 1361,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 142A2 in Mycolicibacterium smegmatis is identified as responsible for: Metabolic modification of Cholesterol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 10,
+        "pid": "10",
+        "question": "In the gut microbiome, Citrobacter amalonaticus has been shown to mediate microbiome metabolic modification of the oral cephalosporin cefpodoxime, reducing its effective concentration by enzymatic hydrolysis of the β-lactam ring. Which specific bacterial enzyme is most likely responsible for this metabolic inactivation of cefpodoxime?\nA. Oxygen-insensitive NADPH nitroreductase B\nB. Cytochrome P450 107W1\nC. Beta-lactamase\nD. Metallo-Beta-lactamase\nE. Sucrose-6-phosphate hydrolase scrB",
+        "choices": {
+            "A": "Oxygen-insensitive NADPH nitroreductase B",
+            "B": "Cytochrome P450 107W1",
+            "C": "Beta-lactamase",
+            "D": "Metallo-Beta-lactamase",
+            "E": "Sucrose-6-phosphate hydrolase scrB"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In the gut microbiome, Citrobacter amalonaticus has been shown to mediate microbiome metabolic modification of the oral cephalosporin cefpodoxime, reducing its effective concentration by enzymatic hydrolysis of the β-lactam ring. Which specific bacterial enzyme is most likely responsible for this metabolic inactivation of cefpodoxime?\nA. Oxygen-insensitive NADPH nitroreductase B\nB. Cytochrome P450 107W1\nC. Beta-lactamase\nD. Metallo-Beta-lactamase\nE. Sucrose-6-phosphate hydrolase scrB",
+        "meta_info": {
+            "source_row": 1266,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter amalonaticus is identified as responsible for: Metabolic modification of Cefpodoxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 11,
+        "pid": "11",
+        "question": "In Bacillus megaterium, which specific heme-thiolate monooxygenase is primarily responsible for the microbiome-mediated metabolic modification of the skeletal muscle relaxant chlorzoxazone, functioning as a model bacterial system for xenobiotic biotransformation studies?\nA. Hyaluronidase\nB. Cytochrome P450 MEG\nC. Cytochrome P450 102A1\nD. Beta-lactamase\nE. Cytochrome P450 BM3",
+        "choices": {
+            "A": "Hyaluronidase",
+            "B": "Cytochrome P450 MEG",
+            "C": "Cytochrome P450 102A1",
+            "D": "Beta-lactamase",
+            "E": "Cytochrome P450 BM3"
+        },
+        "raw_answer": "Cytochrome P450 102A1",
+        "answer": "C. Cytochrome P450 102A1",
+        "answer_idx": 2,
+        "query": "In Bacillus megaterium, which specific heme-thiolate monooxygenase is primarily responsible for the microbiome-mediated metabolic modification of the skeletal muscle relaxant chlorzoxazone, functioning as a model bacterial system for xenobiotic biotransformation studies?\nA. Hyaluronidase\nB. Cytochrome P450 MEG\nC. Cytochrome P450 102A1\nD. Beta-lactamase\nE. Cytochrome P450 BM3",
+        "meta_info": {
+            "source_row": 1357,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 102A1 in Bacillus megaterium is identified as responsible for: Metabolic modification of Chlorzoxazone.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 12,
+        "pid": "12",
+        "question": "In Shigella dysenteriae, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 via reductive cleavage of its azo functional group?\nA. Azoreductase\nB. S-(hydroxymethyl)glutathione dehydrogenase\nC. D-Lactate dehydrogenase\nD. Cytochrome P450 monooxygenase 51A\nE. Cytochrome P450 51B1",
+        "choices": {
+            "A": "Azoreductase",
+            "B": "S-(hydroxymethyl)glutathione dehydrogenase",
+            "C": "D-Lactate dehydrogenase",
+            "D": "Cytochrome P450 monooxygenase 51A",
+            "E": "Cytochrome P450 51B1"
+        },
+        "raw_answer": "Azoreductase",
+        "answer": "A. Azoreductase",
+        "answer_idx": 0,
+        "query": "In Shigella dysenteriae, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 via reductive cleavage of its azo functional group?\nA. Azoreductase\nB. S-(hydroxymethyl)glutathione dehydrogenase\nC. D-Lactate dehydrogenase\nD. Cytochrome P450 monooxygenase 51A\nE. Cytochrome P450 51B1",
+        "meta_info": {
+            "source_row": 1569,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Azoreductase in Shigella dysenteriae is identified as responsible for: Metabolic modification of CTK0H-9987.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 13,
+        "pid": "13",
+        "question": "In Lacticaseibacillus casei, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the drug DB-053072, thereby altering its biochemical fate within the gut environment?\nA. Dihydrofolate reductase\nB. Folylpolyglutamate synthetase\nC. D-Lactate dehydrogenase\nD. Pyruvate oxidase\nE. Thymidylate synthase",
+        "choices": {
+            "A": "Dihydrofolate reductase",
+            "B": "Folylpolyglutamate synthetase",
+            "C": "D-Lactate dehydrogenase",
+            "D": "Pyruvate oxidase",
+            "E": "Thymidylate synthase"
+        },
+        "raw_answer": "Pyruvate oxidase",
+        "answer": "D. Pyruvate oxidase",
+        "answer_idx": 3,
+        "query": "In Lacticaseibacillus casei, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the drug DB-053072, thereby altering its biochemical fate within the gut environment?\nA. Dihydrofolate reductase\nB. Folylpolyglutamate synthetase\nC. D-Lactate dehydrogenase\nD. Pyruvate oxidase\nE. Thymidylate synthase",
+        "meta_info": {
+            "source_row": 1807,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Pyruvate oxidase in Lacticaseibacillus casei is identified as responsible for: Metabolic modification of DB-053072.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 14,
+        "pid": "14",
+        "question": "In Streptobacillus moniliformis, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulfate?\nA. D-psicose 3-epimerase\nB. Methylenetetrahydrofolate reductase\nC. Hyaluronate lyase\nD. C-glycosidase\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "choices": {
+            "A": "D-psicose 3-epimerase",
+            "B": "Methylenetetrahydrofolate reductase",
+            "C": "Hyaluronate lyase",
+            "D": "C-glycosidase",
+            "E": "Oxygen-insensitive NADPH nitroreductase B"
+        },
+        "raw_answer": "Hyaluronate lyase",
+        "answer": "C. Hyaluronate lyase",
+        "answer_idx": 2,
+        "query": "In Streptobacillus moniliformis, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulfate?\nA. D-psicose 3-epimerase\nB. Methylenetetrahydrofolate reductase\nC. Hyaluronate lyase\nD. C-glycosidase\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "meta_info": {
+            "source_row": 1373,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Hyaluronate lyase in Streptobacillus moniliformis is identified as responsible for: Metabolic modification of Chondroitin sulfate.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 15,
+        "pid": "15",
+        "question": "In Salmonella enterica, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the third-generation cephalosporin cefotaxime, thereby reducing its therapeutic efficacy?\nA. Beta-lactamase\nB. Oxygen-insensitive NADPH nitroreductase A\nC. Arylamine N-acetyltransferase\nD. New delhi metallo-Beta-lactamase NDM-1\nE. Homoserine-O-transsuccinylase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Oxygen-insensitive NADPH nitroreductase A",
+            "C": "Arylamine N-acetyltransferase",
+            "D": "New delhi metallo-Beta-lactamase NDM-1",
+            "E": "Homoserine-O-transsuccinylase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Salmonella enterica, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the third-generation cephalosporin cefotaxime, thereby reducing its therapeutic efficacy?\nA. Beta-lactamase\nB. Oxygen-insensitive NADPH nitroreductase A\nC. Arylamine N-acetyltransferase\nD. New delhi metallo-Beta-lactamase NDM-1\nE. Homoserine-O-transsuccinylase",
+        "meta_info": {
+            "source_row": 1247,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Salmonella enterica is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 16,
+        "pid": "16",
+        "question": "In Parabacteroides distasonis, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic cefotaxime, thereby reducing its effective concentration in the host?\nA. Beta-lactamase\nB. Cytochrome P450 101B1\nC. Glycosyl hydrolase\nD. Cytochrome P450 125A3\nE. N-acylhomoserine lactone acylase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Cytochrome P450 101B1",
+            "C": "Glycosyl hydrolase",
+            "D": "Cytochrome P450 125A3",
+            "E": "N-acylhomoserine lactone acylase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Parabacteroides distasonis, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic cefotaxime, thereby reducing its effective concentration in the host?\nA. Beta-lactamase\nB. Cytochrome P450 101B1\nC. Glycosyl hydrolase\nD. Cytochrome P450 125A3\nE. N-acylhomoserine lactone acylase",
+        "meta_info": {
+            "source_row": 1245,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Parabacteroides distasonis is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 17,
+        "pid": "17",
+        "question": "In Escherichia coli, which specific enzyme is primarily responsible for the metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Cytidine deaminase\nB. Beta-lactamase\nC. N-ethylmaleimide reductase\nD. Arylamine N-acetyltransferase\nE. Dihydrofolate reductase",
+        "choices": {
+            "A": "Cytidine deaminase",
+            "B": "Beta-lactamase",
+            "C": "N-ethylmaleimide reductase",
+            "D": "Arylamine N-acetyltransferase",
+            "E": "Dihydrofolate reductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Escherichia coli, which specific enzyme is primarily responsible for the metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Cytidine deaminase\nB. Beta-lactamase\nC. N-ethylmaleimide reductase\nD. Arylamine N-acetyltransferase\nE. Dihydrofolate reductase",
+        "meta_info": {
+            "source_row": 1257,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Escherichia coli is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 18,
+        "pid": "18",
+        "question": "In Phocaeicola vulgatus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Cytochrome P450 142A1\nB. Alpha-N-arabinofuranosidase\nC. Beta-lactamase\nD. Fructokinase\nE. Organic anion transporting polypeptide 2B1",
+        "choices": {
+            "A": "Cytochrome P450 142A1",
+            "B": "Alpha-N-arabinofuranosidase",
+            "C": "Beta-lactamase",
+            "D": "Fructokinase",
+            "E": "Organic anion transporting polypeptide 2B1"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Phocaeicola vulgatus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Cytochrome P450 142A1\nB. Alpha-N-arabinofuranosidase\nC. Beta-lactamase\nD. Fructokinase\nE. Organic anion transporting polypeptide 2B1",
+        "meta_info": {
+            "source_row": 1237,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Phocaeicola vulgatus is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 19,
+        "pid": "19",
+        "question": "In Klebsiella variicola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefoxitin?\nA. Protein RecA\nB. 6-phospho-Alpha-glucosidase\nC. Methylthioribose kinase\nD. Beta-lactamase\nE. Oxygen-insensitive NADPH nitroreductase A",
+        "choices": {
+            "A": "Protein RecA",
+            "B": "6-phospho-Alpha-glucosidase",
+            "C": "Methylthioribose kinase",
+            "D": "Beta-lactamase",
+            "E": "Oxygen-insensitive NADPH nitroreductase A"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Klebsiella variicola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefoxitin?\nA. Protein RecA\nB. 6-phospho-Alpha-glucosidase\nC. Methylthioribose kinase\nD. Beta-lactamase\nE. Oxygen-insensitive NADPH nitroreductase A",
+        "meta_info": {
+            "source_row": 1261,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella variicola is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 20,
+        "pid": "20",
+        "question": "In pharmacomicrobiomic studies of Lacticaseibacillus casei, which specific enzyme is primarily responsible for the microbiome metabolic modification of the small-molecule drug DB-053072, catalyzing its NAD⁺-dependent oxidation–reduction interconversion with the corresponding lactate-like metabolite?\nA. L-Lactate dehydrogenase\nB. D-Lactate dehydrogenase\nC. Thymidylate synthase\nD. Dihydrofolate reductase\nE. Inositol dehydrogenase",
+        "choices": {
+            "A": "L-Lactate dehydrogenase",
+            "B": "D-Lactate dehydrogenase",
+            "C": "Thymidylate synthase",
+            "D": "Dihydrofolate reductase",
+            "E": "Inositol dehydrogenase"
+        },
+        "raw_answer": "L-Lactate dehydrogenase",
+        "answer": "A. L-Lactate dehydrogenase",
+        "answer_idx": 0,
+        "query": "In pharmacomicrobiomic studies of Lacticaseibacillus casei, which specific enzyme is primarily responsible for the microbiome metabolic modification of the small-molecule drug DB-053072, catalyzing its NAD⁺-dependent oxidation–reduction interconversion with the corresponding lactate-like metabolite?\nA. L-Lactate dehydrogenase\nB. D-Lactate dehydrogenase\nC. Thymidylate synthase\nD. Dihydrofolate reductase\nE. Inositol dehydrogenase",
+        "meta_info": {
+            "source_row": 1806,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein L-Lactate dehydrogenase in Lacticaseibacillus casei is identified as responsible for: Metabolic modification of DB-053072.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 21,
+        "pid": "21",
+        "question": "In the gut microbe Holdemanella biformis, metabolic modification of the β-lactam antibiotic ceftiofur leads to its inactivation before it can exert its full antibacterial effect. Which specific bacterial enzyme is most likely responsible for this microbiome-mediated metabolic modification of ceftiofur?\nA. Beta-lactamase\nB. ATP-binding protein MsmK\nC. Beta-galactosidase LacA\nD. Aldehyde oxidase\nE. New delhi metallo-Beta-lactamase NDM-1",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "ATP-binding protein MsmK",
+            "C": "Beta-galactosidase LacA",
+            "D": "Aldehyde oxidase",
+            "E": "New delhi metallo-Beta-lactamase NDM-1"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In the gut microbe Holdemanella biformis, metabolic modification of the β-lactam antibiotic ceftiofur leads to its inactivation before it can exert its full antibacterial effect. Which specific bacterial enzyme is most likely responsible for this microbiome-mediated metabolic modification of ceftiofur?\nA. Beta-lactamase\nB. ATP-binding protein MsmK\nC. Beta-galactosidase LacA\nD. Aldehyde oxidase\nE. New delhi metallo-Beta-lactamase NDM-1",
+        "meta_info": {
+            "source_row": 1275,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Holdemanella biformis is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 22,
+        "pid": "22",
+        "question": "In Escherichia coli, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the investigational drug DB-053072, given that this transformation involves stereospecific oxidation–reduction of a D-lactate–like moiety within the compound’s structure?\nA. NADPH-dependent curcumin reductase\nB. preTA operon\nC. Chloramphenicolase\nD. D-Lactate dehydrogenase\nE. Uracil phosphoribosyltransferase",
+        "choices": {
+            "A": "NADPH-dependent curcumin reductase",
+            "B": "preTA operon",
+            "C": "Chloramphenicolase",
+            "D": "D-Lactate dehydrogenase",
+            "E": "Uracil phosphoribosyltransferase"
+        },
+        "raw_answer": "D-Lactate dehydrogenase",
+        "answer": "D. D-Lactate dehydrogenase",
+        "answer_idx": 3,
+        "query": "In Escherichia coli, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the investigational drug DB-053072, given that this transformation involves stereospecific oxidation–reduction of a D-lactate–like moiety within the compound’s structure?\nA. NADPH-dependent curcumin reductase\nB. preTA operon\nC. Chloramphenicolase\nD. D-Lactate dehydrogenase\nE. Uracil phosphoribosyltransferase",
+        "meta_info": {
+            "source_row": 1804,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein D-Lactate dehydrogenase in Escherichia coli is identified as responsible for: Metabolic modification of DB-053072.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 23,
+        "pid": "23",
+        "question": "In Citrobacter amalonaticus, metabolic modification of the cephamycin antibiotic cefoxitin can reduce its antibacterial efficacy by enzymatic hydrolysis of its β-lactam ring. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of cefoxitin?\nA. preTA operon\nB. Beta-lactamase\nC. Outer membrane porin C\nD. Sulfatase\nE. Dipeptide permease D",
+        "choices": {
+            "A": "preTA operon",
+            "B": "Beta-lactamase",
+            "C": "Outer membrane porin C",
+            "D": "Sulfatase",
+            "E": "Dipeptide permease D"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Citrobacter amalonaticus, metabolic modification of the cephamycin antibiotic cefoxitin can reduce its antibacterial efficacy by enzymatic hydrolysis of its β-lactam ring. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of cefoxitin?\nA. preTA operon\nB. Beta-lactamase\nC. Outer membrane porin C\nD. Sulfatase\nE. Dipeptide permease D",
+        "meta_info": {
+            "source_row": 1254,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter amalonaticus is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 24,
+        "pid": "24",
+        "question": "In the context of pharmacomicrobiomics, which specific Fusobacterium nucleatum enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 via reductive cleavage of its azo functional group?\nA. Methylthioribose kinase\nB. Azoreductase\nC. Rifampicin monooxygenase\nD. Uracil phosphoribosyltransferase\nE. Glucansucrase",
+        "choices": {
+            "A": "Methylthioribose kinase",
+            "B": "Azoreductase",
+            "C": "Rifampicin monooxygenase",
+            "D": "Uracil phosphoribosyltransferase",
+            "E": "Glucansucrase"
+        },
+        "raw_answer": "Azoreductase",
+        "answer": "B. Azoreductase",
+        "answer_idx": 1,
+        "query": "In the context of pharmacomicrobiomics, which specific Fusobacterium nucleatum enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 via reductive cleavage of its azo functional group?\nA. Methylthioribose kinase\nB. Azoreductase\nC. Rifampicin monooxygenase\nD. Uracil phosphoribosyltransferase\nE. Glucansucrase",
+        "meta_info": {
+            "source_row": 1568,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Azoreductase in Fusobacterium nucleatum is identified as responsible for: Metabolic modification of CTK0H-9987.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 25,
+        "pid": "25",
+        "question": "In Treponema denticola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, thereby contributing to its degradation within the host environment?\nA. NAD(P)H-flavin reductase\nB. Hyaluronoglucosaminidase\nC. Protein RecA\nD. Glycosyl hydrolase\nE. Amylosucrase",
+        "choices": {
+            "A": "NAD(P)H-flavin reductase",
+            "B": "Hyaluronoglucosaminidase",
+            "C": "Protein RecA",
+            "D": "Glycosyl hydrolase",
+            "E": "Amylosucrase"
+        },
+        "raw_answer": "Hyaluronoglucosaminidase",
+        "answer": "B. Hyaluronoglucosaminidase",
+        "answer_idx": 1,
+        "query": "In Treponema denticola, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, thereby contributing to its degradation within the host environment?\nA. NAD(P)H-flavin reductase\nB. Hyaluronoglucosaminidase\nC. Protein RecA\nD. Glycosyl hydrolase\nE. Amylosucrase",
+        "meta_info": {
+            "source_row": 1375,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Hyaluronoglucosaminidase in Treponema denticola is identified as responsible for: Metabolic modification of Chondroitin sulphate.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 26,
+        "pid": "26",
+        "question": "In Fusobacterium K-60, which specific microbial enzyme is responsible for the microbiome metabolic modification of daidzin that increases its bioavailability by cleaving the C-linked sugar moiety of this isoflavone glycoside?\nA. C-glycosidase\nB. 6-phospho-Alpha-glucosidase\nC. Alpha-arabinofuranosidase\nD. Glycoside hydrolase family 43 protein\nE. Alpha-rhamnosidase",
+        "choices": {
+            "A": "C-glycosidase",
+            "B": "6-phospho-Alpha-glucosidase",
+            "C": "Alpha-arabinofuranosidase",
+            "D": "Glycoside hydrolase family 43 protein",
+            "E": "Alpha-rhamnosidase"
+        },
+        "raw_answer": "C-glycosidase",
+        "answer": "A. C-glycosidase",
+        "answer_idx": 0,
+        "query": "In Fusobacterium K-60, which specific microbial enzyme is responsible for the microbiome metabolic modification of daidzin that increases its bioavailability by cleaving the C-linked sugar moiety of this isoflavone glycoside?\nA. C-glycosidase\nB. 6-phospho-Alpha-glucosidase\nC. Alpha-arabinofuranosidase\nD. Glycoside hydrolase family 43 protein\nE. Alpha-rhamnosidase",
+        "meta_info": {
+            "source_row": 1704,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein C-glycosidase in Fusobacterium K-60 is identified as responsible for: Increasing drug bioavailability of Daidzin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 27,
+        "pid": "27",
+        "question": "In Edwardsiella tarda, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the lincosamide antibiotic Clindamycin, leading to its inactivation and reduced antimicrobial efficacy?\nA. Nicotinate dehydrogenase\nB. Arylsulfate sulfotransferase\nC. Beta-lactamase\nD. Cytochrome P450 130A1\nE. Purine nucleoside phosphorylase",
+        "choices": {
+            "A": "Nicotinate dehydrogenase",
+            "B": "Arylsulfate sulfotransferase",
+            "C": "Beta-lactamase",
+            "D": "Cytochrome P450 130A1",
+            "E": "Purine nucleoside phosphorylase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Edwardsiella tarda, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the lincosamide antibiotic Clindamycin, leading to its inactivation and reduced antimicrobial efficacy?\nA. Nicotinate dehydrogenase\nB. Arylsulfate sulfotransferase\nC. Beta-lactamase\nD. Cytochrome P450 130A1\nE. Purine nucleoside phosphorylase",
+        "meta_info": {
+            "source_row": 1431,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Edwardsiella tarda is identified as responsible for: Metabolic modification of Clindamycin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 28,
+        "pid": "28",
+        "question": "In Treponema socranskii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, thereby contributing to its degradation within the host environment?\nA. Gal2p\nB. Hyaluronoglucosaminidase\nC. PMAT-like transport\nD. Aminoglycoside phosphotransferase\nE. D-psicose 3-epimerase",
+        "choices": {
+            "A": "Gal2p",
+            "B": "Hyaluronoglucosaminidase",
+            "C": "PMAT-like transport",
+            "D": "Aminoglycoside phosphotransferase",
+            "E": "D-psicose 3-epimerase"
+        },
+        "raw_answer": "Hyaluronoglucosaminidase",
+        "answer": "B. Hyaluronoglucosaminidase",
+        "answer_idx": 1,
+        "query": "In Treponema socranskii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, thereby contributing to its degradation within the host environment?\nA. Gal2p\nB. Hyaluronoglucosaminidase\nC. PMAT-like transport\nD. Aminoglycoside phosphotransferase\nE. D-psicose 3-epimerase",
+        "meta_info": {
+            "source_row": 1376,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Hyaluronoglucosaminidase in Treponema socranskii is identified as responsible for: Metabolic modification of Chondroitin sulphate.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 29,
+        "pid": "29",
+        "question": "In Streptomyces avermitilis, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the xenobiotic compound coumarin?\nA. Cytochrome P450 154C2\nB. Cytochrome P450 105D7\nC. Cytochrome P450 107L2\nD. Cytochrome P450 107W1\nE. Cytochrome P450 102D1",
+        "choices": {
+            "A": "Cytochrome P450 154C2",
+            "B": "Cytochrome P450 105D7",
+            "C": "Cytochrome P450 107L2",
+            "D": "Cytochrome P450 107W1",
+            "E": "Cytochrome P450 102D1"
+        },
+        "raw_answer": "Cytochrome P450 102D1",
+        "answer": "E. Cytochrome P450 102D1",
+        "answer_idx": 4,
+        "query": "In Streptomyces avermitilis, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the xenobiotic compound coumarin?\nA. Cytochrome P450 154C2\nB. Cytochrome P450 105D7\nC. Cytochrome P450 107L2\nD. Cytochrome P450 107W1\nE. Cytochrome P450 102D1",
+        "meta_info": {
+            "source_row": 1562,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 102D1 in Streptomyces avermitilis is identified as responsible for: Metabolic modification of Coumarin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 30,
+        "pid": "30",
+        "question": "In Streptomyces avermitilis, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the isoflavone daidzein, functioning as a key cytochrome P450 catalyst in this transformation?\nA. Cytochrome P450 107W1\nB. Cytochrome P450 154C2\nC. Cytochrome P450 102D1\nD. Cytochrome P450 107L2\nE. Cytochrome P450 105D7",
+        "choices": {
+            "A": "Cytochrome P450 107W1",
+            "B": "Cytochrome P450 154C2",
+            "C": "Cytochrome P450 102D1",
+            "D": "Cytochrome P450 107L2",
+            "E": "Cytochrome P450 105D7"
+        },
+        "raw_answer": "Cytochrome P450 102D1",
+        "answer": "C. Cytochrome P450 102D1",
+        "answer_idx": 2,
+        "query": "In Streptomyces avermitilis, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the isoflavone daidzein, functioning as a key cytochrome P450 catalyst in this transformation?\nA. Cytochrome P450 107W1\nB. Cytochrome P450 154C2\nC. Cytochrome P450 102D1\nD. Cytochrome P450 107L2\nE. Cytochrome P450 105D7",
+        "meta_info": {
+            "source_row": 1652,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 102D1 in Streptomyces avermitilis is identified as responsible for: Metabolic modification of Daidzein.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 31,
+        "pid": "31",
+        "question": "In Bacteroides caccae, which specific bacterial enzyme is primarily responsible for the metabolic modification and consequent inactivation of the β-lactam antibiotic cefoxitin, thereby contributing to reduced drug efficacy?\nA. Thymidylate synthase\nB. Beta-mannosidase\nC. Nicotinate dehydrogenase\nD. Beta-lactamase\nE. Cytochrome P450 147G1",
+        "choices": {
+            "A": "Thymidylate synthase",
+            "B": "Beta-mannosidase",
+            "C": "Nicotinate dehydrogenase",
+            "D": "Beta-lactamase",
+            "E": "Cytochrome P450 147G1"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Bacteroides caccae, which specific bacterial enzyme is primarily responsible for the metabolic modification and consequent inactivation of the β-lactam antibiotic cefoxitin, thereby contributing to reduced drug efficacy?\nA. Thymidylate synthase\nB. Beta-mannosidase\nC. Nicotinate dehydrogenase\nD. Beta-lactamase\nE. Cytochrome P450 147G1",
+        "meta_info": {
+            "source_row": 1249,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides caccae is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 32,
+        "pid": "32",
+        "question": "In Klebsiella pneumoniae, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefazolin, thereby contributing to decreased drug efficacy?\nA. Arylamine N-acetyltransferase\nB. Aminoglycoside 6'-N-acetyltransferase\nC. Beta-lactamase\nD. Molybdopterin-dependent enzyme\nE. Methylthioribose kinase",
+        "choices": {
+            "A": "Arylamine N-acetyltransferase",
+            "B": "Aminoglycoside 6'-N-acetyltransferase",
+            "C": "Beta-lactamase",
+            "D": "Molybdopterin-dependent enzyme",
+            "E": "Methylthioribose kinase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Klebsiella pneumoniae, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefazolin, thereby contributing to decreased drug efficacy?\nA. Arylamine N-acetyltransferase\nB. Aminoglycoside 6'-N-acetyltransferase\nC. Beta-lactamase\nD. Molybdopterin-dependent enzyme\nE. Methylthioribose kinase",
+        "meta_info": {
+            "source_row": 1296,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella pneumoniae is identified as responsible for: Metabolic modification of Cephazolin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 33,
+        "pid": "33",
+        "question": "In the human gut, Bacteroides fragilis can mediate microbiome metabolic modification of the β-lactam antibiotic cephazolin, thereby inactivating the drug before it reaches its target. Which specific bacterial enzyme is primarily responsible for this metabolic modification of cephazolin by Bacteroides fragilis?\nA. Beta-glucuronidase\nB. Protein RecA\nC. Glycosyl hydrolase\nD. Beta-lactamase\nE. Alpha-1,4 glucan phosphorylase",
+        "choices": {
+            "A": "Beta-glucuronidase",
+            "B": "Protein RecA",
+            "C": "Glycosyl hydrolase",
+            "D": "Beta-lactamase",
+            "E": "Alpha-1,4 glucan phosphorylase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In the human gut, Bacteroides fragilis can mediate microbiome metabolic modification of the β-lactam antibiotic cephazolin, thereby inactivating the drug before it reaches its target. Which specific bacterial enzyme is primarily responsible for this metabolic modification of cephazolin by Bacteroides fragilis?\nA. Beta-glucuronidase\nB. Protein RecA\nC. Glycosyl hydrolase\nD. Beta-lactamase\nE. Alpha-1,4 glucan phosphorylase",
+        "meta_info": {
+            "source_row": 1294,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides fragilis is identified as responsible for: Metabolic modification of Cephazolin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 34,
+        "pid": "34",
+        "question": "In Klebsiella variicola, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftriaxone?\nA. Cytochrome P450 154C2\nB. Acetone carboxylase\nC. Chloramphenicol O-acetyltransferase\nD. Cytochrome P450 105D7\nE. Beta-lactamase",
+        "choices": {
+            "A": "Cytochrome P450 154C2",
+            "B": "Acetone carboxylase",
+            "C": "Chloramphenicol O-acetyltransferase",
+            "D": "Cytochrome P450 105D7",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "In Klebsiella variicola, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftriaxone?\nA. Cytochrome P450 154C2\nB. Acetone carboxylase\nC. Chloramphenicol O-acetyltransferase\nD. Cytochrome P450 105D7\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1278,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella variicola is identified as responsible for: Metabolic modification of Ceftriaxone.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 35,
+        "pid": "35",
+        "question": "In Salmonella enterica, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the nitroaromatic drug CGI-17341 under oxygen-insensitive, NADPH-dependent nitroreductive conditions?\nA. Oxygen-insensitive NADPH nitroreductase A\nB. Arylamine N-acetyltransferase\nC. Beta-lactamase\nD. Aminoglycoside adenylyltransferase\nE. Nitroreductase",
+        "choices": {
+            "A": "Oxygen-insensitive NADPH nitroreductase A",
+            "B": "Arylamine N-acetyltransferase",
+            "C": "Beta-lactamase",
+            "D": "Aminoglycoside adenylyltransferase",
+            "E": "Nitroreductase"
+        },
+        "raw_answer": "Oxygen-insensitive NADPH nitroreductase A",
+        "answer": "A. Oxygen-insensitive NADPH nitroreductase A",
+        "answer_idx": 0,
+        "query": "In Salmonella enterica, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the nitroaromatic drug CGI-17341 under oxygen-insensitive, NADPH-dependent nitroreductive conditions?\nA. Oxygen-insensitive NADPH nitroreductase A\nB. Arylamine N-acetyltransferase\nC. Beta-lactamase\nD. Aminoglycoside adenylyltransferase\nE. Nitroreductase",
+        "meta_info": {
+            "source_row": 1329,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Oxygen-insensitive NADPH nitroreductase A in Salmonella enterica is identified as responsible for: Metabolic modification of CGI-17341.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 36,
+        "pid": "36",
+        "question": "In the gut anaerobe Bacteroides xylanisolvens, metabolic modification of the cephalosporin antibiotic ceftiofur can occur via hydrolysis of its β-lactam ring, leading to reduced antimicrobial activity. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of ceftiofur?\nA. Beta-lactamase\nB. Beta-hydroxysteroid dehydrogenase\nC. Cytochrome P450 111A2\nD. N-ethylmaleimide reductase\nE. Dextransucrase 1",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Beta-hydroxysteroid dehydrogenase",
+            "C": "Cytochrome P450 111A2",
+            "D": "N-ethylmaleimide reductase",
+            "E": "Dextransucrase 1"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In the gut anaerobe Bacteroides xylanisolvens, metabolic modification of the cephalosporin antibiotic ceftiofur can occur via hydrolysis of its β-lactam ring, leading to reduced antimicrobial activity. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of ceftiofur?\nA. Beta-lactamase\nB. Beta-hydroxysteroid dehydrogenase\nC. Cytochrome P450 111A2\nD. N-ethylmaleimide reductase\nE. Dextransucrase 1",
+        "meta_info": {
+            "source_row": 1272,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides xylanisolvens is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 37,
+        "pid": "37",
+        "question": "In the gut microbe Bacteroides J-37, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification that increases the bioavailability of the isoflavone glycoside daidzin by cleaving its C-glycosidic linkage?\nA. Alpha-1,4 glucan phosphorylase\nB. Hxt1p\nC. NAD(P)H-flavin reductase\nD. C-glycosidase\nE. Organic cation transporter 1",
+        "choices": {
+            "A": "Alpha-1,4 glucan phosphorylase",
+            "B": "Hxt1p",
+            "C": "NAD(P)H-flavin reductase",
+            "D": "C-glycosidase",
+            "E": "Organic cation transporter 1"
+        },
+        "raw_answer": "C-glycosidase",
+        "answer": "D. C-glycosidase",
+        "answer_idx": 3,
+        "query": "In the gut microbe Bacteroides J-37, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification that increases the bioavailability of the isoflavone glycoside daidzin by cleaving its C-glycosidic linkage?\nA. Alpha-1,4 glucan phosphorylase\nB. Hxt1p\nC. NAD(P)H-flavin reductase\nD. C-glycosidase\nE. Organic cation transporter 1",
+        "meta_info": {
+            "source_row": 1694,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein C-glycosidase in Bacteroides J-37 is identified as responsible for: Increasing drug bioavailability of Daidzin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 38,
+        "pid": "38",
+        "question": "In Erysipelothrix rhusiopathiae, which specific enzyme is primarily implicated in the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, thereby altering its pharmacological activity?\nA. Dipeptide and tripeptide permease A\nB. Glycerol-3-phosphate dehydrogenase\nC. Chloramphenicol O-acetyltransferase\nD. Outer membrane porin F\nE. Chloramphenicolase",
+        "choices": {
+            "A": "Dipeptide and tripeptide permease A",
+            "B": "Glycerol-3-phosphate dehydrogenase",
+            "C": "Chloramphenicol O-acetyltransferase",
+            "D": "Outer membrane porin F",
+            "E": "Chloramphenicolase"
+        },
+        "raw_answer": "Glycerol-3-phosphate dehydrogenase",
+        "answer": "B. Glycerol-3-phosphate dehydrogenase",
+        "answer_idx": 1,
+        "query": "In Erysipelothrix rhusiopathiae, which specific enzyme is primarily implicated in the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, thereby altering its pharmacological activity?\nA. Dipeptide and tripeptide permease A\nB. Glycerol-3-phosphate dehydrogenase\nC. Chloramphenicol O-acetyltransferase\nD. Outer membrane porin F\nE. Chloramphenicolase",
+        "meta_info": {
+            "source_row": 1337,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Glycerol-3-phosphate dehydrogenase in Erysipelothrix rhusiopathiae is identified as responsible for: Metabolic modification of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 39,
+        "pid": "39",
+        "question": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the benzodiazepine drug clonazepam, functioning as a key nitroreductase in this transformation?\nA. Cytidine deaminase\nB. Azoreductase\nC. Oxygen-insensitive NADPH nitroreductase B\nD. Dipeptide and tripeptide permease C\nE. Chloramphenicolase",
+        "choices": {
+            "A": "Cytidine deaminase",
+            "B": "Azoreductase",
+            "C": "Oxygen-insensitive NADPH nitroreductase B",
+            "D": "Dipeptide and tripeptide permease C",
+            "E": "Chloramphenicolase"
+        },
+        "raw_answer": "Oxygen-insensitive NADPH nitroreductase B",
+        "answer": "C. Oxygen-insensitive NADPH nitroreductase B",
+        "answer_idx": 2,
+        "query": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the benzodiazepine drug clonazepam, functioning as a key nitroreductase in this transformation?\nA. Cytidine deaminase\nB. Azoreductase\nC. Oxygen-insensitive NADPH nitroreductase B\nD. Dipeptide and tripeptide permease C\nE. Chloramphenicolase",
+        "meta_info": {
+            "source_row": 1445,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Oxygen-insensitive NADPH nitroreductase B in Escherichia coli is identified as responsible for: Metabolic modification of Clonazepam.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 40,
+        "pid": "40",
+        "question": "In Bacteroides ovatus, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin by hydrolyzing its β-lactam ring?\nA. Beta-lactamase\nB. Sucrose phosphorylase\nC. GH3 Beta-glucosidase\nD. Tyrosine decarboxylase\nE. N-acetylneuraminate lyase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Sucrose phosphorylase",
+            "C": "GH3 Beta-glucosidase",
+            "D": "Tyrosine decarboxylase",
+            "E": "N-acetylneuraminate lyase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Bacteroides ovatus, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin by hydrolyzing its β-lactam ring?\nA. Beta-lactamase\nB. Sucrose phosphorylase\nC. GH3 Beta-glucosidase\nD. Tyrosine decarboxylase\nE. N-acetylneuraminate lyase",
+        "meta_info": {
+            "source_row": 1250,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides ovatus is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 41,
+        "pid": "41",
+        "question": "In the oral anaerobe Treponema vincentii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, leading to its depolymerization and degradation in the host environment?\nA. Catechol-2,3-dioxygenase\nB. ATP-dependent 6-phosphofructokinase\nC. Protein DrgA\nD. Hyaluronoglucosaminidase\nE. N-acetylneuraminate lyase",
+        "choices": {
+            "A": "Catechol-2,3-dioxygenase",
+            "B": "ATP-dependent 6-phosphofructokinase",
+            "C": "Protein DrgA",
+            "D": "Hyaluronoglucosaminidase",
+            "E": "N-acetylneuraminate lyase"
+        },
+        "raw_answer": "Hyaluronoglucosaminidase",
+        "answer": "D. Hyaluronoglucosaminidase",
+        "answer_idx": 3,
+        "query": "In the oral anaerobe Treponema vincentii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulphate, leading to its depolymerization and degradation in the host environment?\nA. Catechol-2,3-dioxygenase\nB. ATP-dependent 6-phosphofructokinase\nC. Protein DrgA\nD. Hyaluronoglucosaminidase\nE. N-acetylneuraminate lyase",
+        "meta_info": {
+            "source_row": 1377,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Hyaluronoglucosaminidase in Treponema vincentii is identified as responsible for: Metabolic modification of Chondroitin sulphate.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 42,
+        "pid": "42",
+        "question": "In Klebsiella pneumoniae, metabolic modification of the antimicrobial combination drug cotrimoxazole by a specific microbial enzyme can alter its pharmacological effectiveness. Which bacterial enzyme is most directly responsible for this microbiome-mediated metabolic modification of cotrimoxazole?\nA. Methylthioribose kinase\nB. Cytidine deaminase\nC. Beta-lactamase\nD. S-adenosylhomocysteine nucleosidase\nE. Arylamine N-acetyltransferase",
+        "choices": {
+            "A": "Methylthioribose kinase",
+            "B": "Cytidine deaminase",
+            "C": "Beta-lactamase",
+            "D": "S-adenosylhomocysteine nucleosidase",
+            "E": "Arylamine N-acetyltransferase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Klebsiella pneumoniae, metabolic modification of the antimicrobial combination drug cotrimoxazole by a specific microbial enzyme can alter its pharmacological effectiveness. Which bacterial enzyme is most directly responsible for this microbiome-mediated metabolic modification of cotrimoxazole?\nA. Methylthioribose kinase\nB. Cytidine deaminase\nC. Beta-lactamase\nD. S-adenosylhomocysteine nucleosidase\nE. Arylamine N-acetyltransferase",
+        "meta_info": {
+            "source_row": 1561,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella pneumoniae is identified as responsible for: Metabolic modification of Cotrimoxazole.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 43,
+        "pid": "43",
+        "question": "Which specific bacterial enzyme produced by Proteus penneri is responsible for the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, thereby inactivating the drug?\nA. Dipeptide and tripeptide permease A\nB. Glycerol-3-phosphate dehydrogenase\nC. Chloramphenicol O-acetyltransferase\nD. Outer membrane porin F\nE. Chloramphenicolase",
+        "choices": {
+            "A": "Dipeptide and tripeptide permease A",
+            "B": "Glycerol-3-phosphate dehydrogenase",
+            "C": "Chloramphenicol O-acetyltransferase",
+            "D": "Outer membrane porin F",
+            "E": "Chloramphenicolase"
+        },
+        "raw_answer": "Chloramphenicolase",
+        "answer": "E. Chloramphenicolase",
+        "answer_idx": 4,
+        "query": "Which specific bacterial enzyme produced by Proteus penneri is responsible for the microbiome-mediated metabolic modification of the antibiotic chloramphenicol, thereby inactivating the drug?\nA. Dipeptide and tripeptide permease A\nB. Glycerol-3-phosphate dehydrogenase\nC. Chloramphenicol O-acetyltransferase\nD. Outer membrane porin F\nE. Chloramphenicolase",
+        "meta_info": {
+            "source_row": 1345,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Chloramphenicolase in Proteus penneri is identified as responsible for: Metabolic modification of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 44,
+        "pid": "44",
+        "question": "In Citrobacter freundii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Cytochrome P450 147G1\nB. Beta-lactamase\nC. Cytidine deaminase\nD. Selenium-dependent xanthine dehydrogenase\nE. S-(hydroxymethyl)glutathione dehydrogenase",
+        "choices": {
+            "A": "Cytochrome P450 147G1",
+            "B": "Beta-lactamase",
+            "C": "Cytidine deaminase",
+            "D": "Selenium-dependent xanthine dehydrogenase",
+            "E": "S-(hydroxymethyl)glutathione dehydrogenase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Citrobacter freundii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the cephamycin antibiotic cefoxitin, thereby reducing its antibacterial efficacy?\nA. Cytochrome P450 147G1\nB. Beta-lactamase\nC. Cytidine deaminase\nD. Selenium-dependent xanthine dehydrogenase\nE. S-(hydroxymethyl)glutathione dehydrogenase",
+        "meta_info": {
+            "source_row": 1255,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter freundii is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 45,
+        "pid": "45",
+        "question": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cefoxitin across the outer membrane, thereby influencing its cellular uptake?\nA. Oxygen-insensitive NADPH nitroreductase A\nB. Uracil phosphoribosyltransferase\nC. Outer membrane porin C\nD. Beta-glucuronidase\nE. Organic anion transporting polypeptide 2B1",
+        "choices": {
+            "A": "Oxygen-insensitive NADPH nitroreductase A",
+            "B": "Uracil phosphoribosyltransferase",
+            "C": "Outer membrane porin C",
+            "D": "Beta-glucuronidase",
+            "E": "Organic anion transporting polypeptide 2B1"
+        },
+        "raw_answer": "Outer membrane porin C",
+        "answer": "C. Outer membrane porin C",
+        "answer_idx": 2,
+        "query": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cefoxitin across the outer membrane, thereby influencing its cellular uptake?\nA. Oxygen-insensitive NADPH nitroreductase A\nB. Uracil phosphoribosyltransferase\nC. Outer membrane porin C\nD. Beta-glucuronidase\nE. Organic anion transporting polypeptide 2B1",
+        "meta_info": {
+            "source_row": 1259,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Outer membrane porin C in Escherichia coli is identified as responsible for: Participation in the transport of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 46,
+        "pid": "46",
+        "question": "In Escherichia coli, which specific outer membrane protein is primarily responsible for mediating the participation in the transport of the β-lactam antibiotic cephalothin across the outer membrane?\nA. N-ethylmaleimide reductase\nB. Dipeptide and tripeptide permease B\nC. Glutamate/gamma-aminobutyrate antiporter\nD. Outer membrane porin C\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "choices": {
+            "A": "N-ethylmaleimide reductase",
+            "B": "Dipeptide and tripeptide permease B",
+            "C": "Glutamate/gamma-aminobutyrate antiporter",
+            "D": "Outer membrane porin C",
+            "E": "Oxygen-insensitive NADPH nitroreductase B"
+        },
+        "raw_answer": "Outer membrane porin C",
+        "answer": "D. Outer membrane porin C",
+        "answer_idx": 3,
+        "query": "In Escherichia coli, which specific outer membrane protein is primarily responsible for mediating the participation in the transport of the β-lactam antibiotic cephalothin across the outer membrane?\nA. N-ethylmaleimide reductase\nB. Dipeptide and tripeptide permease B\nC. Glutamate/gamma-aminobutyrate antiporter\nD. Outer membrane porin C\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "meta_info": {
+            "source_row": 1291,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Outer membrane porin C in Escherichia coli is identified as responsible for: Participation in the transport of Cephalothin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 47,
+        "pid": "47",
+        "question": "In Salmonella enterica, which specific microbial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the nitroaromatic prodrug CGI-17341, catalyzing its NADPH-dependent reduction under both aerobic and anaerobic conditions?\nA. Oxygen-insensitive NADPH nitroreductase B\nB. P-glycoprotein 1\nC. Homoserine-O-transsuccinylase\nD. preTA operon\nE. Deazaflavin-dependent nitroreductase",
+        "choices": {
+            "A": "Oxygen-insensitive NADPH nitroreductase B",
+            "B": "P-glycoprotein 1",
+            "C": "Homoserine-O-transsuccinylase",
+            "D": "preTA operon",
+            "E": "Deazaflavin-dependent nitroreductase"
+        },
+        "raw_answer": "Oxygen-insensitive NADPH nitroreductase B",
+        "answer": "A. Oxygen-insensitive NADPH nitroreductase B",
+        "answer_idx": 0,
+        "query": "In Salmonella enterica, which specific microbial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the nitroaromatic prodrug CGI-17341, catalyzing its NADPH-dependent reduction under both aerobic and anaerobic conditions?\nA. Oxygen-insensitive NADPH nitroreductase B\nB. P-glycoprotein 1\nC. Homoserine-O-transsuccinylase\nD. preTA operon\nE. Deazaflavin-dependent nitroreductase",
+        "meta_info": {
+            "source_row": 1328,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Oxygen-insensitive NADPH nitroreductase B in Salmonella enterica is identified as responsible for: Metabolic modification of CGI-17341.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 48,
+        "pid": "48",
+        "question": "In Bacillus megaterium, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the organophosphate insecticide chlorpyrifos, catalyzing its oxidative biotransformation?\nA. Cytochrome P450 21A2\nB. Beta-lactamase\nC. Cytochrome P450 MEG\nD. Cytochrome P450 BM3\nE. Cytochrome P450 102A1",
+        "choices": {
+            "A": "Cytochrome P450 21A2",
+            "B": "Beta-lactamase",
+            "C": "Cytochrome P450 MEG",
+            "D": "Cytochrome P450 BM3",
+            "E": "Cytochrome P450 102A1"
+        },
+        "raw_answer": "Cytochrome P450 BM3",
+        "answer": "D. Cytochrome P450 BM3",
+        "answer_idx": 3,
+        "query": "In Bacillus megaterium, which specific monooxygenase enzyme is primarily responsible for the microbiome-mediated metabolic modification of the organophosphate insecticide chlorpyrifos, catalyzing its oxidative biotransformation?\nA. Cytochrome P450 21A2\nB. Beta-lactamase\nC. Cytochrome P450 MEG\nD. Cytochrome P450 BM3\nE. Cytochrome P450 102A1",
+        "meta_info": {
+            "source_row": 1356,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 BM3 in Bacillus megaterium is identified as responsible for: Metabolic modification of Chlorpyrifos.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 49,
+        "pid": "49",
+        "question": "In Burkholderia multivorans, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cephalothin?\nA. AmpC Beta-lactamase\nB. Cytochrome P450 105D7\nC. Beta-galactosidase LacA\nD. GH3 Beta-glucosidase\nE. Cytochrome P450 monooxygenase 51A",
+        "choices": {
+            "A": "AmpC Beta-lactamase",
+            "B": "Cytochrome P450 105D7",
+            "C": "Beta-galactosidase LacA",
+            "D": "GH3 Beta-glucosidase",
+            "E": "Cytochrome P450 monooxygenase 51A"
+        },
+        "raw_answer": "AmpC Beta-lactamase",
+        "answer": "A. AmpC Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Burkholderia multivorans, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cephalothin?\nA. AmpC Beta-lactamase\nB. Cytochrome P450 105D7\nC. Beta-galactosidase LacA\nD. GH3 Beta-glucosidase\nE. Cytochrome P450 monooxygenase 51A",
+        "meta_info": {
+            "source_row": 1290,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein AmpC Beta-lactamase in Burkholderia multivorans is identified as responsible for: Metabolic modification of Cephalothin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 50,
+        "pid": "50",
+        "question": "Which specific enzyme produced by Empedobacter brevis is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of cephalosporin antibiotics in the gut?\nA. Beta-porphyranase A\nB. Oxygen-insensitive NADPH nitroreductase B\nC. Beta-lactamase\nD. Oligosaccharyltransferase\nE. VanC2 ligase",
+        "choices": {
+            "A": "Beta-porphyranase A",
+            "B": "Oxygen-insensitive NADPH nitroreductase B",
+            "C": "Beta-lactamase",
+            "D": "Oligosaccharyltransferase",
+            "E": "VanC2 ligase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "Which specific enzyme produced by Empedobacter brevis is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of cephalosporin antibiotics in the gut?\nA. Beta-porphyranase A\nB. Oxygen-insensitive NADPH nitroreductase B\nC. Beta-lactamase\nD. Oligosaccharyltransferase\nE. VanC2 ligase",
+        "meta_info": {
+            "source_row": 1287,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Empedobacter brevis is identified as responsible for: Metabolic modification of Cephalosporin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 51,
+        "pid": "51",
+        "question": "In the human gut, Bacteroides thetaiotaomicron has been shown to mediate microbiome-driven metabolic modification of the β-lactam antibiotic cefotaxime, thereby reducing its antibacterial efficacy. Which specific bacterial enzyme is primarily responsible for this metabolic inactivation of cefotaxime by Bacteroides thetaiotaomicron?\nA. Beta-glucosidase\nB. Beta-lactamase\nC. PenA Beta-lactamase\nD. Alpha-L-rhamnosidase\nE. Beta-glucuronidase",
+        "choices": {
+            "A": "Beta-glucosidase",
+            "B": "Beta-lactamase",
+            "C": "PenA Beta-lactamase",
+            "D": "Alpha-L-rhamnosidase",
+            "E": "Beta-glucuronidase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In the human gut, Bacteroides thetaiotaomicron has been shown to mediate microbiome-driven metabolic modification of the β-lactam antibiotic cefotaxime, thereby reducing its antibacterial efficacy. Which specific bacterial enzyme is primarily responsible for this metabolic inactivation of cefotaxime by Bacteroides thetaiotaomicron?\nA. Beta-glucosidase\nB. Beta-lactamase\nC. PenA Beta-lactamase\nD. Alpha-L-rhamnosidase\nE. Beta-glucuronidase",
+        "meta_info": {
+            "source_row": 1236,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides thetaiotaomicron is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 52,
+        "pid": "52",
+        "question": "In Bacillus megaterium, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic ceftiofur by hydrolyzing its beta-lactam ring?\nA. Cytochrome P450 MEG\nB. Beta-lactamase\nC. Cytochrome P450 102A1\nD. Hyaluronidase\nE. Cytochrome P450 BM3",
+        "choices": {
+            "A": "Cytochrome P450 MEG",
+            "B": "Beta-lactamase",
+            "C": "Cytochrome P450 102A1",
+            "D": "Hyaluronidase",
+            "E": "Cytochrome P450 BM3"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Bacillus megaterium, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic ceftiofur by hydrolyzing its beta-lactam ring?\nA. Cytochrome P450 MEG\nB. Beta-lactamase\nC. Cytochrome P450 102A1\nD. Hyaluronidase\nE. Cytochrome P450 BM3",
+        "meta_info": {
+            "source_row": 1270,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacillus megaterium is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 53,
+        "pid": "53",
+        "question": "In Phocaeicola vulgatus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic cefoxitin by hydrolyzing its beta-lactam ring?\nA. Outer membrane porin F\nB. Beta-lactamase\nC. Beta-glucuronidase\nD. Purine nucleoside phosphorylase\nE. Outer membrane porin C",
+        "choices": {
+            "A": "Outer membrane porin F",
+            "B": "Beta-lactamase",
+            "C": "Beta-glucuronidase",
+            "D": "Purine nucleoside phosphorylase",
+            "E": "Outer membrane porin C"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Phocaeicola vulgatus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic cefoxitin by hydrolyzing its beta-lactam ring?\nA. Outer membrane porin F\nB. Beta-lactamase\nC. Beta-glucuronidase\nD. Purine nucleoside phosphorylase\nE. Outer membrane porin C",
+        "meta_info": {
+            "source_row": 1252,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Phocaeicola vulgatus is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 54,
+        "pid": "54",
+        "question": "In Lactobacillus delbrueckii, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the drug DB-053072, given that the transformation involves stereospecific oxidation–reduction of a D-lactate-like moiety?\nA. ATP-dependent 6-phosphofructokinase\nB. Beta-galactosidase\nC. D-Lactate dehydrogenase\nD. Pyruvate oxidase\nE. Sugar ABC superfamily ATP binding cassette transporter",
+        "choices": {
+            "A": "ATP-dependent 6-phosphofructokinase",
+            "B": "Beta-galactosidase",
+            "C": "D-Lactate dehydrogenase",
+            "D": "Pyruvate oxidase",
+            "E": "Sugar ABC superfamily ATP binding cassette transporter"
+        },
+        "raw_answer": "D-Lactate dehydrogenase",
+        "answer": "C. D-Lactate dehydrogenase",
+        "answer_idx": 2,
+        "query": "In Lactobacillus delbrueckii, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the drug DB-053072, given that the transformation involves stereospecific oxidation–reduction of a D-lactate-like moiety?\nA. ATP-dependent 6-phosphofructokinase\nB. Beta-galactosidase\nC. D-Lactate dehydrogenase\nD. Pyruvate oxidase\nE. Sugar ABC superfamily ATP binding cassette transporter",
+        "meta_info": {
+            "source_row": 1808,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein D-Lactate dehydrogenase in Lactobacillus delbrueckii is identified as responsible for: Metabolic modification of DB-053072.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 55,
+        "pid": "55",
+        "question": "Which specific enzyme produced by Peptacetobacter hiranonis is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic Ceftiofur?\nA. Carboxylesterase\nB. Phloroglucinol reductase\nC. Aminoglycoside N-acetyltransferase\nD. Nicotinamidase\nE. Beta-lactamase",
+        "choices": {
+            "A": "Carboxylesterase",
+            "B": "Phloroglucinol reductase",
+            "C": "Aminoglycoside N-acetyltransferase",
+            "D": "Nicotinamidase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "Which specific enzyme produced by Peptacetobacter hiranonis is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the beta-lactam antibiotic Ceftiofur?\nA. Carboxylesterase\nB. Phloroglucinol reductase\nC. Aminoglycoside N-acetyltransferase\nD. Nicotinamidase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1274,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Peptacetobacter hiranonis is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 56,
+        "pid": "56",
+        "question": "In Lactobacillus gasseri, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the antimicrobial peptide colistin, thereby altering its pharmacological properties?\nA. L-malate:NADP(+) oxidoreductase\nB. AmpC Beta-lactamase\nC. Tyrosine decarboxylase\nD. Fructokinase\nE. Endoglucanase Y",
+        "choices": {
+            "A": "L-malate:NADP(+) oxidoreductase",
+            "B": "AmpC Beta-lactamase",
+            "C": "Tyrosine decarboxylase",
+            "D": "Fructokinase",
+            "E": "Endoglucanase Y"
+        },
+        "raw_answer": "Endoglucanase Y",
+        "answer": "E. Endoglucanase Y",
+        "answer_idx": 4,
+        "query": "In Lactobacillus gasseri, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the antimicrobial peptide colistin, thereby altering its pharmacological properties?\nA. L-malate:NADP(+) oxidoreductase\nB. AmpC Beta-lactamase\nC. Tyrosine decarboxylase\nD. Fructokinase\nE. Endoglucanase Y",
+        "meta_info": {
+            "source_row": 1524,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Endoglucanase Y in Lactobacillus gasseri is identified as responsible for: Metabolic modification of Colistin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 57,
+        "pid": "57",
+        "question": "In Acidaminococcus intestini, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Cytochrome P450 21A2\nB. Cytochrome P450 121A1\nC. Carboxypeptidase glutamate 2\nD. Beta-lactamase\nE. preTA operon",
+        "choices": {
+            "A": "Cytochrome P450 21A2",
+            "B": "Cytochrome P450 121A1",
+            "C": "Carboxypeptidase glutamate 2",
+            "D": "Beta-lactamase",
+            "E": "preTA operon"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Acidaminococcus intestini, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Cytochrome P450 21A2\nB. Cytochrome P450 121A1\nC. Carboxypeptidase glutamate 2\nD. Beta-lactamase\nE. preTA operon",
+        "meta_info": {
+            "source_row": 1233,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Acidaminococcus intestini is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 58,
+        "pid": "58",
+        "question": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-driven metabolic modification of the azo-containing drug CTK0H-9987 by catalyzing the reductive cleavage of its azo bond in the gut environment?\nA. Azoreductase\nB. Cytidine deaminase\nC. Outer membrane porin C\nD. Glutamate/gamma-aminobutyrate antiporter\nE. Tyramine oxidase",
+        "choices": {
+            "A": "Azoreductase",
+            "B": "Cytidine deaminase",
+            "C": "Outer membrane porin C",
+            "D": "Glutamate/gamma-aminobutyrate antiporter",
+            "E": "Tyramine oxidase"
+        },
+        "raw_answer": "Azoreductase",
+        "answer": "A. Azoreductase",
+        "answer_idx": 0,
+        "query": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-driven metabolic modification of the azo-containing drug CTK0H-9987 by catalyzing the reductive cleavage of its azo bond in the gut environment?\nA. Azoreductase\nB. Cytidine deaminase\nC. Outer membrane porin C\nD. Glutamate/gamma-aminobutyrate antiporter\nE. Tyramine oxidase",
+        "meta_info": {
+            "source_row": 1567,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Azoreductase in Escherichia coli is identified as responsible for: Metabolic modification of CTK0H-9987.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 59,
+        "pid": "59",
+        "question": "In Eubacterium cellulosolvens, which specific enzyme catalyzes the metabolic modification of the disaccharide cellobiose by epimerizing the configuration at the C2 position of one glucose residue, thereby altering its structural and functional properties in the gut environment?\nA. Sucrose-6-phosphate hydrolase scrB\nB. Ribosomal 23S RNA methyltransferase Erm\nC. Cytochrome P450 51B1\nD. Cellobiose 2-epimerase\nE. VanA ligase",
+        "choices": {
+            "A": "Sucrose-6-phosphate hydrolase scrB",
+            "B": "Ribosomal 23S RNA methyltransferase Erm",
+            "C": "Cytochrome P450 51B1",
+            "D": "Cellobiose 2-epimerase",
+            "E": "VanA ligase"
+        },
+        "raw_answer": "Cellobiose 2-epimerase",
+        "answer": "D. Cellobiose 2-epimerase",
+        "answer_idx": 3,
+        "query": "In Eubacterium cellulosolvens, which specific enzyme catalyzes the metabolic modification of the disaccharide cellobiose by epimerizing the configuration at the C2 position of one glucose residue, thereby altering its structural and functional properties in the gut environment?\nA. Sucrose-6-phosphate hydrolase scrB\nB. Ribosomal 23S RNA methyltransferase Erm\nC. Cytochrome P450 51B1\nD. Cellobiose 2-epimerase\nE. VanA ligase",
+        "meta_info": {
+            "source_row": 1282,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cellobiose 2-epimerase in Eubacterium cellulosolvens is identified as responsible for: Metabolic modification of cellobiose.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 60,
+        "pid": "60",
+        "question": "In Burkholderia multivorans, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime?\nA. Cytochrome P450 125A1\nB. Sucrose-6-phosphate hydrolase scrB\nC. Beta-lactamase\nD. Aminoglycoside N-acetyltransferase\nE. Methylenetetrahydrofolate dehydrogenase",
+        "choices": {
+            "A": "Cytochrome P450 125A1",
+            "B": "Sucrose-6-phosphate hydrolase scrB",
+            "C": "Beta-lactamase",
+            "D": "Aminoglycoside N-acetyltransferase",
+            "E": "Methylenetetrahydrofolate dehydrogenase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Burkholderia multivorans, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime?\nA. Cytochrome P450 125A1\nB. Sucrose-6-phosphate hydrolase scrB\nC. Beta-lactamase\nD. Aminoglycoside N-acetyltransferase\nE. Methylenetetrahydrofolate dehydrogenase",
+        "meta_info": {
+            "source_row": 1239,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Burkholderia multivorans is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 61,
+        "pid": "61",
+        "question": "In Bacillus pumilus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftiofur by hydrolyzing its β-lactam ring?\nA. non-reducing end Alpha-L-arabinofuranosidase\nB. Glyceraldehyde-3-phosphate dehydrogenase\nC. Multiple sugar-binding transport ATP-binding protein msmK\nD. Beta-lactamase\nE. Cytochrome P450 124",
+        "choices": {
+            "A": "non-reducing end Alpha-L-arabinofuranosidase",
+            "B": "Glyceraldehyde-3-phosphate dehydrogenase",
+            "C": "Multiple sugar-binding transport ATP-binding protein msmK",
+            "D": "Beta-lactamase",
+            "E": "Cytochrome P450 124"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Bacillus pumilus, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftiofur by hydrolyzing its β-lactam ring?\nA. non-reducing end Alpha-L-arabinofuranosidase\nB. Glyceraldehyde-3-phosphate dehydrogenase\nC. Multiple sugar-binding transport ATP-binding protein msmK\nD. Beta-lactamase\nE. Cytochrome P450 124",
+        "meta_info": {
+            "source_row": 1271,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacillus pumilus is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 62,
+        "pid": "62",
+        "question": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cephalothin across the outer membrane?\nA. Chloramphenicolase\nB. Glutamate/gamma-aminobutyrate antiporter\nC. Outer membrane porin F\nD. Molybdopterin-dependent enzyme\nE. Aec46",
+        "choices": {
+            "A": "Chloramphenicolase",
+            "B": "Glutamate/gamma-aminobutyrate antiporter",
+            "C": "Outer membrane porin F",
+            "D": "Molybdopterin-dependent enzyme",
+            "E": "Aec46"
+        },
+        "raw_answer": "Outer membrane porin F",
+        "answer": "C. Outer membrane porin F",
+        "answer_idx": 2,
+        "query": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cephalothin across the outer membrane?\nA. Chloramphenicolase\nB. Glutamate/gamma-aminobutyrate antiporter\nC. Outer membrane porin F\nD. Molybdopterin-dependent enzyme\nE. Aec46",
+        "meta_info": {
+            "source_row": 1292,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Outer membrane porin F in Escherichia coli is identified as responsible for: Participation in the transport of Cephalothin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 63,
+        "pid": "63",
+        "question": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the beta-lactam antibiotic cefpirome by hydrolyzing its beta-lactam ring?\nA. Arylamine N-acetyltransferase\nB. preTA operon\nC. Dipeptide and tripeptide permease A\nD. Beta-lactamase\nE. Molybdopterin-dependent enzyme",
+        "choices": {
+            "A": "Arylamine N-acetyltransferase",
+            "B": "preTA operon",
+            "C": "Dipeptide and tripeptide permease A",
+            "D": "Beta-lactamase",
+            "E": "Molybdopterin-dependent enzyme"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the beta-lactam antibiotic cefpirome by hydrolyzing its beta-lactam ring?\nA. Arylamine N-acetyltransferase\nB. preTA operon\nC. Dipeptide and tripeptide permease A\nD. Beta-lactamase\nE. Molybdopterin-dependent enzyme",
+        "meta_info": {
+            "source_row": 1264,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Escherichia coli is identified as responsible for: Metabolic modification of Cefpirome.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 64,
+        "pid": "64",
+        "question": "In Burkholderia multivorans, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cephaloridine?\nA. Carboxylate transporter\nB. PMAT-like transport\nC. Beta-lactamase\nD. Cytochrome P450 MEG\nE. Sulfatase",
+        "choices": {
+            "A": "Carboxylate transporter",
+            "B": "PMAT-like transport",
+            "C": "Beta-lactamase",
+            "D": "Cytochrome P450 MEG",
+            "E": "Sulfatase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Burkholderia multivorans, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cephaloridine?\nA. Carboxylate transporter\nB. PMAT-like transport\nC. Beta-lactamase\nD. Cytochrome P450 MEG\nE. Sulfatase",
+        "meta_info": {
+            "source_row": 1286,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Burkholderia multivorans is identified as responsible for: Metabolic modification of Cephaloridine.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 65,
+        "pid": "65",
+        "question": "In Bacteroides uniformis, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic cephaloridine, leading to its inactivation within the gut environment?\nA. Propanediol dehydrogenase\nB. Beta-lactamase\nC. Hydroxybenzoate 3-monooxygenase\nD. Dipeptide permease D\nE. Glycerol/diol dehydratase",
+        "choices": {
+            "A": "Propanediol dehydrogenase",
+            "B": "Beta-lactamase",
+            "C": "Hydroxybenzoate 3-monooxygenase",
+            "D": "Dipeptide permease D",
+            "E": "Glycerol/diol dehydratase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Bacteroides uniformis, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic cephaloridine, leading to its inactivation within the gut environment?\nA. Propanediol dehydrogenase\nB. Beta-lactamase\nC. Hydroxybenzoate 3-monooxygenase\nD. Dipeptide permease D\nE. Glycerol/diol dehydratase",
+        "meta_info": {
+            "source_row": 1285,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides uniformis is identified as responsible for: Metabolic modification of Cephaloridine.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 66,
+        "pid": "66",
+        "question": "In clinical isolates of Serratia marcescens that mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime, which specific bacterial enzyme is primarily responsible for hydrolyzing the β-lactam ring of this antibiotic and thereby inactivating it?\nA. Beta-galactosidase\nB. Phospholipase C\nC. Fumarate reductase flavoprotein\nD. L-tyrosine decarboxylase\nE. Beta-lactamase",
+        "choices": {
+            "A": "Beta-galactosidase",
+            "B": "Phospholipase C",
+            "C": "Fumarate reductase flavoprotein",
+            "D": "L-tyrosine decarboxylase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "In clinical isolates of Serratia marcescens that mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime, which specific bacterial enzyme is primarily responsible for hydrolyzing the β-lactam ring of this antibiotic and thereby inactivating it?\nA. Beta-galactosidase\nB. Phospholipase C\nC. Fumarate reductase flavoprotein\nD. L-tyrosine decarboxylase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1248,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Serratia marcescens is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 67,
+        "pid": "67",
+        "question": "In Citrobacter braakii, metabolic modification of the cephalosporin antibiotic cefpodoxime can lead to reduced drug efficacy. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of cefpodoxime?\nA. Beta-lactamase\nB. Alpha-N-arabinofuranosidase\nC. Selenium-dependent xanthine dehydrogenase\nD. Nitroreductase\nE. Dextransucrase 2",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Alpha-N-arabinofuranosidase",
+            "C": "Selenium-dependent xanthine dehydrogenase",
+            "D": "Nitroreductase",
+            "E": "Dextransucrase 2"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Citrobacter braakii, metabolic modification of the cephalosporin antibiotic cefpodoxime can lead to reduced drug efficacy. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of cefpodoxime?\nA. Beta-lactamase\nB. Alpha-N-arabinofuranosidase\nC. Selenium-dependent xanthine dehydrogenase\nD. Nitroreductase\nE. Dextransucrase 2",
+        "meta_info": {
+            "source_row": 1267,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter braakii is identified as responsible for: Metabolic modification of Cefpodoxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 68,
+        "pid": "68",
+        "question": "In Azospirillum brasilense, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic ceftiofur, leading to its inactivation by hydrolysis of the β-lactam ring?\nA. Beta-glucuronidase\nB. Linoleic acid reductase\nC. Carboxypeptidase glutamate 2\nD. Cytochrome P450 101D1\nE. Beta-lactamase",
+        "choices": {
+            "A": "Beta-glucuronidase",
+            "B": "Linoleic acid reductase",
+            "C": "Carboxypeptidase glutamate 2",
+            "D": "Cytochrome P450 101D1",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "In Azospirillum brasilense, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic ceftiofur, leading to its inactivation by hydrolysis of the β-lactam ring?\nA. Beta-glucuronidase\nB. Linoleic acid reductase\nC. Carboxypeptidase glutamate 2\nD. Cytochrome P450 101D1\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1269,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Azospirillum brasilense is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 69,
+        "pid": "69",
+        "question": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the cephalosporin antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Beta-lactamase\nB. preTA operon\nC. Carboxylesterase\nD. Glutamate racemase\nE. NADPH-dependent curcumin reductase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "preTA operon",
+            "C": "Carboxylesterase",
+            "D": "Glutamate racemase",
+            "E": "NADPH-dependent curcumin reductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Escherichia coli, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the cephalosporin antibiotic cefotaxime by hydrolyzing its β-lactam ring?\nA. Beta-lactamase\nB. preTA operon\nC. Carboxylesterase\nD. Glutamate racemase\nE. NADPH-dependent curcumin reductase",
+        "meta_info": {
+            "source_row": 1242,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Escherichia coli is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 70,
+        "pid": "70",
+        "question": "In the human gut symbiont Bacteroides thetaiotaomicron, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the small-molecule compound DB-041901 via hydrolysis of its β-linked glycosidic moiety?\nA. Beta-glucosidase\nB. Purine nucleoside phosphorylase\nC. Beta-glucuronidase\nD. Alpha-L-rhamnosidase\nE. Beta-lactamase",
+        "choices": {
+            "A": "Beta-glucosidase",
+            "B": "Purine nucleoside phosphorylase",
+            "C": "Beta-glucuronidase",
+            "D": "Alpha-L-rhamnosidase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-glucosidase",
+        "answer": "A. Beta-glucosidase",
+        "answer_idx": 0,
+        "query": "In the human gut symbiont Bacteroides thetaiotaomicron, which specific microbial enzyme is most likely responsible for the microbiome-mediated metabolic modification of the small-molecule compound DB-041901 via hydrolysis of its β-linked glycosidic moiety?\nA. Beta-glucosidase\nB. Purine nucleoside phosphorylase\nC. Beta-glucuronidase\nD. Alpha-L-rhamnosidase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1803,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-glucosidase in Bacteroides thetaiotaomicron is identified as responsible for: Metabolic modification of DB-041901.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 71,
+        "pid": "71",
+        "question": "In Mycobacterium tuberculosis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and bioactivation of the nitroimidazo-oxazine prodrug CGI-17341, thereby converting it into its pharmacologically active form?\nA. Deazaflavin-dependent nitroreductase\nB. Oxygen-insensitive NADPH nitroreductase A\nC. Cytochrome P450 121A1\nD. Cytochrome P450 142A1\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "choices": {
+            "A": "Deazaflavin-dependent nitroreductase",
+            "B": "Oxygen-insensitive NADPH nitroreductase A",
+            "C": "Cytochrome P450 121A1",
+            "D": "Cytochrome P450 142A1",
+            "E": "Oxygen-insensitive NADPH nitroreductase B"
+        },
+        "raw_answer": "Deazaflavin-dependent nitroreductase",
+        "answer": "A. Deazaflavin-dependent nitroreductase",
+        "answer_idx": 0,
+        "query": "In Mycobacterium tuberculosis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and bioactivation of the nitroimidazo-oxazine prodrug CGI-17341, thereby converting it into its pharmacologically active form?\nA. Deazaflavin-dependent nitroreductase\nB. Oxygen-insensitive NADPH nitroreductase A\nC. Cytochrome P450 121A1\nD. Cytochrome P450 142A1\nE. Oxygen-insensitive NADPH nitroreductase B",
+        "meta_info": {
+            "source_row": 1330,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Deazaflavin-dependent nitroreductase in Mycobacterium tuberculosis is identified as responsible for: Metabolic modification of CGI-17341.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 72,
+        "pid": "72",
+        "question": "Which specific Corynebacterium acnes enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 through reductive cleavage of its azo functional group?\nA. Sodium-dependent dopamine transporter\nB. NADPH-dependent curcumin reductase\nC. Azoreductase\nD. Cytochrome P450 MEG\nE. Glycerol/diol dehydratase",
+        "choices": {
+            "A": "Sodium-dependent dopamine transporter",
+            "B": "NADPH-dependent curcumin reductase",
+            "C": "Azoreductase",
+            "D": "Cytochrome P450 MEG",
+            "E": "Glycerol/diol dehydratase"
+        },
+        "raw_answer": "Azoreductase",
+        "answer": "C. Azoreductase",
+        "answer_idx": 2,
+        "query": "Which specific Corynebacterium acnes enzyme is most likely responsible for the microbiome-mediated metabolic modification of the experimental drug CTK0H-9987 through reductive cleavage of its azo functional group?\nA. Sodium-dependent dopamine transporter\nB. NADPH-dependent curcumin reductase\nC. Azoreductase\nD. Cytochrome P450 MEG\nE. Glycerol/diol dehydratase",
+        "meta_info": {
+            "source_row": 1566,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Azoreductase in Corynebacterium acnes is identified as responsible for: Metabolic modification of CTK0H-9987.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 73,
+        "pid": "73",
+        "question": "In Methanobrevibacter smithii, which specific microbial enzyme is most likely responsible for the microbiome metabolic modification of the antibiotic chloramphenicol through its inactivation, thereby reducing the drug’s antibacterial efficacy?\nA. Outer membrane porin F\nB. Chloramphenicolase\nC. Chloramphenicol O-acetyltransferase\nD. Dipeptide and tripeptide permease A\nE. Glycerol-3-phosphate dehydrogenase",
+        "choices": {
+            "A": "Outer membrane porin F",
+            "B": "Chloramphenicolase",
+            "C": "Chloramphenicol O-acetyltransferase",
+            "D": "Dipeptide and tripeptide permease A",
+            "E": "Glycerol-3-phosphate dehydrogenase"
+        },
+        "raw_answer": "Chloramphenicol O-acetyltransferase",
+        "answer": "C. Chloramphenicol O-acetyltransferase",
+        "answer_idx": 2,
+        "query": "In Methanobrevibacter smithii, which specific microbial enzyme is most likely responsible for the microbiome metabolic modification of the antibiotic chloramphenicol through its inactivation, thereby reducing the drug’s antibacterial efficacy?\nA. Outer membrane porin F\nB. Chloramphenicolase\nC. Chloramphenicol O-acetyltransferase\nD. Dipeptide and tripeptide permease A\nE. Glycerol-3-phosphate dehydrogenase",
+        "meta_info": {
+            "source_row": 1343,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Chloramphenicol O-acetyltransferase in Methanobrevibacter smithii is identified as responsible for: Inactivating of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 74,
+        "pid": "74",
+        "question": "In Acinetobacter baumannii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftazidime, thereby contributing to resistance against this drug?\nA. Breast cancer resistance protein\nB. Fumarate reductase flavoprotein\nC. New delhi metallo-Beta-lactamase NDM-1\nD. Uridine phosphorylase\nE. Beta-lactamase",
+        "choices": {
+            "A": "Breast cancer resistance protein",
+            "B": "Fumarate reductase flavoprotein",
+            "C": "New delhi metallo-Beta-lactamase NDM-1",
+            "D": "Uridine phosphorylase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "In Acinetobacter baumannii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic ceftazidime, thereby contributing to resistance against this drug?\nA. Breast cancer resistance protein\nB. Fumarate reductase flavoprotein\nC. New delhi metallo-Beta-lactamase NDM-1\nD. Uridine phosphorylase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1268,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Acinetobacter baumannii is identified as responsible for: Metabolic modification of Ceftazidine.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 75,
+        "pid": "75",
+        "question": "In Roseomonas gilardii, microbiome-mediated metabolic modification of the β-lactam antibiotic ceftiofur is primarily attributed to the activity of which specific bacterial enzyme that hydrolyzes the β-lactam ring and inactivates the drug?\nA. S-(hydroxymethyl)glutathione dehydrogenase\nB. Beta-lactamase\nC. Methylenetetrahydrofolate reductase\nD. Cytochrome P450 101D1\nE. Alpha-galactosidase",
+        "choices": {
+            "A": "S-(hydroxymethyl)glutathione dehydrogenase",
+            "B": "Beta-lactamase",
+            "C": "Methylenetetrahydrofolate reductase",
+            "D": "Cytochrome P450 101D1",
+            "E": "Alpha-galactosidase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In Roseomonas gilardii, microbiome-mediated metabolic modification of the β-lactam antibiotic ceftiofur is primarily attributed to the activity of which specific bacterial enzyme that hydrolyzes the β-lactam ring and inactivates the drug?\nA. S-(hydroxymethyl)glutathione dehydrogenase\nB. Beta-lactamase\nC. Methylenetetrahydrofolate reductase\nD. Cytochrome P450 101D1\nE. Alpha-galactosidase",
+        "meta_info": {
+            "source_row": 1276,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Roseomonas gilardii is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 76,
+        "pid": "76",
+        "question": "In the context of pharmacomicrobiomic interactions, Bifidobacterium breve has been shown to mediate microbiome metabolic modification of the beta-lactam antibiotic ceftiofur, leading to its enzymatic inactivation. Which specific bacterial enzyme is most likely responsible for this metabolic modification of ceftiofur?\nA. Exo-Alpha-(1->6)-L-arabinofuranosidase\nB. Beta-lactamase\nC. Carboxylic ester hydrolase\nD. Dextransucrase 1\nE. Beta-glucuronidase",
+        "choices": {
+            "A": "Exo-Alpha-(1->6)-L-arabinofuranosidase",
+            "B": "Beta-lactamase",
+            "C": "Carboxylic ester hydrolase",
+            "D": "Dextransucrase 1",
+            "E": "Beta-glucuronidase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "B. Beta-lactamase",
+        "answer_idx": 1,
+        "query": "In the context of pharmacomicrobiomic interactions, Bifidobacterium breve has been shown to mediate microbiome metabolic modification of the beta-lactam antibiotic ceftiofur, leading to its enzymatic inactivation. Which specific bacterial enzyme is most likely responsible for this metabolic modification of ceftiofur?\nA. Exo-Alpha-(1->6)-L-arabinofuranosidase\nB. Beta-lactamase\nC. Carboxylic ester hydrolase\nD. Dextransucrase 1\nE. Beta-glucuronidase",
+        "meta_info": {
+            "source_row": 1273,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bifidobacterium breve is identified as responsible for: Metabolic modification of Ceftiofur.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 77,
+        "pid": "77",
+        "question": "In Parabacteroides distasonis, metabolic modification of the β-lactam antibiotic cefoxitin can diminish its antimicrobial efficacy. Which specific bacterial enzyme is most likely responsible for this microbiome-mediated metabolic modification of cefoxitin?\nA. Cytochrome P450 RauA\nB. Cytochrome P450 102A1\nC. Beta-lactamase\nD. Flavodoxin family protein\nE. Aec46",
+        "choices": {
+            "A": "Cytochrome P450 RauA",
+            "B": "Cytochrome P450 102A1",
+            "C": "Beta-lactamase",
+            "D": "Flavodoxin family protein",
+            "E": "Aec46"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Parabacteroides distasonis, metabolic modification of the β-lactam antibiotic cefoxitin can diminish its antimicrobial efficacy. Which specific bacterial enzyme is most likely responsible for this microbiome-mediated metabolic modification of cefoxitin?\nA. Cytochrome P450 RauA\nB. Cytochrome P450 102A1\nC. Beta-lactamase\nD. Flavodoxin family protein\nE. Aec46",
+        "meta_info": {
+            "source_row": 1262,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Parabacteroides distasonis is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 78,
+        "pid": "78",
+        "question": "In Citrobacter koseri, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime?\nA. NADPH-dependent nitroreductase\nB. Sulfatase\nC. Flavin adenine dinucleotide dehydrogenase\nD. Beta-lactamase\nE. Diol dehydratase",
+        "choices": {
+            "A": "NADPH-dependent nitroreductase",
+            "B": "Sulfatase",
+            "C": "Flavin adenine dinucleotide dehydrogenase",
+            "D": "Beta-lactamase",
+            "E": "Diol dehydratase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Citrobacter koseri, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime?\nA. NADPH-dependent nitroreductase\nB. Sulfatase\nC. Flavin adenine dinucleotide dehydrogenase\nD. Beta-lactamase\nE. Diol dehydratase",
+        "meta_info": {
+            "source_row": 1241,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter koseri is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 79,
+        "pid": "79",
+        "question": "In Acidaminococcus fermentans, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime in the gut environment?\nA. Gal2p\nB. Beta-glucosidase B\nC. Beta-lactamase\nD. Aminoglycoside O-phosphotransferase\nE. Glutamate racemase",
+        "choices": {
+            "A": "Gal2p",
+            "B": "Beta-glucosidase B",
+            "C": "Beta-lactamase",
+            "D": "Aminoglycoside O-phosphotransferase",
+            "E": "Glutamate racemase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Acidaminococcus fermentans, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime in the gut environment?\nA. Gal2p\nB. Beta-glucosidase B\nC. Beta-lactamase\nD. Aminoglycoside O-phosphotransferase\nE. Glutamate racemase",
+        "meta_info": {
+            "source_row": 1232,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Acidaminococcus fermentans is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 80,
+        "pid": "80",
+        "question": "In the human gut, Bacteroides ovatus has been shown to mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime by hydrolyzing its β-lactam ring and thereby reducing its antibacterial activity. Which specific bacterial enzyme is primarily responsible for this metabolic modification of cefotaxime?\nA. PMAT-like transport\nB. Sugar ABC superfamily ATP binding cassette transporter\nC. D-Lactate dehydrogenase\nD. C-glycosidase\nE. Beta-lactamase",
+        "choices": {
+            "A": "PMAT-like transport",
+            "B": "Sugar ABC superfamily ATP binding cassette transporter",
+            "C": "D-Lactate dehydrogenase",
+            "D": "C-glycosidase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "E. Beta-lactamase",
+        "answer_idx": 4,
+        "query": "In the human gut, Bacteroides ovatus has been shown to mediate microbiome metabolic modification of the third-generation cephalosporin cefotaxime by hydrolyzing its β-lactam ring and thereby reducing its antibacterial activity. Which specific bacterial enzyme is primarily responsible for this metabolic modification of cefotaxime?\nA. PMAT-like transport\nB. Sugar ABC superfamily ATP binding cassette transporter\nC. D-Lactate dehydrogenase\nD. C-glycosidase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1235,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Bacteroides ovatus is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 81,
+        "pid": "81",
+        "question": "In Fusobacterium nucleatum, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the drug candidate DB-053072, given its role in catalyzing the interconversion of D-lactate and pyruvate and thereby altering the drug’s metabolic fate?\nA. D-Lactate dehydrogenase\nB. Pyruvate oxidase\nC. Azoreductase\nD. N-acetylneuraminate lyase\nE. Beta-lactamase",
+        "choices": {
+            "A": "D-Lactate dehydrogenase",
+            "B": "Pyruvate oxidase",
+            "C": "Azoreductase",
+            "D": "N-acetylneuraminate lyase",
+            "E": "Beta-lactamase"
+        },
+        "raw_answer": "D-Lactate dehydrogenase",
+        "answer": "A. D-Lactate dehydrogenase",
+        "answer_idx": 0,
+        "query": "In Fusobacterium nucleatum, which specific enzyme is most likely responsible for the microbiome-mediated metabolic modification of the drug candidate DB-053072, given its role in catalyzing the interconversion of D-lactate and pyruvate and thereby altering the drug’s metabolic fate?\nA. D-Lactate dehydrogenase\nB. Pyruvate oxidase\nC. Azoreductase\nD. N-acetylneuraminate lyase\nE. Beta-lactamase",
+        "meta_info": {
+            "source_row": 1805,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein D-Lactate dehydrogenase in Fusobacterium nucleatum is identified as responsible for: Metabolic modification of DB-053072.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 82,
+        "pid": "82",
+        "question": "In Klebsiella pneumoniae, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime, thereby reducing its therapeutic efficacy?\nA. Beta-lactamase\nB. Aminoglycoside 6'-N-acetyltransferase\nC. Molybdopterin-dependent enzyme\nD. S-adenosylhomocysteine nucleosidase\nE. Methylthioribose kinase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Aminoglycoside 6'-N-acetyltransferase",
+            "C": "Molybdopterin-dependent enzyme",
+            "D": "S-adenosylhomocysteine nucleosidase",
+            "E": "Methylthioribose kinase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Klebsiella pneumoniae, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefotaxime, thereby reducing its therapeutic efficacy?\nA. Beta-lactamase\nB. Aminoglycoside 6'-N-acetyltransferase\nC. Molybdopterin-dependent enzyme\nD. S-adenosylhomocysteine nucleosidase\nE. Methylthioribose kinase",
+        "meta_info": {
+            "source_row": 1243,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella pneumoniae is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 83,
+        "pid": "83",
+        "question": "In Methanomassiliicoccus luminyensis, microbiome-mediated metabolic modification of the antibiotic chloramphenicol occurs through enzymatic inactivation of the drug. Which specific bacterial enzyme catalyzes this inactivation by acetylating chloramphenicol?\nA. Chloramphenicol O-acetyltransferase\nB. Chloramphenicolase\nC. Dipeptide and tripeptide permease A\nD. Outer membrane porin F\nE. Glycerol-3-phosphate dehydrogenase",
+        "choices": {
+            "A": "Chloramphenicol O-acetyltransferase",
+            "B": "Chloramphenicolase",
+            "C": "Dipeptide and tripeptide permease A",
+            "D": "Outer membrane porin F",
+            "E": "Glycerol-3-phosphate dehydrogenase"
+        },
+        "raw_answer": "Chloramphenicol O-acetyltransferase",
+        "answer": "A. Chloramphenicol O-acetyltransferase",
+        "answer_idx": 0,
+        "query": "In Methanomassiliicoccus luminyensis, microbiome-mediated metabolic modification of the antibiotic chloramphenicol occurs through enzymatic inactivation of the drug. Which specific bacterial enzyme catalyzes this inactivation by acetylating chloramphenicol?\nA. Chloramphenicol O-acetyltransferase\nB. Chloramphenicolase\nC. Dipeptide and tripeptide permease A\nD. Outer membrane porin F\nE. Glycerol-3-phosphate dehydrogenase",
+        "meta_info": {
+            "source_row": 1344,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Chloramphenicol O-acetyltransferase in Methanomassiliicoccus luminyensis is identified as responsible for: Inactivating of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 84,
+        "pid": "84",
+        "question": "In Ruminococcus flavefaciens, metabolic modification of cellulose involves channeling carbon from glycolytic intermediates into gluconeogenic and anaplerotic pathways to sustain continued fermentation. Which specific enzyme catalyzes the GTP-dependent conversion of oxaloacetate to phosphoenolpyruvate, thereby playing a central role in this metabolic modification of cellulose-derived carbon flux?\nA. Dipeptide and tripeptide permease C\nB. Alpha-L-rhamnosidase\nC. Oxygen-insensitive NAD(P)H nitroreductase\nD. Phosphoenolpyruvate carboxykinase\nE. Aminoglycoside acetyltransferase",
+        "choices": {
+            "A": "Dipeptide and tripeptide permease C",
+            "B": "Alpha-L-rhamnosidase",
+            "C": "Oxygen-insensitive NAD(P)H nitroreductase",
+            "D": "Phosphoenolpyruvate carboxykinase",
+            "E": "Aminoglycoside acetyltransferase"
+        },
+        "raw_answer": "Phosphoenolpyruvate carboxykinase",
+        "answer": "D. Phosphoenolpyruvate carboxykinase",
+        "answer_idx": 3,
+        "query": "In Ruminococcus flavefaciens, metabolic modification of cellulose involves channeling carbon from glycolytic intermediates into gluconeogenic and anaplerotic pathways to sustain continued fermentation. Which specific enzyme catalyzes the GTP-dependent conversion of oxaloacetate to phosphoenolpyruvate, thereby playing a central role in this metabolic modification of cellulose-derived carbon flux?\nA. Dipeptide and tripeptide permease C\nB. Alpha-L-rhamnosidase\nC. Oxygen-insensitive NAD(P)H nitroreductase\nD. Phosphoenolpyruvate carboxykinase\nE. Aminoglycoside acetyltransferase",
+        "meta_info": {
+            "source_row": 1284,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Phosphoenolpyruvate carboxykinase in Ruminococcus flavefaciens is identified as responsible for: Metabolic modification of Cellulose.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 85,
+        "pid": "85",
+        "question": "In Salmonella enterica, which specific outer membrane protein is primarily responsible for mediating transmembrane transport of chloramphenicol, thereby influencing its uptake across the bacterial outer membrane?\nA. preTA operon\nB. Aminoglycoside adenylyltransferase\nC. Outer membrane porin F\nD. Glycerol-3-phosphate dehydrogenase\nE. Homoserine-O-transsuccinylase",
+        "choices": {
+            "A": "preTA operon",
+            "B": "Aminoglycoside adenylyltransferase",
+            "C": "Outer membrane porin F",
+            "D": "Glycerol-3-phosphate dehydrogenase",
+            "E": "Homoserine-O-transsuccinylase"
+        },
+        "raw_answer": "Outer membrane porin F",
+        "answer": "C. Outer membrane porin F",
+        "answer_idx": 2,
+        "query": "In Salmonella enterica, which specific outer membrane protein is primarily responsible for mediating transmembrane transport of chloramphenicol, thereby influencing its uptake across the bacterial outer membrane?\nA. preTA operon\nB. Aminoglycoside adenylyltransferase\nC. Outer membrane porin F\nD. Glycerol-3-phosphate dehydrogenase\nE. Homoserine-O-transsuccinylase",
+        "meta_info": {
+            "source_row": 1346,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Outer membrane porin F in Salmonella enterica is identified as responsible for: Participation in the transport of Chloramphenicol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 86,
+        "pid": "86",
+        "question": "In Citrobacter freundii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefazolin, thereby conferring resistance to this drug?\nA. Beta-lactamase\nB. Beta-glucosidase B\nC. Histidine decarboxylase\nD. Nitroreductase\nE. Retro-nitroreductase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Beta-glucosidase B",
+            "C": "Histidine decarboxylase",
+            "D": "Nitroreductase",
+            "E": "Retro-nitroreductase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Citrobacter freundii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefazolin, thereby conferring resistance to this drug?\nA. Beta-lactamase\nB. Beta-glucosidase B\nC. Histidine decarboxylase\nD. Nitroreductase\nE. Retro-nitroreductase",
+        "meta_info": {
+            "source_row": 1295,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Citrobacter freundii is identified as responsible for: Metabolic modification of Cephazolin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 87,
+        "pid": "87",
+        "question": "In Treponema vincentii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulfate, thereby contributing to its degradation within the host environment?\nA. S-(hydroxymethyl)glutathione dehydrogenase\nB. Phosphotransferase enzyme strB\nC. Hyaluronate lyase\nD. Phosphotransferase enzyme strA\nE. Hyaluronoglucosaminidase",
+        "choices": {
+            "A": "S-(hydroxymethyl)glutathione dehydrogenase",
+            "B": "Phosphotransferase enzyme strB",
+            "C": "Hyaluronate lyase",
+            "D": "Phosphotransferase enzyme strA",
+            "E": "Hyaluronoglucosaminidase"
+        },
+        "raw_answer": "Hyaluronoglucosaminidase",
+        "answer": "E. Hyaluronoglucosaminidase",
+        "answer_idx": 4,
+        "query": "In Treponema vincentii, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of the glycosaminoglycan drug chondroitin sulfate, thereby contributing to its degradation within the host environment?\nA. S-(hydroxymethyl)glutathione dehydrogenase\nB. Phosphotransferase enzyme strB\nC. Hyaluronate lyase\nD. Phosphotransferase enzyme strA\nE. Hyaluronoglucosaminidase",
+        "meta_info": {
+            "source_row": 1374,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Hyaluronoglucosaminidase in Treponema vincentii is identified as responsible for: Metabolic modification of Chondroitin sulfate.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 88,
+        "pid": "88",
+        "question": "In Escherichia coli, which specific bacterial enzyme is primarily responsible for the metabolic modification of conjugated estrogens via deconjugation of their glucuronide moieties, thereby altering their bioavailability and enterohepatic recirculation?\nA. Uracil phosphoribosyltransferase\nB. Glutamate decarboxylase beta\nC. Dipeptide and tripeptide permease B\nD. Beta-glucuronidase\nE. Cytosine deaminase",
+        "choices": {
+            "A": "Uracil phosphoribosyltransferase",
+            "B": "Glutamate decarboxylase beta",
+            "C": "Dipeptide and tripeptide permease B",
+            "D": "Beta-glucuronidase",
+            "E": "Cytosine deaminase"
+        },
+        "raw_answer": "Beta-glucuronidase",
+        "answer": "D. Beta-glucuronidase",
+        "answer_idx": 3,
+        "query": "In Escherichia coli, which specific bacterial enzyme is primarily responsible for the metabolic modification of conjugated estrogens via deconjugation of their glucuronide moieties, thereby altering their bioavailability and enterohepatic recirculation?\nA. Uracil phosphoribosyltransferase\nB. Glutamate decarboxylase beta\nC. Dipeptide and tripeptide permease B\nD. Beta-glucuronidase\nE. Cytosine deaminase",
+        "meta_info": {
+            "source_row": 1558,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-glucuronidase in Escherichia coli is identified as responsible for: Metabolic modification of Conjugated estrogens.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 89,
+        "pid": "89",
+        "question": "In Serratia marcescens, which specific bacterial enzyme is primarily responsible for the metabolic modification and consequent inactivation of the third-generation cephalosporin ceftriaxone, thereby conferring resistance to this antibiotic?\nA. Sodium-dependent serotonin transporter\nB. ATP-binding protein MsmK\nC. FMN-dependent NADPH-azoreductase\nD. Beta-lactamase\nE. Sodium-dependent dopamine transporter",
+        "choices": {
+            "A": "Sodium-dependent serotonin transporter",
+            "B": "ATP-binding protein MsmK",
+            "C": "FMN-dependent NADPH-azoreductase",
+            "D": "Beta-lactamase",
+            "E": "Sodium-dependent dopamine transporter"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Serratia marcescens, which specific bacterial enzyme is primarily responsible for the metabolic modification and consequent inactivation of the third-generation cephalosporin ceftriaxone, thereby conferring resistance to this antibiotic?\nA. Sodium-dependent serotonin transporter\nB. ATP-binding protein MsmK\nC. FMN-dependent NADPH-azoreductase\nD. Beta-lactamase\nE. Sodium-dependent dopamine transporter",
+        "meta_info": {
+            "source_row": 1279,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Serratia marcescens is identified as responsible for: Metabolic modification of Ceftriaxone.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 90,
+        "pid": "90",
+        "question": "In Mycolicibacterium smegmatis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of cholesterol, initiating its oxidative catabolism as part of the bacterial cholesterol degradation pathway?\nA. Glycoside hydrolase family 43 protein\nB. N-hydroxyarylamine O-acetyltransferase\nC. Beta-fructofuranosidase\nD. FMN dependent NADH:quinone oxidoreductase\nE. Cytochrome P450 125A3",
+        "choices": {
+            "A": "Glycoside hydrolase family 43 protein",
+            "B": "N-hydroxyarylamine O-acetyltransferase",
+            "C": "Beta-fructofuranosidase",
+            "D": "FMN dependent NADH:quinone oxidoreductase",
+            "E": "Cytochrome P450 125A3"
+        },
+        "raw_answer": "Cytochrome P450 125A3",
+        "answer": "E. Cytochrome P450 125A3",
+        "answer_idx": 4,
+        "query": "In Mycolicibacterium smegmatis, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification of cholesterol, initiating its oxidative catabolism as part of the bacterial cholesterol degradation pathway?\nA. Glycoside hydrolase family 43 protein\nB. N-hydroxyarylamine O-acetyltransferase\nC. Beta-fructofuranosidase\nD. FMN dependent NADH:quinone oxidoreductase\nE. Cytochrome P450 125A3",
+        "meta_info": {
+            "source_row": 1362,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Cytochrome P450 125A3 in Mycolicibacterium smegmatis is identified as responsible for: Metabolic modification of Cholesterol.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 91,
+        "pid": "91",
+        "question": "Which specific Lactobacillus johnsonii enzyme is responsible for the microbiome-mediated metabolic modification of the antibiotic colistin, thereby altering its pharmacological properties?\nA. Cytochrome P450 RauA\nB. Beta-glucuronidase\nC. Sugar ABC superfamily ATP binding cassette transporter\nD. Protein DrgA\nE. Endoglucanase Y",
+        "choices": {
+            "A": "Cytochrome P450 RauA",
+            "B": "Beta-glucuronidase",
+            "C": "Sugar ABC superfamily ATP binding cassette transporter",
+            "D": "Protein DrgA",
+            "E": "Endoglucanase Y"
+        },
+        "raw_answer": "Endoglucanase Y",
+        "answer": "E. Endoglucanase Y",
+        "answer_idx": 4,
+        "query": "Which specific Lactobacillus johnsonii enzyme is responsible for the microbiome-mediated metabolic modification of the antibiotic colistin, thereby altering its pharmacological properties?\nA. Cytochrome P450 RauA\nB. Beta-glucuronidase\nC. Sugar ABC superfamily ATP binding cassette transporter\nD. Protein DrgA\nE. Endoglucanase Y",
+        "meta_info": {
+            "source_row": 1525,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Endoglucanase Y in Lactobacillus johnsonii is identified as responsible for: Metabolic modification of Colistin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 92,
+        "pid": "92",
+        "question": "In Acinetobacter baumannii, metabolic modification of the β-lactam antibiotic ceftriaxone can occur through hydrolysis of its β-lactam ring, thereby inactivating the drug. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of ceftriaxone?\nA. Beta-lactamase\nB. Dipeptide and tripeptide permease B\nC. Cytochrome P450 125A3\nD. 1,4-Alpha-glucan branching enzyme GlgB\nE. Tripeptidase",
+        "choices": {
+            "A": "Beta-lactamase",
+            "B": "Dipeptide and tripeptide permease B",
+            "C": "Cytochrome P450 125A3",
+            "D": "1,4-Alpha-glucan branching enzyme GlgB",
+            "E": "Tripeptidase"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "A. Beta-lactamase",
+        "answer_idx": 0,
+        "query": "In Acinetobacter baumannii, metabolic modification of the β-lactam antibiotic ceftriaxone can occur through hydrolysis of its β-lactam ring, thereby inactivating the drug. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated metabolic modification of ceftriaxone?\nA. Beta-lactamase\nB. Dipeptide and tripeptide permease B\nC. Cytochrome P450 125A3\nD. 1,4-Alpha-glucan branching enzyme GlgB\nE. Tripeptidase",
+        "meta_info": {
+            "source_row": 1277,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Acinetobacter baumannii is identified as responsible for: Metabolic modification of Ceftriaxone.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 93,
+        "pid": "93",
+        "question": "In the gut microbiome, Eubacterium sp. A-44 has been shown to metabolically modify the isoflavone glycoside daidzin, thereby increasing its bioavailability by cleaving conjugated glucuronide moieties to release the more absorbable aglycone. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated enhancement of daidzin bioavailability?\nA. Beta-glucosidase\nB. Beta-glucuronidase\nC. Beta-galactosidase\nD. Beta-xylosidase\nE. Alpha-N-arabinofuranosidase",
+        "choices": {
+            "A": "Beta-glucosidase",
+            "B": "Beta-glucuronidase",
+            "C": "Beta-galactosidase",
+            "D": "Beta-xylosidase",
+            "E": "Alpha-N-arabinofuranosidase"
+        },
+        "raw_answer": "Beta-glucuronidase",
+        "answer": "B. Beta-glucuronidase",
+        "answer_idx": 1,
+        "query": "In the gut microbiome, Eubacterium sp. A-44 has been shown to metabolically modify the isoflavone glycoside daidzin, thereby increasing its bioavailability by cleaving conjugated glucuronide moieties to release the more absorbable aglycone. Which specific bacterial enzyme is primarily responsible for this microbiome-mediated enhancement of daidzin bioavailability?\nA. Beta-glucosidase\nB. Beta-glucuronidase\nC. Beta-galactosidase\nD. Beta-xylosidase\nE. Alpha-N-arabinofuranosidase",
+        "meta_info": {
+            "source_row": 1703,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-glucuronidase in Eubacterium sp. A-44 is identified as responsible for: Increasing drug bioavailability of Daidzin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 94,
+        "pid": "94",
+        "question": "In Burkholderia cepacia, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic cefotaxime, thereby contributing to its inactivation and resistance?\nA. Retro-nitroreductase\nB. Aldehyde oxidase\nC. Mercaptosuccinate dioxygenase\nD. PenA Beta-lactamase\nE. Glutamate decarboxylase beta",
+        "choices": {
+            "A": "Retro-nitroreductase",
+            "B": "Aldehyde oxidase",
+            "C": "Mercaptosuccinate dioxygenase",
+            "D": "PenA Beta-lactamase",
+            "E": "Glutamate decarboxylase beta"
+        },
+        "raw_answer": "PenA Beta-lactamase",
+        "answer": "D. PenA Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Burkholderia cepacia, which specific bacterial enzyme is primarily responsible for the microbiome-mediated metabolic modification of the β-lactam antibiotic cefotaxime, thereby contributing to its inactivation and resistance?\nA. Retro-nitroreductase\nB. Aldehyde oxidase\nC. Mercaptosuccinate dioxygenase\nD. PenA Beta-lactamase\nE. Glutamate decarboxylase beta",
+        "meta_info": {
+            "source_row": 1238,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein PenA Beta-lactamase in Burkholderia cepacia is identified as responsible for: Metabolic modification of Cefotaxime.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 95,
+        "pid": "95",
+        "question": "In Klebsiella pneumoniae, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and subsequent inactivation of the beta-lactam antibiotic cefoxitin?\nA. Outer membrane porin C\nB. Metallo-Beta-lactamase\nC. Beta-lactamase\nD. Arylamine N-acetyltransferase\nE. Outer membrane porin F",
+        "choices": {
+            "A": "Outer membrane porin C",
+            "B": "Metallo-Beta-lactamase",
+            "C": "Beta-lactamase",
+            "D": "Arylamine N-acetyltransferase",
+            "E": "Outer membrane porin F"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Klebsiella pneumoniae, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and subsequent inactivation of the beta-lactam antibiotic cefoxitin?\nA. Outer membrane porin C\nB. Metallo-Beta-lactamase\nC. Beta-lactamase\nD. Arylamine N-acetyltransferase\nE. Outer membrane porin F",
+        "meta_info": {
+            "source_row": 1260,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella pneumoniae is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 96,
+        "pid": "96",
+        "question": "In Parabacteroides merdae, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefoxitin?\nA. Alcohol dehydrogenase\nB. Beta-porphyranase A\nC. Beta-lactamase\nD. Cytochrome P450 102A1\nE. Cytochrome P450 107W1",
+        "choices": {
+            "A": "Alcohol dehydrogenase",
+            "B": "Beta-porphyranase A",
+            "C": "Beta-lactamase",
+            "D": "Cytochrome P450 102A1",
+            "E": "Cytochrome P450 107W1"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "C. Beta-lactamase",
+        "answer_idx": 2,
+        "query": "In Parabacteroides merdae, which specific enzyme is primarily responsible for the microbiome-mediated metabolic modification and inactivation of the β-lactam antibiotic cefoxitin?\nA. Alcohol dehydrogenase\nB. Beta-porphyranase A\nC. Beta-lactamase\nD. Cytochrome P450 102A1\nE. Cytochrome P450 107W1",
+        "meta_info": {
+            "source_row": 1263,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Parabacteroides merdae is identified as responsible for: Metabolic modification of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 97,
+        "pid": "97",
+        "question": "In Klebsiella variicola, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefpirome?\nA. Carbapenemase\nB. Catechol-2,3-dioxygenase\nC. Phosphotransferase enzyme strB\nD. Beta-lactamase\nE. Cytochrome P450 105D7",
+        "choices": {
+            "A": "Carbapenemase",
+            "B": "Catechol-2,3-dioxygenase",
+            "C": "Phosphotransferase enzyme strB",
+            "D": "Beta-lactamase",
+            "E": "Cytochrome P450 105D7"
+        },
+        "raw_answer": "Beta-lactamase",
+        "answer": "D. Beta-lactamase",
+        "answer_idx": 3,
+        "query": "In Klebsiella variicola, which specific bacterial enzyme is most likely responsible for the microbiome-mediated metabolic modification and consequent inactivation of the β-lactam antibiotic cefpirome?\nA. Carbapenemase\nB. Catechol-2,3-dioxygenase\nC. Phosphotransferase enzyme strB\nD. Beta-lactamase\nE. Cytochrome P450 105D7",
+        "meta_info": {
+            "source_row": 1265,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Beta-lactamase in Klebsiella variicola is identified as responsible for: Metabolic modification of Cefpirome.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 98,
+        "pid": "98",
+        "question": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cefoxitin across the bacterial outer membrane, thereby influencing its uptake and activity?\nA. Outer membrane porin F\nB. Dihydrofolate reductase\nC. Dipeptide and tripeptide permease B\nD. Uracil phosphoribosyltransferase\nE. N-ethylmaleimide reductase",
+        "choices": {
+            "A": "Outer membrane porin F",
+            "B": "Dihydrofolate reductase",
+            "C": "Dipeptide and tripeptide permease B",
+            "D": "Uracil phosphoribosyltransferase",
+            "E": "N-ethylmaleimide reductase"
+        },
+        "raw_answer": "Outer membrane porin F",
+        "answer": "A. Outer membrane porin F",
+        "answer_idx": 0,
+        "query": "In Escherichia coli, which specific outer membrane protein is primarily responsible for participating in the transport of the β-lactam antibiotic cefoxitin across the bacterial outer membrane, thereby influencing its uptake and activity?\nA. Outer membrane porin F\nB. Dihydrofolate reductase\nC. Dipeptide and tripeptide permease B\nD. Uracil phosphoribosyltransferase\nE. N-ethylmaleimide reductase",
+        "meta_info": {
+            "source_row": 1258,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein Outer membrane porin F in Escherichia coli is identified as responsible for: Participation in the transport of Cefoxitin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    },
+    {
+        "annot_id": 99,
+        "pid": "99",
+        "question": "In Streptococcus oralis, which specific membrane-associated enzyme is primarily responsible for the microbiome metabolic modification of the lipopeptide antibiotic daptomycin, by catalyzing the transfer of polar head groups from CDP-activated alcohols to diacylglycerol during phospholipid biosynthesis, thereby altering the bacterial membrane composition and impacting daptomycin activity?\nA. Oxygen-insensitive NAD(P)H nitroreductase\nB. OCT-like transport\nC. Endoglucanase A\nD. NADPH-dependent curcumin reductase\nE. CDP-alcohol phosphatidyltransferase",
+        "choices": {
+            "A": "Oxygen-insensitive NAD(P)H nitroreductase",
+            "B": "OCT-like transport",
+            "C": "Endoglucanase A",
+            "D": "NADPH-dependent curcumin reductase",
+            "E": "CDP-alcohol phosphatidyltransferase"
+        },
+        "raw_answer": "CDP-alcohol phosphatidyltransferase",
+        "answer": "E. CDP-alcohol phosphatidyltransferase",
+        "answer_idx": 4,
+        "query": "In Streptococcus oralis, which specific membrane-associated enzyme is primarily responsible for the microbiome metabolic modification of the lipopeptide antibiotic daptomycin, by catalyzing the transfer of polar head groups from CDP-activated alcohols to diacylglycerol during phospholipid biosynthesis, thereby altering the bacterial membrane composition and impacting daptomycin activity?\nA. Oxygen-insensitive NAD(P)H nitroreductase\nB. OCT-like transport\nC. Endoglucanase A\nD. NADPH-dependent curcumin reductase\nE. CDP-alcohol phosphatidyltransferase",
+        "meta_info": {
+            "source_row": 1788,
+            "type": "MB-Protein_Molecular_Mechanism",
+            "explanation": "The protein CDP-alcohol phosphatidyltransferase in Streptococcus oralis is identified as responsible for: Metabolic modification of Daptomycin.",
+            "generator": "GPT-5.1",
+            "source_file": "5mb-protein_qa.jsonl"
+        }
+    }
+]
