@@ -161,7 +161,7 @@ You can find more benchmarking details in [benchmark.md](assets/docs/benchmark.m
 ## Training
 
 ### Dataset Preparation
-We mix four domains datasets for training: [NQ (Natural Questions)](https://huggingface.co/datasets/RUC-NLPIR/FlashRAG_datasets) for agentic search, [DeepMath-103K](https://huggingface.co/datasets/zwhe99/DeepMath-103K) for mathematical reasoning, [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA) & [MedQA-USMLE](https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options) for general medical-biology reasoning, and our curated microbiome reasoning dataset [HERE](https://huggingface.co/datasets/Eubiota/microbio-bench). (Please remember to access before you run `make_train_data.py`)
+We mix four domains datasets for training: [NQ (Natural Questions)](https://huggingface.co/datasets/RUC-NLPIR/FlashRAG_datasets) for agentic search, [DeepMath-103K](https://huggingface.co/datasets/zwhe99/DeepMath-103K) for mathematical reasoning, [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA) & [MedQA-USMLE](https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options) for general medical-biology reasoning, and our curated [microbiome reasoning](https://huggingface.co/datasets/Eubiota/Microbiome-Reasoning) dataset. (Please remember to access before you run `make_train_data.py`)
 
 ```bash
 # train & validation data with specified ratio
