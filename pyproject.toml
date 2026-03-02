@@ -34,6 +34,8 @@ dependencies = [
   "aiohttp",
   "diskcache",
   "platformdirs",
+  "pandas",
+  "datasets",
 ]
 
 [project.optional-dependencies]

@@ -12,8 +12,8 @@ A modular framework for mechanistic reasoning and experimental design. Eubiota o
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-4A90E2?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/yourusername/science_agent_dev/blob/main/LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/)
+[![License](https://img.shields.io/badge/License-4A90E2?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/lupantech/Eubiota/blob/main/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1)
 [![Website](https://img.shields.io/badge/Website-50C878?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eubiota.ai/)
 [![Demo](https://img.shields.io/badge/Demo-FF9500?style=for-the-badge&logo=rocket&logoColor=white)](https://app.eubiota.ai/)
 
