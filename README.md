@@ -446,10 +446,16 @@ We are grateful for all the help we got from our contributors!
 ## Citation
 
 ```bibtex
-@article{eubiota2026lu,
-    title={Modular Agentic AI for Autonomous Discovery in the Gut Microbiome},
-    author={},
-    journal={arXiv preprint arXiv:TBD},
-    year={2026}
+@article{lu2026eubiota,
+  title = {Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome},
+  author = {Lu, Pan and Gao, Yifan and Peng, William G. and Zhang, Haoxiang and Zhu, Kunlun and Robinson, Elektra K. and Xu, Qixin and Kotaka, Masakazu and Zhang, Harrison G. and Li, Bingxuan and Shiver, Anthony L. and Choi, Yejin and Huang, Kerwyn Casey and Sonnenburg, Justin and Zou, James},
+  journal = {bioRxiv},
+  year = {2026},
+  month = {feb},
+  day = {27},
+  doi = {10.64898/2026.02.27.708412},
+  url = {https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1},
+  publisher = {Cold Spring Harbor Laboratory}
 }
+
 ```
