@@ -3,7 +3,7 @@ Make Training Data Script
 Consolidated script for creating training and validation datasets.
 
 Features:
-- Downloads microbio data from Eubiota/microbio-bench
+- Downloads microbio data from Eubiota/Microbiome-Reasoning
 - Loads math (DeepMath-103K), search (NQ), and general bio (pubmedqa, medqa) datasets
 - Mixes with ratio math:search:general_bio:microbio = 1:2:1:6 (default)
 - Uses ALL microbio data as anchor to control proportions
@@ -21,6 +21,7 @@ Usage:
     python make_train_data.py --mode val
 """
 
+import json
 import os
 import argparse
 import pandas as pd
@@ -198,13 +199,15 @@ def process_microbio_dataset(dataset):
     processed_data = []
 
     for idx, item in enumerate(dataset):
+        raw_meta = item.get('metadata', '{}')
+        extra_info = json.loads(raw_meta) if isinstance(raw_meta, str) else raw_meta
         new_entry = {
             'id': idx,
             'question': item.get('question', ''),
-            'chain': item.get('chain', ''),
-            'result': item.get('result', ''),
+            'chain': '',
+            'result': item.get('ground_truth', ''),
             'source': 'Synthesized MicroBio',
-            'extra_info': item.get('extra_info', {})
+            'extra_info': extra_info,
         }
         processed_data.append(new_entry)
 
@@ -217,15 +220,14 @@ def process_microbio_dataset(dataset):
 # ============================================================================
 
 def load_microbio_train_data():
-    """Load microbio training data from Eubiota/microbio-bench."""
+    """Load microbio training data from Eubiota/Microbiome-Reasoning."""
     print("\n" + "="*70)
-    print("Loading MicroBio training data from Eubiota/microbio-bench...")
+    print("Loading MicroBio training data from Eubiota/Microbiome-Reasoning...")
     print("="*70)
 
     try:
         microbio = datasets.load_dataset(
-            'Eubiota/microbio-bench',
-            data_files='synthesized_microbio_train.parquet',
+            'Eubiota/Microbiome-Reasoning',
             split='train'
         )
         processed = process_microbio_dataset(microbio)
@@ -237,16 +239,15 @@ def load_microbio_train_data():
 
 
 def load_microbio_test_data(n_samples=100):
-    """Load microbio test data from Eubiota/microbio-bench."""
+    """Load microbio test data from Eubiota/Microbiome-Reasoning."""
     print("\n" + "="*70)
     print(f"Loading MicroBio test data ({n_samples} samples)...")
     print("="*70)
 
     try:
         microbio = datasets.load_dataset(
-            'Eubiota/microbio-bench',
-            data_files='synthesized_microbio_test.parquet',
-            split='train'
+            'Eubiota/Microbiome-Reasoning',
+            split='test'
         )
         # Sample n_samples
         if len(microbio) > n_samples:
@@ -380,7 +381,7 @@ def create_train_data(output_dir='data/train', ratio=(1, 2, 1, 6)):
     # 1. Load microbio data first to calculate sample sizes
     microbio_data = load_microbio_train_data()
     if microbio_data is None:
-        raise ValueError("Failed to load microbio data! Please remember to access at https://huggingface.co/datasets/Eubiota/microbio-bench")
+        raise ValueError("Failed to load microbio data! Please remember to access at https://huggingface.co/datasets/Eubiota/Microbiome-Reasoning")
 
     df_microbio = microbio_data.to_pandas()
 
