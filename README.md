@@ -14,8 +14,8 @@ A modular framework for mechanistic reasoning and experimental design. Eubiota o
 </p>
 
 <div align="center">
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://discord.gg/YOUR_INVITE_CODE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/lupantech/status/2028873916966703343"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://discord.com/invite/GCEFSN2RWJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://eubiota.ai/"><img src="https://img.shields.io/badge/Website-50C878?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1"><img src="https://img.shields.io/badge/bioRxiv-Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
   <a href="https://app.eubiota.ai/"><img src="https://img.shields.io/badge/App-FF9500?style=for-the-badge&logo=react&logoColor=white" alt="App"></a>  <a href="https://github.com/lupantech/Eubiota"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
