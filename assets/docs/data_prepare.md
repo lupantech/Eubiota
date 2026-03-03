@@ -1,6 +1,6 @@
 # Dataset Preparation & Customization
 
-This document describes the datasets used for training Science Agent and how to customize the training data mix.
+This document describes the datasets used for training Science Agent and how to customize the training data mix. Overall training and test data preview is at [HERE](https://huggingface.co/datasets/Eubiota/data)
 
 ## 1. Dataset Overview
 
