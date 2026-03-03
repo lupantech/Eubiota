@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/logo_transparent.png" alt="Eubiota Logo" height="63">
+  <a href="https://eubiota.ai/">
+  	<img src="assets/logo_transparent.png" alt="Eubiota Logo" height="63">
+  </a>
 </p>
+
 
 <h1 align="center">
 Eubiota: Agentic AI for Autonomous Microbiome Discovery
